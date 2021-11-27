@@ -46,7 +46,9 @@ li.upper_menu_item {
     }
 
 
-
+    .top_napisy{
+        display:flex;
+    }
 
     li.upper_menu_item:hover {
         
