@@ -2113,10 +2113,15 @@ div#history_div {
 	background: #002f5d;
 	width: 100%;
 	color: #fff;
-	border-bottom: 1px solid #fff;
+	
 	position: relative;
 	z-index: 999;
 
+}
+
+
+.top_info{
+	border-bottom: 1px solid #fff;
 }
 
 .menu_info p {
