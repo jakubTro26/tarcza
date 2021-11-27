@@ -390,6 +390,7 @@ ul#menu-menu1 {
     }
     .show{
         margin:auto;
+        width: 292px;
     }
     .niezwlekaj{
         margin:auto;
@@ -422,12 +423,7 @@ ul#menu-menu1 {
 }
 
 
-@media only screen and (max-width: 400px){
 
-    .show{
-        width: 292px;
-    }
-}
    
 
 @media only screen and (max-width: 1157px) {
