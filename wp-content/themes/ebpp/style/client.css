@@ -1,10 +1,14 @@
-BODY {
+body {
     padding: 0px;
     margin: 0px;
-    position: relative;
+    position: fixed;
     font-family: lato, sans-serif;
     text-decoration: none;
    
+}
+
+html{
+    position:fixed;
 }
 
 a, a:link, a:hover {
@@ -352,9 +356,7 @@ ul#menu-menu1 {
     padding:5px;
 }
 
-body,html{
-    position:fixed;
-}
+
 
 @media only screen and (max-width: 1157px) {
     .mobile {
