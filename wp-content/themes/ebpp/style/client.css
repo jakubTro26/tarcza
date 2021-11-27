@@ -358,12 +358,8 @@ ul#menu-menu1 {
         display:none;
     }
 
-    #stopka_menus { width: 50%; }
-
-    
-    .stopka_menu_group
-    {
-        width: 45%;	
+    .top_napisy{
+        width:870px;
     }
 
 }
