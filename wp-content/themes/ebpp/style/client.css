@@ -28,11 +28,14 @@ ul#menu-menu-1 {
 }
 
 
-.kontakt{
-    width:600px;
-    height:288px;
-    background:white;
+.wpcf7-form-control{
+    width: 200px;
+}
 
+.kontakt{
+    width: 752px;
+    height: 316px;
+    background: white;
     POSITION: RELATIVE;
     left: 50%;
     transform: translateX(-50%);
