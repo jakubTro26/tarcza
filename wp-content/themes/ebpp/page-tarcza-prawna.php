@@ -60,7 +60,14 @@ src="https://www.facebook.com/tr?id=1527878994231932&ev=PageView&noscript=1"
 		<div><a href="https://tarczadlaciebie.pl/"><img alt="Tarcza dla Ciebie - Jak Wyjść z Długów - pomoc w zadłużeniach" id="top_logo" src="https://tarczadlaciebie.pl/wp-content/uploads/2021/11/p1-1.png"></a></div>
 		<div class="koperta">
 			<a href="mailto:"><img src="https://tarczadlaciebie.pl/wp-content/uploads/2021/11/p2.png"></a>
-			biuro@tarczadlaciebie.pl
+			<p>biuro@tarczadlaciebie.pl</p>
+
+		</div>
+
+		<div>
+			<img src="https://tarczadlaciebie.pl/wp-content/uploads/2021/11/p3.png">
+			<p>791092092</p>
+
 
 		</div>
 	
