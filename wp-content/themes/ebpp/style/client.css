@@ -83,6 +83,12 @@ li.upper_menu_item {
     width: min-content;
 }
 
+.topinfo{
+    display:flex;
+    width: 1000px;
+    margin:auto;
+}
+
 .koperta, .telefon{
     display:flex;
 }
