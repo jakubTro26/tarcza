@@ -2123,9 +2123,11 @@ div#history_div {
 
 
 .menu_info p {
-	float: left;
-	font-weight: bold;
-	font-size: 0.9em;
+    padding-left: 7px;
+    line-height: 3;
+    /* float: left; */
+    font-weight: bold;
+    font-size: 0.9em;
 }
 
 p.mail-kontakt {
