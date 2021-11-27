@@ -368,7 +368,11 @@ ul#menu-menu1 {
     background: #002f5d;
 }
 
-@media only screen and (max-width: 360px) {
+@media only screen and (max-width: 400px) {
+
+    .top_napisy{
+        display:block;
+    }
    
 
 }
