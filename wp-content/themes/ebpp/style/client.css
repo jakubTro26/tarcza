@@ -373,7 +373,12 @@ ul#menu-menu1 {
     .top_napisy{
         display:block;
     }
-   
+    .show{
+        margin:auto;
+    }
+    .niezwlekaj{
+        margin:auto;
+    }
 
 }
 
