@@ -94,6 +94,13 @@ li.upper_menu_item {
     display:flex;
 }
 
+.dane{
+    margin-left: auto;
+    /* right: 0px; */
+    /* position: relative; */
+    display: flex;
+}
+
 .koperta  img{
 
     width: 30px;
