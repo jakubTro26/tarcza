@@ -57,13 +57,13 @@ src="https://www.facebook.com/tr?id=1527878994231932&ev=PageView&noscript=1"
 
 <div id="main_div">
 	<div class="menu_info">
-		<p class="mail-kontakt">Kontakt: 791 092 092</p>
-		<p class="telefon">biuro@tarczadlaciebie.pl</p>
+		<a href="https://tarczadlaciebie.pl/"><img alt="Tarcza dla Ciebie - Jak Wyjść z Długów - pomoc w zadłużeniach" id="top_logo" src="https://tarczadlaciebie.pl/wp-content/uploads/2021/11/p1-1.png"></a>
+		<div class="telefon">biuro@tarczadlaciebie.pl</div>
 	
 	</div>
     <div id="top_div">
 
-        <a href="https://tarczadlaciebie.pl/"><img alt="Tarcza dla Ciebie - Jak Wyjść z Długów - pomoc w zadłużeniach" id="top_logo" src="https://tarczadlaciebie.pl/wp-content/uploads/2021/11/p1-1.png"></a>
+        
         <div id="upper_menu_div">
                 <?php wp_nav_menu( array(
     				'menu' => 'menu1',
