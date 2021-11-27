@@ -75,7 +75,12 @@ li.upper_menu_item {
       }
 
 
+@media (max-width:400px){
 
+    .show{
+        width: 292px;
+    }
+}
     
     li.upper_menu_item:hover {
         
