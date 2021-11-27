@@ -50,6 +50,12 @@ li.upper_menu_item {
         display:flex;
     }
 
+    .mobile{
+        width: 1000px;
+        display: flex;
+    }
+
+
     li.upper_menu_item:hover {
         
         transition-duration: 0.3s;
