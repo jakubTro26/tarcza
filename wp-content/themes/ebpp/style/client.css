@@ -423,7 +423,15 @@ ul#menu-menu1 {
 }
 
 
+.show{
 
+    text-align: left;
+    letter-spacing: 1px;
+     width: 220px;
+     font-size: 28px; 
+     color: #fff; 
+    text-shadow: 2px 2px #000;
+}
    
 
 @media only screen and (max-width: 1157px) {
