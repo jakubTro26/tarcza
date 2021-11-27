@@ -2122,7 +2122,15 @@ div#history_div {
 
 
 
-.menu_info p {
+.koperta p {
+    padding-left: 7px;
+    line-height: 3;
+    /* float: left; */
+    font-weight: bold;
+    font-size: 0.9em;
+}
+
+.telefon p {
     padding-left: 7px;
     line-height: 3;
     /* float: left; */
