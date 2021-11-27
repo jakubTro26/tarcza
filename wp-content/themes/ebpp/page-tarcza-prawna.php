@@ -85,7 +85,7 @@ src="https://www.facebook.com/tr?id=1527878994231932&ev=PageView&noscript=1"
 				) ); ?>
             </div><!--menu--> 
     </div>
-	<div id="main_page_picture_div" style="height: 550px; background-image:url('<?php bloginfo('template_directory'); ?>/images/slider2.jpg')">	
+	<div id="main_page_picture_div" style="height: 550px; background: #002f5d;">	
 		
 		
 <div>
