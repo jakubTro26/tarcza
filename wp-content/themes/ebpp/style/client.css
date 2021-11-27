@@ -84,6 +84,13 @@ li.upper_menu_item {
    
 }
 
+.niezwlekaj{
+    text-align: left;
+    font-size: 14px;
+    color: white;
+    width: 299px;
+}
+
 
 .logo{
     width: min-content;
