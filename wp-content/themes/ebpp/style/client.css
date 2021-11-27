@@ -78,6 +78,11 @@ li.upper_menu_item {
    
 }
 
+
+.koperta, .telefon{
+    display:flex;
+}
+
 #upper_menu_div {
     top: 0px;
     right: 0px;
