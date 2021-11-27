@@ -207,19 +207,7 @@ window.location='https://tarczadlaciebie.pl/dziekujemy'
 <div id="zamow_kontakt_na_tle_div">
 <a name="form"></a>
 
-<center>
-<div id="zamow_kontakt_main_div">
 
-
-<div id="zamow_kontakt_top">zamów kontakt</div>
-<div id="zamow_kontakt_top_formularz">
-<div id="zamow_kontakt_top_formularz_inner">
-
-</div>
-</div>
-</div>
-
-</div></center>
 
 <hr style="width: 100%; background: #fff; color: #fff; box-shadow: 1px 2px 6px #000;">
 
