@@ -75,13 +75,7 @@ li.upper_menu_item {
 }
 
 #top_logo {
-    display: inline;
-    float: left;
-    margin-left: 20px;
-    position: absolute;
-    left: 5%;
-    width: 9%;
-    bottom: 8%;
+   
 }
 
 #upper_menu_div {
