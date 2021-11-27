@@ -53,7 +53,7 @@ src="https://www.facebook.com/tr?id=1527878994231932&ev=PageView&noscript=1"
 
 </head>
 
-<body style="background: #f0f0f0;" cz-shortcut-listen="true">
+<body style="min-width: fit-content;background: #f0f0f0;" cz-shortcut-listen="true">
 
 <div id="main_div">
 	<div class="menu_info">
