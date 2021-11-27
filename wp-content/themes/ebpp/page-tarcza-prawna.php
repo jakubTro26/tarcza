@@ -85,13 +85,26 @@ src="https://www.facebook.com/tr?id=1527878994231932&ev=PageView&noscript=1"
 				) ); ?>
             </div><!--menu--> 
     </div>
-	<div id="main_page_picture_div" style="height: 550px; background: #002f5d;">	
-		
-		
-<div>
-<h3 style="text-align: center; font-size: 28px; color: #fff; text-shadow: 2px 2px #000;" class="show mobile">DDarmowa pomoc prawna dla zadłużonych.</h3><br><h3 style="text-align: center; position: absolute; width: 100%; bottom: 0; color: #fff; text-shadow: 2px 2px #000;" class="show">Zostaw swój kontakt a nasz doradca prawny oddzwoni do Ciebie z propozycją KONKRETNYCH rozwiązań.</h3>
-</div>		</div>		
-		
+
+	<div id="main_page_picture_div" style="height: 550px; background: #002f5d;">		
+		<div class="top_napisy">
+			<h3 style="text-align: center; font-size: 28px; color: #fff; text-shadow: 2px 2px #000;" class="show mobile">Opieka prawna na najwyższym poziomie</h3>
+			<div class="niezwlekaj">Nie zwlekaj i skorzystaj z oferty tarczy już teraz! Zamów kontakt a nasz doradca oddzwoni niezwłocznie.</div>
+			<div class="dostep">
+				<img src="https://tarczadlaciebie.pl/wp-content/uploads/2021/11/p4.png">
+				<div>
+					Nielimitowany dostęp do opiekuna prawnego
+				</div>
+			</div>
+			<div class="finansowanie">
+				<img src="https://tarczadlaciebie.pl/wp-content/uploads/2021/11/p5.png">
+				<div>
+					Finansowanie bez zbędnych formalności
+				</div>
+			</div>
+		</div>		
+	</div>		
+
 	
 
 
