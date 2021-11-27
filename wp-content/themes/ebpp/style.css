@@ -2321,10 +2321,7 @@ p.telefon {
 		color: #fff !important;
 	}
 
-	#main_page_picture_div h3 {
-		color: #000 !important;
-		text-shadow: none !important;
-	}
+	
 
 	#main_page_picture_div.mobile {
 		max-height: 1200px;
