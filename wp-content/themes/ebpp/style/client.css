@@ -354,8 +354,8 @@ ul#menu-menu1 {
 
 
 @media only screen and (max-width: 1157px) {
-    #stopka_logo {
-        float: none;
+    .mobile {
+        display:none;
     }
 
     #stopka_menus { width: 50%; }
