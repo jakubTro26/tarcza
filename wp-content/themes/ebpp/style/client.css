@@ -65,6 +65,24 @@ li.upper_menu_item {
         display:flex;
     }
 
+    .napis1{
+        margin: 0 0 0 10px;
+        position: relative;
+        top: 50%;
+        color: white;
+        transform: translateY(-50%);
+        width: 174px;
+    }
+
+    .napis2{
+        margin: 0 0 0 10px;
+        position: relative;
+        top: 50%;
+        color: white;
+        transform: translateY(-50%);
+        width: 174px;
+    }
+
 
     li.upper_menu_item_sub:hover {
         background-color: #d51426;
