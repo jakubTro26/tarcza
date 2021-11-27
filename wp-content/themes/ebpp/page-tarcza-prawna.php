@@ -214,7 +214,7 @@ window.location='https://tarczadlaciebie.pl/dziekujemy'
 <div id="zamow_kontakt_top">zamów kontakt</div>
 <div id="zamow_kontakt_top_formularz">
 <div id="zamow_kontakt_top_formularz_inner">
-<?php echo do_shortcode('[contact-form-7 id="97" title="Formularz 1"]'); ?>
+
 </div>
 </div>
 </div>
