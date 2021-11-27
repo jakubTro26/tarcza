@@ -94,6 +94,14 @@ li.upper_menu_item {
     display:flex;
 }
 
+.koperta > img{
+
+    width: 30px;
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
 #upper_menu_div {
     top: 0px;
     right: 0px;
