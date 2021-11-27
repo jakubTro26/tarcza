@@ -79,6 +79,10 @@ li.upper_menu_item {
 }
 
 
+.logo{
+    width: min-content;
+}
+
 .koperta, .telefon{
     display:flex;
 }
