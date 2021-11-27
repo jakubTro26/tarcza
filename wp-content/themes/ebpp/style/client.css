@@ -75,13 +75,7 @@ li.upper_menu_item {
       }
 
 
-@media (max-width:400px){
-
-    .show{
-        width: 292px;
-    }
-}
-    
+ 
     li.upper_menu_item:hover {
         
         transition-duration: 0.3s;
@@ -426,6 +420,15 @@ ul#menu-menu1 {
     
     z-index:9999;
 }
+
+
+@media (max-width:400px){
+
+    .show{
+        width: 292px;
+    }
+}
+   
 
 @media only screen and (max-width: 1157px) {
     #mobile_menu {
