@@ -76,7 +76,7 @@ src="https://www.facebook.com/tr?id=1527878994231932&ev=PageView&noscript=1"
 		
 		
 <div>
-<h3 style="text-align: center; font-size: 28px; color: #fff; text-shadow: 2px 2px #000;" class="show mobile">Darmowa pomoc prawna dla zadłużonych.</h3><br><h3 style="text-align: center; position: absolute; width: 100%; bottom: 0; color: #fff; text-shadow: 2px 2px #000;" class="show">Zostaw swój kontakt a nasz doradca prawny oddzwoni do Ciebie z propozycją KONKRETNYCH rozwiązań.</h3>
+<h3 style="text-align: center; font-size: 28px; color: #fff; text-shadow: 2px 2px #000;" class="show mobile">DDarmowa pomoc prawna dla zadłużonych.</h3><br><h3 style="text-align: center; position: absolute; width: 100%; bottom: 0; color: #fff; text-shadow: 2px 2px #000;" class="show">Zostaw swój kontakt a nasz doradca prawny oddzwoni do Ciebie z propozycją KONKRETNYCH rozwiązań.</h3>
 </div>		</div>		
 		
 	
