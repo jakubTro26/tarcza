@@ -74,6 +74,12 @@ li.upper_menu_item {
       }
 
 
+
+      @media only screen and (max-width: 1157px){
+    .top_napisy {
+     width: 100%;
+        }
+      }
     li.upper_menu_item:hover {
         
         transition-duration: 0.3s;
