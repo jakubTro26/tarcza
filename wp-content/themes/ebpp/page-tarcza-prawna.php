@@ -96,13 +96,13 @@ src="https://www.facebook.com/tr?id=1527878994231932&ev=PageView&noscript=1"
 				<div class="dostep">
 					<img src="https://tarczadlaciebie.pl/wp-content/uploads/2021/11/p4.png">
 					<div>
-						Nielimitowany dostęp do opiekuna prawnego
+						<div class="napis1">Nielimitowany dostęp do opiekuna prawnego</div>
 					</div>
 				</div>
 				<div class="finansowanie">
 					<img src="https://tarczadlaciebie.pl/wp-content/uploads/2021/11/p5.png">
 					<div>
-						Finansowanie bez zbędnych formalności
+						<div class="napis2">Finansowanie bez zbędnych formalności</div>
 					</div>
 				</div>
 			</div>
