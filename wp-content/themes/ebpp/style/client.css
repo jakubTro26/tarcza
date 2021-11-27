@@ -84,6 +84,7 @@ li.upper_menu_item {
 }
 
 .topinfo{
+    border-bottom: 1px solid #fff;
     display:flex;
     width: 1000px;
     margin:auto;
