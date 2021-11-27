@@ -422,7 +422,7 @@ ul#menu-menu1 {
 }
 
 
-@media (max-width:400px){
+@media only screen and (max-width: 400px){
 
     .show{
         width: 292px;
