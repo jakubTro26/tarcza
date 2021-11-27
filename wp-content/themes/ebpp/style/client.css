@@ -26,7 +26,12 @@ ul#menu-menu-1 {
     margin: 0;
 }
 
-
+@media only screen and (max-width: 400px){
+    .top_napisy {
+     width: 100%;
+        }
+      }
+      
 li.upper_menu_item {
     height: 95px;
     width: 5%;
@@ -75,11 +80,7 @@ li.upper_menu_item {
 
 
 
-      @media only screen and (max-width: 400px){
-    .top_napisy {
-     width: 100%;
-        }
-      }
+    
     li.upper_menu_item:hover {
         
         transition-duration: 0.3s;
