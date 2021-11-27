@@ -88,7 +88,7 @@ src="https://www.facebook.com/tr?id=1527878994231932&ev=PageView&noscript=1"
             </div><!--menu--> 
     </div>
 
-	<div id="main_page_picture_div" style="height: 550px; background: #002f5d;">		
+	<div id="" style="height: 550px; background: #002f5d;">		
 		<div class="top_napisy">
 			<div class="grupa1">
 				<h3 style="text-align: left;letter-spacing: 1px; width: 220px;font-size: 28px; color: #fff; text-shadow: 2px 2px #000;" class="show">Opieka prawna na najwyższym poziomie</h3>
