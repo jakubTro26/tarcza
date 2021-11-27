@@ -26,12 +26,8 @@ ul#menu-menu-1 {
     margin: 0;
 }
 
-@media only screen and (max-width: 400px){
-    .top_napisy {
-     width: 100%;
-        }
-      }
-      
+
+
 li.upper_menu_item {
     height: 95px;
     width: 5%;
@@ -391,6 +387,7 @@ ul#menu-menu1 {
 
     .top_napisy{
         display:block;
+        width:100%;
     }
     .show{
         margin:auto;
