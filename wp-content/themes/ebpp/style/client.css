@@ -56,6 +56,16 @@ li.upper_menu_item {
         transition-timing-function: linear;
     }
 
+
+    .dostęp{
+        display:flex;
+    }
+
+    .finansowanie{
+        display:flex;
+    }
+
+
     li.upper_menu_item_sub:hover {
         background-color: #d51426;
         transition-duration: 0.3s;
