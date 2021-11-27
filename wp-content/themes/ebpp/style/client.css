@@ -411,6 +411,18 @@ ul#menu-menu1 {
 
 }
 
+
+
+@media only screen and (max-width: 400px) {
+
+    .grupa2{
+        width:100%;
+        margin:0px;
+    }
+
+}
+
+
 #mobile_menu_icon
 {
     cursor: pointer;			
