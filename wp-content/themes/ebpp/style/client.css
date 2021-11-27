@@ -43,7 +43,7 @@ li.upper_menu_item {
 
 
     li.upper_menu_item:hover {
-        background-color: #d51426;
+        
         transition-duration: 0.3s;
         transition-timing-function: linear;
     }
