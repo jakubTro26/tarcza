@@ -66,7 +66,7 @@ src="https://www.facebook.com/tr?id=1527878994231932&ev=PageView&noscript=1"
 				<p>biuro@tarczadlaciebie.pl</p>
 			</div>
 			<div class="telefon">
-				<img src="https://tarczadlaciebie.pl/wp-content/uploads/2021/11/p3.png">
+				<a href=""><img src="https://tarczadlaciebie.pl/wp-content/uploads/2021/11/p3.png"></a>
 				<p>791092092</p>
 			</div>
 		</div>
