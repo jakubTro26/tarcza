@@ -76,7 +76,8 @@ li.upper_menu_item {
 
 
 .top_napisy{
-    width
+    width: 1000px;
+    margin: auto;
 }
 
 #top_logo {
