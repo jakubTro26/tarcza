@@ -32,6 +32,11 @@ ul#menu-menu-1 {
     width:600px;
     height:600px;
     background:white;
+
+    POSITION: RELATIVE;
+    left: 50%;
+    transform: translateX(-50%);
+    top: 40px;
 }
 
 
