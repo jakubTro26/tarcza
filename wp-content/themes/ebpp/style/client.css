@@ -1,0 +1,348 @@
+BODY {
+    padding: 0px;
+    margin: 0px;
+    position: relative;
+    font-family: lato, sans-serif;
+    text-decoration: none;
+   
+}
+
+a, a:link, a:hover {
+    text-decoration: none!important;
+}
+
+ul#menu-menu-1 {
+    margin: 0;
+}
+
+
+li.upper_menu_item {
+    height: 95px;
+    width: 5%;
+    display: table-cell;
+    padding-top: 45px;
+    padding-left: 10px;
+    padding-right: 10px;
+    background: #002f5d;
+    transition-duration: 0.3s;
+    transition-timing-function: linear;
+}
+
+    li.upper_menu_item a {
+        color: #fff;
+        font-size: 14px;
+        text-decoration: none;
+        line-height: 19px;
+        font-family: lato, sans-serif;
+        font-weight: 500;
+        display: block;
+        height: 75px;
+        width: auto;
+
+    }
+
+
+    li.upper_menu_item:hover {
+        background-color: #d51426;
+        transition-duration: 0.3s;
+        transition-timing-function: linear;
+    }
+
+    li.upper_menu_item_sub:hover {
+        background-color: #d51426;
+        transition-duration: 0.3s;
+        transition-timing-function: linear;
+    }
+
+        li.upper_menu_item:hover a {
+            color: white;
+            font-size: 14px;
+        }
+
+        li.upper_menu_item_sub:hover a {
+            color: white;
+            font-size: 14px;
+        }
+
+#top_div {
+    border-bottom: #284a69 solid 2px;
+    height: 140px;
+    position: relative;
+    background: #002f5d !important;
+    position: relative;
+    z-index: 999;
+    
+}
+
+#top_logo {
+    display: inline;
+    float: left;
+    margin-left: 20px;
+    position: absolute;
+    left: 5%;
+    width: 9%;
+    bottom: 8%;
+}
+
+#upper_menu_div {
+    top: 0px;
+    right: 0px;
+    max-width: 1000px;
+    overflow: hidden;
+    z-index: 99999;
+    margin: 0 auto;
+}
+
+ul#menu-menu1 {
+    margin: 0;
+}
+
+#main_div {
+    text-align: center;
+    position: relative;
+    width: 100%;
+    height: 100%;
+    border-bottom: 1px solid white;
+   
+}
+
+#main_page_picture_div {
+    text-align: center;
+    overflow: hidden;
+    max-height: 1000px;
+    min-height: 284px;
+    background-repeat: no-repeat;
+    background-attachment: local;
+    background-position: center;
+    background-size: cover;
+}
+
+
+#image_page_content {
+    text-align: center;
+    padding: 50px;
+    color: #EFEFEF;
+    min-height: 184px;
+    text-shadow: 1px 1px 1px rgba(0,0,0,0.36);
+  
+    content:" "; 
+    
+    height:100%;
+    vertical-align: middle;
+}
+
+#text_right_side {
+    text-align: left;
+    color: #1B1B1B;
+    font-size: 17px;
+    padding-left: 5px;
+    padding-right: 50px;
+    font-weight: 300;
+    padding-bottom: 50px;
+}
+
+#text_content {
+    text-align: justify;
+    font-size: 17px;
+    padding-left: 60px;
+    padding-right: 50px;
+    font-weight: 300;
+}
+
+#stopka_div
+{
+    background-color:#002f5d;        
+    min-height: 245px;		
+    left:0px;
+    color: #EDEDED;
+    width:100%;
+    vertical-align:top;
+    text-align: center;	
+}
+	
+#stopka_logo
+{
+		
+    min-width:400px;
+		
+    text-align:center;				
+		
+    padding-top:20px;
+    padding-bottom:20px;
+    font-size: 17px;
+    color: #EDEDED;
+    font-family: lato, sans-serif;
+    font-weight: 300;
+    float:left;
+}
+
+#stopka_logo_year
+{
+    margin-top:20px;
+    font-size: 13px;
+    line-height: 16px;
+}
+#stopka_menus
+{
+
+   
+    text-align: center;
+    padding: 10px;	
+}
+
+.stopka_menu_group
+{
+		
+    display:inline-block;
+    padding:3px;
+  
+    vertical-align:top;
+    min-height:90px;
+    min-width:130px;
+    text-align:left;
+    margin-top:10px;
+    white-space: nowrap;
+    
+}
+
+    
+
+	
+.stopka_menu_group_:before{
+    content: '';
+    display: block;
+    
+   
+}
+
+.stopka_menu_group_:after {
+    content: '';
+    display: inline-block;
+    
+}
+
+
+.stopka_menu_group_title
+{
+    color: #EDEDED;
+    background-color: transparent;
+    line-height: 24px;
+    font-size: 20px;
+    text-align: left;
+    font-family: lato, sans-serif;
+    font-weight: 600;
+    padding:5px;
+}
+.stopka_menu_item, .stopka_menu_item a, .stopka_menu_item a:link
+{
+    font-size: 13px;
+    color: #EDEDED;
+    text-align: left;
+    font-weight: 300;
+    text-decoration:none;
+    padding:5px;
+}
+
+
+@media only screen and (max-width: 1157px) {
+    #stopka_logo {
+        float: none;
+    }
+
+    #stopka_menus { width: 50%; }
+
+    
+    .stopka_menu_group
+    {
+        width: 45%;	
+    }
+
+}
+
+#mobile_menu_icon
+{
+    cursor: pointer;			
+    margin:5px;
+}
+#mobile_menu_items
+{
+    display:none;
+    background-color:white;
+    padding:10px;
+    min-width:220px;
+    border:1px solid #cd112c;
+}
+		
+
+#mobile_menu {
+    display: none;
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    
+    z-index:9999;
+}
+
+@media only screen and (max-width: 1157px) {
+    #mobile_menu {
+        display: block;
+    }
+
+    #upper_menu_div {
+        display: none;
+    }
+}
+
+.mobile_menu_item, .mobile_menu_item a
+{
+    color:#cd112c;
+    text-decoration:none;
+    font-size:17px;
+    border-bottom:1px solid #cd112c;
+    line-height:24px;
+}
+
+.mobile_menu_item:last-child ,.mobile_menu_item a:last-child {
+    border-bottom:none;
+}
+
+
+#main_page_picture_div, #stopka_div
+{
+    position:relative;
+    z-index:8900;
+    text-align: center;
+}
+
+@media only screen and (max-width: 1157px) {
+    #text_content {
+        padding-bottom: 10px;
+        padding-left: 40px;
+    }
+
+    #text_right_side {
+        padding-left: 40px;
+        padding-right: 50px;
+    }
+}
+
+.tekst-light {
+    color: #1B1B1B;
+    font-family: lato, sans-serif;
+    font-size: 20px;
+    font-weight: 300;
+    text-align: center;
+    padding: 0px;
+}
+
+.module_title {
+    font-size: 28px;
+    color: #287cac !important;
+    padding: 20px;
+    margin: 20px;
+    border-bottom: 2px solid #287cac;
+}
+
+H3 {
+    font-size: 21px;
+}

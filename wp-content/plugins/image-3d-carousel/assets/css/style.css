@@ -1,0 +1,63 @@
+
+.image-3d .heading {
+  text-align: center;
+  color: #000;
+  margin-bottom: 3rem;
+}
+
+.image-3d-carousel {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+}
+
+.image-3d-carousel .my-image-3d {
+ 
+  position: relative;
+  z-index: 1;
+  -webkit-transform: scale(0.6) translateY(-2rem);
+  transform: scale(0.6) translateY(-2rem);
+  opacity: 0;
+/*  display: none;
+*/  cursor: pointer;
+  pointer-events: none;
+  
+  background: linear-gradient(to top, #2e5266, #6e8898);
+  transition: 1s;
+}
+
+.image-3d-carousel .my-image-3d:after {
+  content: '';
+  position: absolute;
+  height: 2px;
+  width: 100%;
+  border-radius: 100%;
+  background-color: rgba(0,0,0,0.3);
+  bottom: -5rem;
+  -webkit-filter: blur(4px);
+  filter: blur(4px);
+}
+
+.image-3d-carousel .my-image-3d.active {
+  z-index: 3;
+  -webkit-transform: scale(1) translateY(0) translateX(0);
+  transform: scale(1) translateY(0) translateX(0);
+  opacity: 1;
+  pointer-events: auto;
+  transition: 1s;
+  /*display:block;*/
+}
+
+.image-3d-carousel .my-image-3d.prev, .image-3d-carousel .my-image-3d.next {
+  z-index: 2;
+  -webkit-transform: scale(0.8) translateY(-1rem) translateX(0);
+  transform: scale(0.8) translateY(-1rem) translateX(0);
+  opacity: 0.6;
+  pointer-events: auto;
+  transition: 1s;
+  /*display:block;*/
+}
+
+  html body {   overflow-x: hidden;
+ }
