@@ -5222,6 +5222,7 @@ input.wpcf7-form-control.wpcf7-submit {
 
 .wpcf7-submit{
 	width:290px;
+	border-radius:290px;
 }
 
 .obowiazkowe {
