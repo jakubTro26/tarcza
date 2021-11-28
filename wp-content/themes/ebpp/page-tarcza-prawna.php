@@ -88,7 +88,7 @@ src="https://www.facebook.com/tr?id=1527878994231932&ev=PageView&noscript=1"
             </div><!--menu--> 
     </div>
 
-	<div id="" style="height: 550px; background: #002f5d;">		
+	<div id="seconddiv" style="height: 550px; background: #002f5d;">		
 		<div class="top_napisy">
 			<div class="grupa1">
 				<h3 style="" class="show">Opieka prawna na najwyższym poziomie</h3>
@@ -113,6 +113,11 @@ src="https://www.facebook.com/tr?id=1527878994231932&ev=PageView&noscript=1"
 		<?php echo do_shortcode('[contact-form-7 id="97" title="Formularz 1"]'); ?>
 		</div>	
 	</div>		
+	<div class="thirddiv">
+			<div class='specjalizujemy'>
+					Specjalizujemy się w
+			</div>
+	</div>
 
 	
 
