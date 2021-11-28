@@ -554,5 +554,11 @@ H3 {
 
 .thirddiv{
     background:#E5E8EB;
-    height: 500px;
+    
+}
+
+.specjalizujemy{
+    position: relative;
+    top: 83px;
+    font-size: 24px;
 }
