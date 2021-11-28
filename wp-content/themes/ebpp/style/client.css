@@ -572,5 +572,8 @@ H3 {
 }
 
 .orders{
-    width: 70%;
+    
+    width: min-content;
+    display: flex;
+    margin-left: auto;
 }
