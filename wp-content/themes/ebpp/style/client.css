@@ -111,7 +111,15 @@ li.upper_menu_item {
       }
 
 
- 
+      @media (max-width: 800px){
+
+        .kontakt{
+            width:auto;
+        }
+
+      }
+      
+
     li.upper_menu_item:hover {
         
         transition-duration: 0.3s;
