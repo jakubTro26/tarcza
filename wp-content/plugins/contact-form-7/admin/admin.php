@@ -117,7 +117,7 @@ function wpcf7_admin_enqueue_scripts( $hook_suffix ) {
 
 	wp_enqueue_style( 'contact-form-7-admin',
 		wpcf7_plugin_url( 'admin/css/styles.css' ),
-		array(), WPCF7_VERSION, 'all'
+		array(), rand(1,999), 'all'
 	);
 
 	if ( wpcf7_is_rtl() ) {
