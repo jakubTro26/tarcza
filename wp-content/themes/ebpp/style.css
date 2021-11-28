@@ -5165,15 +5165,7 @@ input.wpcf7-form-control.wpcf7-text {
 }
 
 
-@media (max-width: 800px){
 
-
-	.span.wpcf7-form-control-wrap.gora{
-		float:none;
-	}
-
-
-  }
 
 
 span.wpcf7-form-control-wrap.gora {
@@ -5187,7 +5179,7 @@ span.wpcf7-form-control-wrap.gora {
 	.kontakt{
 		width:auto;
 	}
-	.span.wpcf7-form-control-wrap.gora{
+	span.wpcf7-form-control-wrap.gora{
 		float:none;
 	}
 	.gora{
