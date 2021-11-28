@@ -5164,6 +5164,18 @@ input.wpcf7-form-control.wpcf7-text {
 	border: 1px solid #e1dede;
 }
 
+
+@media (max-width: 800px){
+
+
+	.span.wpcf7-form-control-wrap.gora{
+		float:none;
+	}
+
+
+  }
+
+
 span.wpcf7-form-control-wrap.gora {
 	float: left;
 }
