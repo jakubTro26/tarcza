@@ -5174,6 +5174,22 @@ span.wpcf7-form-control-wrap.gora {
 
 
 
+
+  
+
+
+span.wpcf7-form-control-wrap.gora_prawa {
+	float: right;
+}
+
+span.wpcf7-form-control-wrap.dol {
+	clear: both;
+	float: left;
+}
+
+
+
+
 @media (max-width: 800px){
 
 	.kontakt{
@@ -5194,17 +5210,8 @@ span.wpcf7-form-control-wrap.gora {
 
 
   }
-  
 
 
-span.wpcf7-form-control-wrap.gora_prawa {
-	float: right;
-}
-
-span.wpcf7-form-control-wrap.dol {
-	clear: both;
-	float: left;
-}
 
 input.wpcf7-form-control.wpcf7-text.wpcf7-tel.wpcf7-validates-as-required.wpcf7-validates-as-tel {
 	border: 1px solid #e1dede;
