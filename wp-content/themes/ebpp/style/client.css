@@ -111,20 +111,7 @@ li.upper_menu_item {
       }
 
 
-      @media (max-width: 800px){
-
-        .kontakt{
-            width:auto;
-        }
-        .span.wpcf7-form-control-wrap.gora{
-            float:none;
-        }
-        .gora{
-            margin-left:auto;
-        }
-
-      }
-      
+    
 
     li.upper_menu_item:hover {
         

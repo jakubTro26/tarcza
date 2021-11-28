@@ -5168,6 +5168,24 @@ span.wpcf7-form-control-wrap.gora {
 	float: left;
 }
 
+
+
+@media (max-width: 800px){
+
+	.kontakt{
+		width:auto;
+	}
+	.span.wpcf7-form-control-wrap.gora{
+		float:none;
+	}
+	.gora{
+		margin-left:auto;
+	}
+
+  }
+  
+
+
 span.wpcf7-form-control-wrap.gora_prawa {
 	float: right;
 }
