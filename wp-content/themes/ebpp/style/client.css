@@ -116,6 +116,12 @@ li.upper_menu_item {
         .kontakt{
             width:auto;
         }
+        .span.wpcf7-form-control-wrap.gora{
+            float:none;
+        }
+        .gora{
+            margin-left:auto;
+        }
 
       }
       
