@@ -5182,9 +5182,16 @@ span.wpcf7-form-control-wrap.gora {
 	span.wpcf7-form-control-wrap.gora{
 		float:none;
 	}
+	span.wpcf7-form-control-wrap.gora_prawa{
+		float:none;
+	}
 	.gora{
 		margin-left:auto;
 	}
+	.gora_prawa{
+		margin-right:auto;
+	}
+
 
   }
   
