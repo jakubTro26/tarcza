@@ -5201,6 +5201,15 @@ span.wpcf7-form-control-wrap.dol {
 	span.wpcf7-form-control-wrap.gora_prawa{
 		float:none;
 	}
+
+	span.wpcf7-form-control-wrap.dol{
+		float:none;
+	}
+	
+	.dol{
+		margin-left: auto;
+	}
+
 	.gora{
 		margin-left:auto;
 	}
