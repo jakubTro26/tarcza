@@ -554,6 +554,7 @@ H3 {
 
 .thirddiv{
     background:#E5E8EB;
+    height: 664px;
     
 }
 
@@ -579,5 +580,6 @@ H3 {
 }
 
 .rece{
-    width:300px;
+    height: 484px;
+    width: auto;
 }
