@@ -5379,5 +5379,11 @@ a.more-link {
 	.wpcf7-submit{
 		width:auto;
 	}
+	.wpcf7-form{
+		padding:30px;
+	}
+	.wpcf7-form-control{
+		margin:10px;
+	}
 
   }
