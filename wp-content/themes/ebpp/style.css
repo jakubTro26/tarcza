@@ -5220,6 +5220,10 @@ input.wpcf7-form-control.wpcf7-submit {
 	display:block;
 }
 
+.wpcf7-submit{
+	width:290px;
+}
+
 .obowiazkowe {
 	font-size: 10px;
 	color: #ea5252;
