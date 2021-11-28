@@ -5190,35 +5190,7 @@ span.wpcf7-form-control-wrap.dol {
 
 
 
-@media (max-width: 800px){
 
-	.kontakt{
-		width:auto;
-	}
-	span.wpcf7-form-control-wrap.gora{
-		float:none;
-	}
-	span.wpcf7-form-control-wrap.gora_prawa{
-		float:none;
-	}
-
-	span.wpcf7-form-control-wrap.dol{
-		float:none;
-	}
-	
-	.dol{
-		margin-left: auto;
-	}
-
-	.gora{
-		margin-left:auto;
-	}
-	.gora_prawa{
-		margin-right:auto;
-	}
-
-
-  }
 
 
 
@@ -5367,3 +5339,41 @@ a.more-link {
 	width: 60%;
 	margin: 0 auto;
 }
+
+
+
+@media (max-width: 800px){
+
+	.kontakt{
+		width:auto;
+	}
+	span.wpcf7-form-control-wrap.gora{
+		float:none;
+	}
+	span.wpcf7-form-control-wrap.gora_prawa{
+		float:none;
+	}
+
+	span.wpcf7-form-control-wrap.dol{
+		float:none;
+	}
+	
+	.dol{
+		margin-left: auto;
+	}
+
+	.gora{
+		margin-left:auto;
+	}
+	.gora_prawa{
+		margin-right:auto;
+	}
+
+	span.wpcf7-form-control-wrap.your-email{
+		float:none;
+	}
+	.your-email{
+		margin-right:auto;
+	}
+
+  }
