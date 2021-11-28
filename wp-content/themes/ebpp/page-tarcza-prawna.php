@@ -119,46 +119,48 @@ src="https://www.facebook.com/tr?id=1527878994231932&ev=PageView&noscript=1"
 			</div>
 			<div class="uscisk">
 				<img>
-				<div class="u1">
-					<img class="i1" src="https://tarczadlaciebie.pl/wp-content/uploads/2021/11/p6.png">
-					<div class='n1'>
-						Redukcji długów
+				<div class="orders">
+					<div class="u1">
+						<img class="i1" src="https://tarczadlaciebie.pl/wp-content/uploads/2021/11/p6.png">
+						<div class='n1'>
+							Redukcji długów
+						</div>
 					</div>
-				</div>
-				<div  class="u2">
-					<img class="i2" src="https://tarczadlaciebie.pl/wp-content/uploads/2021/11/p6.png">
-					<div class="n2" >
-						Konsolidowaniu w jedną ratę
+					<div  class="u2">
+						<img class="i2" src="https://tarczadlaciebie.pl/wp-content/uploads/2021/11/p6.png">
+						<div class="n2" >
+							Konsolidowaniu w jedną ratę
+						</div>
 					</div>
-				</div>
-				<div  class="u3">
-					<img class="i3" src="https://tarczadlaciebie.pl/wp-content/uploads/2021/11/p6.png">
-					<div class="n3">
-						Ochronie pensji i majątku
+					<div  class="u3">
+						<img class="i3" src="https://tarczadlaciebie.pl/wp-content/uploads/2021/11/p6.png">
+						<div class="n3">
+							Ochronie pensji i majątku
+						</div>
 					</div>
-				</div>
-				<div  class="u4">
-					<img class="i4" src="https://tarczadlaciebie.pl/wp-content/uploads/2021/11/p6.png">
-					<div class="n4">
-						Poprawie historii kredytowej
+					<div  class="u4">
+						<img class="i4" src="https://tarczadlaciebie.pl/wp-content/uploads/2021/11/p6.png">
+						<div class="n4">
+							Poprawie historii kredytowej
+						</div>
 					</div>
-				</div>
-				<div  class="u5" src="https://tarczadlaciebie.pl/wp-content/uploads/2021/11/p6.png">
-					<img class="i5">
-					<div class="n5">
-						Upadłości konsumenckiej
+					<div  class="u5" src="https://tarczadlaciebie.pl/wp-content/uploads/2021/11/p6.png">
+						<img class="i5">
+						<div class="n5">
+							Upadłości konsumenckiej
+						</div>
 					</div>
-				</div>
-				<div  class="u6" >
-					<img class="i6" src="https://tarczadlaciebie.pl/wp-content/uploads/2021/11/p6.png">
-					<div class="n6">
-						Finansowaniu twoich potrzeb
+					<div  class="u6" >
+						<img class="i6" src="https://tarczadlaciebie.pl/wp-content/uploads/2021/11/p6.png">
+						<div class="n6">
+							Finansowaniu twoich potrzeb
+						</div>
 					</div>
-				</div>
-				<div  class="u7">
-					<img class="i7" src="https://tarczadlaciebie.pl/wp-content/uploads/2021/11/p6.png">
-					<div class="n7">
-						Doradztwie antywindykacyjnym
+					<div  class="u7">
+						<img class="i7" src="https://tarczadlaciebie.pl/wp-content/uploads/2021/11/p6.png">
+						<div class="n7">
+							Doradztwie antywindykacyjnym
+						</div>
 					</div>
 				</div>
 			
