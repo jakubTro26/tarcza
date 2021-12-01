@@ -49,11 +49,7 @@ src="https://www.facebook.com/tr?id=1527878994231932&ev=PageView&noscript=1"
 <body cz-shortcut-listen="true">
 
 <div id="main_div">
-	<div class="menu_info">
-		<p class="mail-kontakt">Kontakt: 791 092 092</p>
-		<p class="telefon">biuro@tarczadlaciebie.pl</p>
 	
-	</div>
     <div id="top_div">
 
         <a href="https://tarczadlaciebie.pl/"><img alt="Tarcza dla Ciebie - Jak Wyjść z Długów - pomoc w zadłużeniach" id="top_logo" src="<?php bloginfo('template_directory'); ?>/images/logo.png"></a>
