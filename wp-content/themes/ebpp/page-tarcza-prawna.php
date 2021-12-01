@@ -90,7 +90,7 @@ src="https://www.facebook.com/tr?id=1527878994231932&ev=PageView&noscript=1"
 					) ); ?>
 					</div><!--menu--> 
 			</div>
-		<div id="seconddiv" style="height: 550px; background: #002f5d;">
+		<div id="seconddiv" >
 			<div class="top_napisy">
 				<div class="grupa1">
 					<h3 style="" class="show">Opieka prawna na najwyższym poziomie</h3>
