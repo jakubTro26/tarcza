@@ -627,3 +627,14 @@ H3 {
       width:1124px;
     }
   }
+  @media only screen and (max-width: 1112px) {
+    .wrapper1 {
+      width:1124px;
+    }
+    .uscisk{
+        display:flex;
+    }
+    .thirddiv{
+        height:1811px;
+    }
+  }
