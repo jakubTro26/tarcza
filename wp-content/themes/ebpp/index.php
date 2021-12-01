@@ -128,13 +128,7 @@ window.location='https://tarczadlaciebie.pl/dziekujemy'
 
 </div>
 <div id="jakskorzystac_div">
-<center>
-<p class="module_title">JAK SKORZYSTAĆ Z NASZYCH USŁUG?</p>
 
-<img id="jakskorzystac_image_1" src="<?php bloginfo('template_directory'); ?>/images/jakskorzystac.png">
-
-
-</center>
 
 </div>
 
