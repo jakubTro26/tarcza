@@ -10,7 +10,26 @@ get_header();
 </div>
 
 
-
+<div class="menu_info">
+		<div class="topinfo">
+			<div class="mobile">
+				<div class="logo">
+					<a href="https://tarczadlaciebie.pl/"><img alt="Tarcza dla Ciebie - Jak Wyjść z Długów - pomoc w zadłużeniach" id="top_logo" src="https://tarczadlaciebie.pl/wp-content/uploads/2021/11/p1-1.png"></a>
+				</div>
+				<div class="dane">
+					<div class="koperta">
+						<a href="mailto:"><img src="https://tarczadlaciebie.pl/wp-content/uploads/2021/11/p2.png"></a>
+						<p>biuro@tarczadlaciebie.pl</p>
+					</div>
+					<div class="telefon">
+						<a href=""><img src="https://tarczadlaciebie.pl/wp-content/uploads/2021/11/p3.png"></a>
+						<p>791092092</p>
+					</div>
+				</div>
+			</div>
+		</div>
+	
+	</div>
 
 	
 
