@@ -1,5 +1,5 @@
 
-
+<html>
 
 <head>
     <meta http-equiv="Content-type" content="text/html;charset=UTF-8">
@@ -48,7 +48,7 @@ src="https://www.facebook.com/tr?id=1527878994231932&ev=PageView&noscript=1"
 </head>
 
 
-
+<body>
 <div class="menu_info">
 		<div class="topinfo">
 			<div class="mobile">
@@ -243,3 +243,8 @@ window.location='https://tarczadlaciebie.pl/dziekujemy'
 
 </div>
 <?php get_footer() ?>
+
+</body>
+
+
+</html>
