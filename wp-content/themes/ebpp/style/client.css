@@ -652,3 +652,7 @@ H3 {
   .tlo1{
     background-image: url("https://tarczadlaciebie.pl/wp-content/uploads/2021/12/p12.png");
   }
+
+  #top_bar_kontakt{
+      display:none;
+  }
