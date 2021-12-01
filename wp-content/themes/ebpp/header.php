@@ -73,23 +73,3 @@ src="https://www.facebook.com/tr?id=1527878994231932&ev=PageView&noscript=1"
 		
 	<div id="zamow_kontakt_na_tle_div">
 <a name="form"></a>
-<center>
-<div id="zamow_kontakt_main_div">
-<img src="<?php bloginfo('template_directory'); ?>/images/gwarancja.png" id="procent99">
-
-<div id="zamow_kontakt_top">zamów kontakt</div>
-<div id="zamow_kontakt_top_formularz">
-<div id="zamow_kontakt_top_formularz_inner">
-
-<?php echo do_shortcode('[contact-form-7 id="97" title="Formularz 1"]'); ?>
-</div>
-</div>
-</div>
-<div id="zamow_small_white_buttons">
-<div class="zamow_small_white">
-<img src="<?php bloginfo('template_directory'); ?>/images/opieka.png"><p>Opieka prawna na najwyższym poziomie</p></div>
-<div class="zamow_small_white">
-<img src="<?php bloginfo('template_directory'); ?>/images/dostep.png"><p>Nielimitowany dostęp do opiekuna prawnego</p></div>
-<div class="zamow_small_white">
-<img src="<?php bloginfo('template_directory'); ?>/images/kasa.png"><p>Finansowanie bez zbędnych formalności</p></div>
-</div></center>
