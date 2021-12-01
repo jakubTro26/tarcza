@@ -579,6 +579,13 @@ H3 {
     display:flex;
 }
 
+.n1 span,.n2 span,.n3 span,.n4 span,.n5 span,.n6 span,.n7 span{
+    position: relative;
+    display: block;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
 
 .orders{
     
