@@ -7,18 +7,9 @@ get_header();
 
 ?>
 
-</div></div><div id="text_content">
-<h4> </h4>
-<h4> </h4>
-<h4> </h4>
-<h4> </h4>
-<h4> </h4>
-<h4> </h4>
-<h4> </h4>
-<h4> </h4>
-<h4> </h4>
-<h4> </h4></div>
 </div>
+
+
 
 
 	

@@ -61,15 +61,8 @@ src="https://www.facebook.com/tr?id=1527878994231932&ev=PageView&noscript=1"
 				) ); ?>
             </div><!--menu--> 
     </div>
-	<div id="main_page_picture_div mobile" style="background-image:url('<?php bloginfo('template_directory'); ?>/images/lady-justice-677945.jpg')">	
+	
 		
-		<div id="image_page_content">
-		<h1 style="text-align: center; display: none;">Darmowa pomoc prawna</h1>
-		<h1 style="text-align: center; display: none;">Najlepsze finansowanie</h1>
-		<h1 id="u726-2" style="text-align: center; display: none;">Pożyczka dla przedsiębiorców RESTART-19</h1>
-<div>
-<h3 style="text-align: center;" class="show mobile">Nie zwlekaj i skorzystaj z ochrony Tarczy już teraz.<br>Zamów kontakt a nasz doradca oddzwoni niezwłocznie</h3>
-</div>		</div>		
+			
 		
-	<div id="zamow_kontakt_na_tle_div">
-<a name="form"></a>
+	
