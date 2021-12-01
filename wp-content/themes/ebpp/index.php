@@ -1,6 +1,11 @@
 
 
-<?php get_header(); ?>
+<?php 
+
+// get_header(); 
+
+
+?>
 
 </div></div><div id="text_content">
 <h4> </h4>
@@ -90,27 +95,12 @@ window.location='https://tarczadlaciebie.pl/dziekujemy'
 </script>
 
 
-<div id="jakskorzystac_div">
 
-
-</div>
 
 <script language="javascript">
 </script>
 
-<div id="czy_wiesz_ze" style="padding-bottom:10px">
-<center>
-	<div id="czy_wiesz_ze_items_div">
-		<div class="czy_wiesz_ze_item"><img width="80px" src="<?php bloginfo('template_directory'); ?>/images/quality.png"><p>Czy wiesz, że swoim znajomym i rodzinie poleca nas 7/10 naszych klientów którym doradziliśmy jak wyjść z długów?</p></div>
-		<div class="czy_wiesz_ze_item"><img width="80px" src="<?php bloginfo('template_directory'); ?>/images/quality.png"><p>Czy wiesz, że 99 procent z nich jest zadowolonych z przeprowadzonego z nami procesu oddłużania?</p></div>
-	</div>
 
-	<div style="text-align:center;;" id="button3_div">
-		<button id="button3" class="" onclick="window.location='#form';return(false);">Zamów kontakt z doradcą</button>
-	</div>
-	
-</center>
-</div>
 
 <script language="javascript">
 	function FlipElements_czy_wiesz_ze()
@@ -145,14 +135,7 @@ window.location='https://tarczadlaciebie.pl/dziekujemy'
 
 
 <div id="zaufali_div">
-<center>
-<p class="module_title">POZNAJ HISTORIE NASZYCH KLIENTÓW</p><p>
-</p><div id="zaufali_div_inner">
 
-
-</div>
-
-</center>
 <?php
 
 // echo do_shortcode('[img_gallery_3d id="207"]');
@@ -190,19 +173,7 @@ window.location='https://tarczadlaciebie.pl/dziekujemy'
 </script>
 
 
-<div id="top_bar_kontakt">
-	<div id="inner_top_bar_kontakt">
-		<a href="https://tarczadlaciebie.pl/kontakt"><h3 id="skontaktuj_top">SKONTAKTUJ SIĘ Z NAMI JUŻ TERAZ!</h3></a>
 
-		<div id="formularz_button">
-
-			<a href="https://tarczadlaciebie.pl/kontakt"><img src="<?php bloginfo('template_directory'); ?>/images/skonatkt-ads.png"></a>
-			<div id="top_bar_kontakt_telefon">791 092 092</div>
-			<a href="#zamow_kontakt_na_tle_div"><h3 class="tekst">FORMULARZ</h3></a>
-		</div>
-
-	</div>
-</div>
 	
 
 
