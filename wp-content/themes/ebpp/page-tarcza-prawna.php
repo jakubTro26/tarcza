@@ -111,7 +111,7 @@ src="https://www.facebook.com/tr?id=1527878994231932&ev=PageView&noscript=1"
 		</div>	
 		<div class="kontakt">
 			<div class="ozdoba">
-					<img src="https://tarczadlaciebie.pl/wp-content/uploads/2021/12/p9.png">
+					<img src="https://tarczadlaciebie.pl/wp-content/uploads/2021/12/p8.png">
 			</div>
 		<?php echo do_shortcode('[contact-form-7 id="97" title="Formularz 1"]'); ?>
 		</div>	
@@ -121,7 +121,7 @@ src="https://www.facebook.com/tr?id=1527878994231932&ev=PageView&noscript=1"
 					Specjalizujemy się w
 			</div>
 			<div class="uscisk">
-				<img class="rece"  src="https://tarczadlaciebie.pl/wp-content/uploads/2021/11/p7.png">
+				<img class="rece"  src="https://tarczadlaciebie.pl/wp-content/uploads/2021/11/p9.png">
 				<div class="orders">
 					<div class="column1">
 						<div class="u1">
