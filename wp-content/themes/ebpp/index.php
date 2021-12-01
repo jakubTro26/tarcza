@@ -49,7 +49,7 @@ src="https://www.facebook.com/tr?id=1527878994231932&ev=PageView&noscript=1"
 
 
 <body>
-<div class="menu_info">
+	<div class="menu_info">
 		<div class="topinfo">
 			<div class="mobile">
 				<div class="logo">
@@ -69,7 +69,17 @@ src="https://www.facebook.com/tr?id=1527878994231932&ev=PageView&noscript=1"
 		</div>
 	
 	</div>
+	<div id="top_div">
 
+        
+		<div id="upper_menu_div">
+				<?php wp_nav_menu( array(
+					'menu' => 'menu1',
+					'container' => 'nav',
+					'menu_class' => 'upper_menu_item',
+				) ); ?>
+			</div><!--menu--> 
+	</div>
 
 
 
