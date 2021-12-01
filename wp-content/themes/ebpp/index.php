@@ -89,44 +89,7 @@ window.location='https://tarczadlaciebie.pl/dziekujemy'
 	//$("#side_contact_icon").appendTo("BODY");
 </script>
 
-<div id="wyroznia_div">
 
-
-
-<div class="wyroznia_block">
-	<img class="obrazek_top" src="<?php bloginfo('template_directory'); ?>/images/opieka.png" style="">
-	<div class="wyroznia_block_user">
-	<img class="obrazek_user" src="<?php bloginfo('template_directory'); ?>/images/user.png" style="">
-	<strong><p>"Są skuteczni" - Julita z Barlinka</p></strong></div></div>
-<div class="wyroznia_block">
-	<img class="obrazek_top" src="<?php bloginfo('template_directory'); ?>/images/portfel.png" style="">
-	<div class="wyroznia_block_user">
-	<img class="obrazek_user" src="<?php bloginfo('template_directory'); ?>/images/user2.png" style="">
-	<strong><p>"Są tani" - Rafał z Poznania</p></strong></div></div>
-<div class="wyroznia_block">
-	<img class="obrazek_top" src="<?php bloginfo('template_directory'); ?>/images/kontakt.png" style="">
-	<div class="wyroznia_block_user">
-	<img class="obrazek_user" src="<?php bloginfo('template_directory'); ?>/images/user6.png" style="">
-	<strong><p>"Bardzo fajny kontakt z doradzcą Prawnym" - Lidia z Zabrza</p></strong></div></div>
-<div class="wyroznia_block">
-	<img class="obrazek_top" src="<?php bloginfo('template_directory'); ?>/images/najlepsi.svg" style="">
-	<div class="wyroznia_block_user">
-	<img class="obrazek_user" src="<?php bloginfo('template_directory'); ?>/images/user3.png" style="">
-	<strong><p>"Byłem tak zadowolony, że przekazałem kontakt do Tarczy swojemu szwagrowi" - Dawid z Warszawy</p></strong></div></div>
-<div class="wyroznia_block">
-	<img class="obrazek_top" src="<?php bloginfo('template_directory'); ?>/images/zar2.png" style="">
-	<div class="wyroznia_block_user">
-	<img class="obrazek_user" src="<?php bloginfo('template_directory'); ?>/images/user4.png" style="">
-	<strong><p>"Mają wiedze i doświadczenie" - Vladymir z Przemyśla</p></strong></div></div>
-<div class="wyroznia_block">
-	<img class="obrazek_top" src="<?php bloginfo('template_directory'); ?>/images/innowacyjni.svg" style="">
-	<div class="wyroznia_block_user">
-	<img class="obrazek_user" src="<?php bloginfo('template_directory'); ?>/images/user5.png" style="">
-	<strong><p>"Szybko i sprawnie znalezli finansowanie moich planów restauracyjnych" - Bartłomiej z Iławy</p></strong></div></div>
-
-
-
-</div>
 <div id="jakskorzystac_div">
 
 
