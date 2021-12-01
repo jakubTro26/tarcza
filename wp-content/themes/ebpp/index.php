@@ -193,12 +193,12 @@ window.location='https://tarczadlaciebie.pl/dziekujemy'
 <?php echo do_shortcode('[img_gallery_3d id="207"]');?>
 <div class="galeria_pokaz">
 	<?php
-if ( have_posts() ) :
-while ( have_posts() ) : the_post(229);
-?>
-<?php
-the_content();
-endwhile; endif;
+// if ( have_posts() ) :
+// while ( have_posts() ) : the_post(229);
+// ?>
+ <?php
+// the_content();
+// endwhile; endif;
 ?>
 </div>
 </div>
