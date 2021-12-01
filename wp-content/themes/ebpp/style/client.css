@@ -571,6 +571,7 @@ H3 {
     position: relative;
     top: 83px;
     margin: auto;
+    display:flex;
 }
 
 .orders{
