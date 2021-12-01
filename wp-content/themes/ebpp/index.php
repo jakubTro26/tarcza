@@ -91,7 +91,7 @@ window.location='https://tarczadlaciebie.pl/dziekujemy'
 
 <div id="wyroznia_div">
 
-<div id="wyroznia_text"><h1 style="text-align: center;">KLIENCI CENIĄ NAS ZAA:</h1></div>
+
 
 <div class="wyroznia_block">
 	<img class="obrazek_top" src="<?php bloginfo('template_directory'); ?>/images/opieka.png" style="">
