@@ -1,14 +1,5 @@
 
 
-<?php 
-
-get_header(); 
-
-
-?>
-
-</div>
-
 
 <div class="menu_info">
 		<div class="topinfo">
@@ -30,6 +21,21 @@ get_header();
 		</div>
 	
 	</div>
+
+
+
+
+<?php 
+
+get_header(); 
+
+
+?>
+
+</div>
+
+
+
 
 	
 
