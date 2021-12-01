@@ -574,6 +574,12 @@ H3 {
     display:flex;
 }
 
+
+.u1,.u2,.u3,.u4,.u5,.u6,.u7{
+    display:flex;
+}
+
+
 .orders{
     
     width: min-content;
