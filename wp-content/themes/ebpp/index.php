@@ -190,7 +190,11 @@ window.location='https://tarczadlaciebie.pl/dziekujemy'
 </div>
 
 </center>
-<?php echo do_shortcode('[img_gallery_3d id="207"]');?>
+<?php
+
+// echo do_shortcode('[img_gallery_3d id="207"]');
+
+?>
 <div class="galeria_pokaz">
 	<?php
 // if ( have_posts() ) :
