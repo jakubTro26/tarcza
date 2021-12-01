@@ -124,7 +124,7 @@ src="https://www.facebook.com/tr?id=1527878994231932&ev=PageView&noscript=1"
 						<div class="u1">
 							<img class="i1" src="https://tarczadlaciebie.pl/wp-content/uploads/2021/11/p6.png">
 							<div class='n1'>
-								Redukcji długów
+								Redukcji długóww
 							</div>
 						</div>
 						<div  class="u2">
