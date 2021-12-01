@@ -52,7 +52,7 @@ src="https://www.facebook.com/tr?id=1527878994231932&ev=PageView&noscript=1"
 	
     <div id="top_div">
 
-        <a href="https://tarczadlaciebie.pl/"><img alt="Tarcza dla Ciebie - Jak Wyjść z Długów - pomoc w zadłużeniach" id="top_logo" src="<?php bloginfo('template_directory'); ?>/images/logo.png"></a>
+        
         <div id="upper_menu_div">
                 <?php wp_nav_menu( array(
     				'menu' => 'menu1',
