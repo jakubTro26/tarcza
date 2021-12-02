@@ -739,3 +739,9 @@ H3 {
         height: 1040px;
     }
   }
+
+  @media (max-width:700px) {
+      .column1{
+        padding-right: 37px;
+      }
+  }
