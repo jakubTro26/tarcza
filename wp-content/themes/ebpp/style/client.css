@@ -745,3 +745,12 @@ H3 {
         padding-right: 37px;
       }
   }
+
+  @media (max-width:400px) {
+    .orders{
+        display: block;
+    }
+    .uscisk{
+        height:1303px;
+    }
+}
