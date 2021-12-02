@@ -843,4 +843,10 @@ H3 {
 
 .carousel1{
     display:flex;
+    position: relative;
+    top: 229px;
+}
+
+.wrapper3{
+    width: 1300px;
 }
