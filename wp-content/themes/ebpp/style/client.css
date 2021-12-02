@@ -825,3 +825,10 @@ H3 {
 .pobraz1 img{
     width: 224px;
 }
+
+.problemy {
+    left: 112px;
+    display: flex;
+    position: relative;
+    top: 116.1px;
+}
