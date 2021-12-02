@@ -802,6 +802,16 @@ H3 {
 }
 
 .k1{
+    text-align: left;
+    position: relative;
+    width: 168px;
+    top: 50%;
+    transform: translateY(-50%);
+    margin-left: 29px;
+}
+
+.l1{
+    text-align: left;
     position: relative;
     width: 168px;
     top: 50%;
@@ -810,5 +820,8 @@ H3 {
 }
 
 .mobraz1 img{
-    width: 255px;
+    width: 224px;
+}
+.pobraz1 img{
+    width: 224px;
 }

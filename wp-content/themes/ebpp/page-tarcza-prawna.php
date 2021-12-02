@@ -129,7 +129,7 @@ src="https://www.facebook.com/tr?id=1527878994231932&ev=PageView&noscript=1"
 							<img src="https://tarczadlaciebie.pl/wp-content/uploads/2021/12/shield-dobrze-ze-jestes-2.png">
 					</div>
 					<div class="pnapis1">
-						<div class="k1">
+						<div class="l1">
 							Masz problem ze spłatą zobowiązań ? Straszy Cię windykacja ? <br> Chętnie służymy pomocą i to za DARMO
 						</div>
 					</div>
