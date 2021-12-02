@@ -842,11 +842,14 @@ H3 {
 }
 
 .carousel1{
-    display:flex;
+    display: flex;
     position: relative;
     top: 229px;
+    left: 50%;
+    transform: translateX(-50%);
+    width: min-content;
 }
 
 .wrapper3{
-    width: 1300px;
+    width: 100%;
 }
