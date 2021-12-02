@@ -692,6 +692,13 @@ H3 {
     background-image: url("https://tarczadlaciebie.pl/wp-content/uploads/2021/12/p13.png");
   }
 
+  .zostawkontakt{
+    text-align: left;
+    font-size: 14px;
+    color: white;
+    width: 294px;
+  }
+
   .tlo2{
    
     background-image: url("https://tarczadlaciebie.pl/wp-content/uploads/2021/12/Main-photo-2.png");

@@ -94,7 +94,7 @@ src="https://www.facebook.com/tr?id=1527878994231932&ev=PageView&noscript=1"
 			<div class="top_napisy">
 				<div class="grupa1">
 					<h3 style="" class="show">Darmowa pomoc prawna dla zadłużonych</h3>
-					<div class="niezwlekaj">Zostaw swój konttakt a nasza doradca prawny oddzwoni do Ciebie z propozycją rozwiązań</div>
+					<div class="zostawkontakt">Zostaw swój kontakt a nasza doradca prawny oddzwoni do Ciebie z propozycją rozwiązań</div>
 				</div>
 				<div class="grupa2">
 					<div class="dostep">
