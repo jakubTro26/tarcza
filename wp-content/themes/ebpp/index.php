@@ -350,7 +350,12 @@ window.location='https://tarczadlaciebie.pl/dziekujemy'
 
 
 </div>
-<?php get_footer() ?>
+<?php
+
+// get_footer() ;
+
+
+?>
 
 </body>
 
