@@ -124,7 +124,7 @@ src="https://www.facebook.com/tr?id=1527878994231932&ev=PageView&noscript=1"
 						Dobrze, że tutaj jesteś
 				</div>
 				<div class="przedstawiamy">
-							Przedstawiamy Ci jedyną skuteczną tarczę w dzisiejszych czasach
+							Przedstawiamy Ci jedyną skuteczną tarczę w dzisiejszych ciężkich czasach
 				</div>
 				<div class="uscisk">
 					<img class="rece"  src="https://tarczadlaciebie.pl/wp-content/uploads/2021/12/p10.png">
