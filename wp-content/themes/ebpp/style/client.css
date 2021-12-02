@@ -827,8 +827,16 @@ H3 {
 }
 
 .problemy {
-    left: 112px;
+    left: 663px;
     display: flex;
     position: relative;
-    top: 116.1px;
+    top: 132.1px;
+}
+
+.s1,.s2,.s3,.s4,.s5{
+    height:200px;
+    width:200px;
+    background:white;
+    border-radius:15px;
+
 }
