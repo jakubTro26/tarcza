@@ -252,7 +252,7 @@ li.upper_menu_item {
 #upper_menu_div {
     top: 0px;
     right: 0px;
-    max-width: 1000px;
+    max-width: 1122px;
     overflow: hidden;
     z-index: 99999;
     margin: 0 auto;
@@ -651,6 +651,13 @@ H3 {
   .div1{
       height:2000px;
   }
+
+
+  .menu-menu1{
+    padding-top: 7px;
+    padding-left: 33px;
+  }
+
 
   @media only screen and (max-width: 1084px) {
     .wrapper1 {
