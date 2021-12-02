@@ -57,7 +57,7 @@ ul#menu-menu-1 {
     border-radius: 25px;
     width: 752px;
     height: 316px;
-    background-image: url("https://tarczadlaciebie.pl/wp-content/uploads/2021/12/Main-photo-2.png");
+    background: white;
     POSITION: RELATIVE;
     left: 50%;
     transform: translateX(-50%);
@@ -66,7 +66,7 @@ ul#menu-menu-1 {
 
 
 .wrapper2{
-    background:#002f5d;
+    background-image: url("https://tarczadlaciebie.pl/wp-content/uploads/2021/12/Main-photo-2.png");
 }
 
 li.upper_menu_item {
