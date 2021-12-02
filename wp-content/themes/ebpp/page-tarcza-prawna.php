@@ -96,20 +96,7 @@ src="https://www.facebook.com/tr?id=1527878994231932&ev=PageView&noscript=1"
 					<h3 style="" class="show">Darmowa pomoc prawna dla zadłużonych</h3>
 					<div class="zostawkontakt">Zostaw swój kontakt a nasza doradca prawny oddzwoni do Ciebie z propozycją rozwiązań</div>
 				</div>
-				<div class="grupa2">
-					<div class="dostep">
-						<img src="https://tarczadlaciebie.pl/wp-content/uploads/2021/11/p4.png">
-						<div>
-							<div class="napis1">Nielimitowany dostęp do opiekuna prawnego</div>
-						</div>
-					</div>
-					<div class="finansowanie">
-						<img src="https://tarczadlaciebie.pl/wp-content/uploads/2021/11/p5.png">
-						<div>
-							<div class="napis2">Finansowanie bez zbędnych formalności</div>
-						</div>
-					</div>
-				</div>
+				
 			</div>
 			<div class="kontakt">
 				<div class="ozdoba">
