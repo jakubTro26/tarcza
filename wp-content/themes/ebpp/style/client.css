@@ -66,7 +66,8 @@ ul#menu-menu-1 {
 
 
 .wrapper2{
-    background-image: url("https://tarczadlaciebie.pl/wp-content/uploads/2021/12/Main-photo-2.png");
+    /* background-image: url("https://tarczadlaciebie.pl/wp-content/uploads/2021/12/Main-photo-2.png"); */
+    background:#283E5E;
 }
 
 li.upper_menu_item {
@@ -689,6 +690,11 @@ H3 {
   .tlo1{
     background-position: 10px -260px;
     background-image: url("https://tarczadlaciebie.pl/wp-content/uploads/2021/12/p13.png");
+  }
+
+  .tlo2{
+   
+    background-image: url("https://tarczadlaciebie.pl/wp-content/uploads/2021/12/Main-photo-2.png");
   }
 
   #top_bar_kontakt{
