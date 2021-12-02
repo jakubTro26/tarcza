@@ -223,6 +223,7 @@ li.upper_menu_item {
 
 .koperta, .telefon{
     display:flex;
+    padding-left: 24px;
 }
 
 .dane{
@@ -234,7 +235,7 @@ li.upper_menu_item {
 
 .koperta  img{
 
-    width: 30px;
+    width: 24px;
     position: relative;
     top: 50%;
     transform: translateY(-50%);
@@ -242,7 +243,7 @@ li.upper_menu_item {
 
 .telefon img{
 
-    width: 30px;
+    width: 24px;
     position: relative;
     top: 50%;
     transform: translateY(-50%);
