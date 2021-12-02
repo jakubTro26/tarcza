@@ -117,7 +117,7 @@ src="https://www.facebook.com/tr?id=1527878994231932&ev=PageView&noscript=1"
 						Specjalizujemy się w
 				</div>
 				<div class="uscisk">
-					<img class="rece"  src="https://tarczadlaciebie.pl/wp-content/uploads/2021/12/p10.png">
+					<div class="img10"><img class="rece"  src="https://tarczadlaciebie.pl/wp-content/uploads/2021/12/p10.png"></div>
 				
 					<div class="orders">
 						<div class="column1">
