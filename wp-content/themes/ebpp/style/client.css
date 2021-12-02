@@ -680,11 +680,19 @@ H3 {
 
   .column1{
     padding-right: 98px;
+    height: min-content;
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
 
   }
 
   .column2{
     padding-right: 34px;
+    height: min-content;
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
   }
 
   .u1 img,.u2 img,.u3 img,.u4 img,.u5 img,.u6 img,.u7 img{
