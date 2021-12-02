@@ -647,6 +647,17 @@ H3 {
         margin-left: 9px;
     }
   }
+
+  @media only screen and (max-width: 1084px) {
+   
+    .orders{
+        top: 252px;
+    }
+    .uscisk{
+        height: 1040px;
+    }
+  }
+
   @media only screen and (max-width: 1112px) {
     .wrapper1 {
       width:1124px;
