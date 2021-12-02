@@ -652,6 +652,12 @@ H3 {
       height:2000px;
   }
 
+  @media only screen and (max-width: 1084px) {
+    .wrapper1 {
+      width:auto;
+    }
+  }
+
 
   .tlo1{
     background-position: 10px -260px;
