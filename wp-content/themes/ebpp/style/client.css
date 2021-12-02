@@ -581,6 +581,7 @@ H3 {
     margin: auto;
     display:flex;
     border-radius:30px;
+    overflow: hidden;
 }
 
 
