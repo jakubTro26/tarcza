@@ -793,3 +793,22 @@ H3 {
     position: relative;
     top: 62px;
 }
+
+.miliony{
+    left: 112px;
+    display: flex;
+    position: relative;
+    top: 116.1px;
+}
+
+.k1{
+    position: relative;
+    width: 168px;
+    top: 50%;
+    transform: translateY(-50%);
+    margin-left: 29px;
+}
+
+.mobraz1 img{
+    width: 255px;
+}
