@@ -841,6 +841,11 @@ H3 {
 
 }
 
+.s1,.s2,.s3,.s4{
+   margin-right: 84px;
+
+}
+
 .carousel1{
     display: flex;
     position: relative;
