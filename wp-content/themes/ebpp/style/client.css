@@ -634,6 +634,9 @@ H3 {
     .wrapper1 {
       width:1257px;
     }
+    .orders{
+        margin-left: 74px;
+    }
   }
 
   @media only screen and (max-width: 1213px) {
