@@ -686,3 +686,7 @@ H3 {
   .column2{
     padding-right: 34px;
   }
+
+  .u1 img,.u2 img,.u3 img,.u4 img,.u5 img,.u6 img,.u7 img{
+    width: 57px;
+  }
