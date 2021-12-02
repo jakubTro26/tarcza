@@ -119,24 +119,7 @@ src="https://www.facebook.com/tr?id=1527878994231932&ev=PageView&noscript=1"
 		</div>
 	</div>
 	<div class="thirddiv">
-			<div class="wrapper1">
-				<div class='specjalizujemy'>
-						Dobrze, że tutaj jesteś
-				</div>
-				<div class="przedstawiamy">
-							Przedstawiamy Ci jedyną skuteczną tarczę w dzisiejszych ciężkich czasach
-				</div>
-				<div class="miliony">
-					<div class="mobraz1">
-							<img src="https://tarczadlaciebie.pl/wp-content/uploads/2021/12/shield-dobrze-ze-jestes-1.png">
-					</div>
-					<div class="mnapis1">
-						<div class="k1">
-							Specjalnie dla milionów zadłlużonych Polaków stworzyliśmy Tarczę Prawną, która uchroni także Ciebie w tarapatach finansowych i prawnych.
-						</div>
-					</div>
-				</div>
-			</div>
+		
 	</div>
 
 	
