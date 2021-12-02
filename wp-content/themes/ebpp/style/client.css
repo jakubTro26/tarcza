@@ -682,7 +682,7 @@ H3 {
     padding-right: 98px;
     height: min-content;
     position: relative;
-    top: 50%;
+    top: 42%;
     transform: translateY(-50%);
 
   }
@@ -697,4 +697,13 @@ H3 {
 
   .u1 img,.u2 img,.u3 img,.u4 img,.u5 img,.u6 img,.u7 img{
     width: 57px;
+  }
+
+  .n1 span{
+      white-space: nowrap;
+  }
+
+  .n1 span,.n2 span,.n3 span,.n4 span,.n5 span,.n6 span,.n7 span{
+
+    text-align: left;
   }
