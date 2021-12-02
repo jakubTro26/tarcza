@@ -126,11 +126,11 @@ src="https://www.facebook.com/tr?id=1527878994231932&ev=PageView&noscript=1"
 				</div>
 				<div class="problemy">
 					<div class="pobraz1">
-							<img src="https://tarczadlaciebie.pl/wp-content/uploads/2021/12/shield-dobrze-ze-jestes-1.png">
+							<img src="https://tarczadlaciebie.pl/wp-content/uploads/2021/12/shield-dobrze-ze-jestes-2.png">
 					</div>
 					<div class="pnapis1">
 						<div class="k1">
-							Specjalnie dla milionów zadłlużonych Polaków stworzyliśmy Tarczę Prawną, która uchroni także Ciebie w tarapatach finansowych i prawnych.
+							Masz problem ze spłatą zobowiązań ? Straszy Cię windykacja ? <br> Chętnie służymy pomocą i to za DARMO
 						</div>
 					</div>
 				</div>
