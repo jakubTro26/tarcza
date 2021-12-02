@@ -630,6 +630,9 @@ H3 {
 }
 
 
+
+
+
 @media only screen and (max-width: 1400px) {
     .wrapper1 {
       width:1257px;
@@ -648,15 +651,7 @@ H3 {
     }
   }
 
-  @media only screen and (max-width: 1084px) {
-   
-    .orders{
-        top: 252px;
-    }
-    .uscisk{
-        height: 1040px;
-    }
-  }
+ 
 
   @media only screen and (max-width: 1112px) {
     .wrapper1 {
@@ -732,4 +727,15 @@ H3 {
 
   .n1,.n2,.n3,.n4,.n5,.n6,.n7{
     padding-left: 20px;
+  }
+
+
+  @media only screen and (max-width: 1084px) {
+   
+    .orders{
+        top: 252px;
+    }
+    .uscisk{
+        height: 1040px;
+    }
   }
