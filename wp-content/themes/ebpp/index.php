@@ -182,6 +182,9 @@ src="https://www.facebook.com/tr?id=1527878994231932&ev=PageView&noscript=1"
 									Byłem tak zadowolony, że przekazałem kontakt do tarczy swojemu szwagrowi
 								</div>
 							</div>
+							<div>
+								<img src="https://tarczadlaciebie.pl/wp-content/uploads/2021/12/p24.png">
+							</div>
 					</div>
 					<div class="s2">
 							<div>
