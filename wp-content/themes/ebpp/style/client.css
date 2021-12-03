@@ -950,3 +950,9 @@ H3 {
 }
 
 
+@media (max-width: 1536px){
+
+    .wrapper4{
+        left: 194px;
+    }
+}
