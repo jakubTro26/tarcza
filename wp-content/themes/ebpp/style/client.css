@@ -938,3 +938,11 @@ H3 {
     top: 209px;
     left: 330px;
 }
+
+
+@media (max-width:1620px){
+
+    .carousel1{
+        width:1396px;
+    }
+}
