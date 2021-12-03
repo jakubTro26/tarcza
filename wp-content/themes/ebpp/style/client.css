@@ -902,3 +902,8 @@ H3 {
     width: 268px;
 
 }
+
+.i1,.i2,.i3,.i4,.i5{
+    top: 30px;
+    position: relative;
+}
