@@ -1018,3 +1018,9 @@ H3 {
     }
     } */
 
+@media (max-width:400px){
+    .thirddiv {
+        height: 2919px;
+    }
+
+}
