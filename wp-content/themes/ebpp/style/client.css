@@ -1022,5 +1022,8 @@ H3 {
     .thirddiv {
         height: 2919px;
     }
+    .miliony{
+        display:block;
+    }
 
 }
