@@ -171,6 +171,61 @@ src="https://www.facebook.com/tr?id=1527878994231932&ev=PageView&noscript=1"
 				
 				</div>
 			</div>
+			<div class="wrapper3">
+				<div class="carousel1">
+					<div class="s1">
+							<div>
+								<img class="o1" src="https://tarczadlaciebie.pl/wp-content/uploads/2021/12/p14.png">
+							</div>
+							<div>
+								<div class="t1">
+									Działamy na terenie całego kraju
+								</div>
+							</div>
+					</div>
+					<div class="s2">
+							<div>
+								<img class="o2" src="https://tarczadlaciebie.pl/wp-content/uploads/2021/12/p15.png">
+							</div>
+							<div>
+								<div class="t2">
+									Darmowa pomoc prawna
+								</div>
+							</div>
+					</div>
+					<div class="s3">
+							<div>
+								<img class="o3" src="https://tarczadlaciebie.pl/wp-content/uploads/2021/12/p16.png">
+							</div>
+							<div>
+								<div class="t3">
+									Poleca nas 9/10 klientów
+								</div>
+							</div>
+					</div>
+					<div class="s4">
+						<div>
+							<img class="o4" src="https://tarczadlaciebie.pl/wp-content/uploads/2021/12/p17.png">
+						</div>
+							<div>
+								<div class="t4">
+									Finansowanie i konsolidacja
+								</div>
+							</div>
+
+					</div>
+					<div class="s5">
+							<div>
+								<img class="o5" src="https://tarczadlaciebie.pl/wp-content/uploads/2021/12/p18.png">
+							</div>
+							<div>
+								<div class="t5">
+									Zwroty prowizji i poprawa zdolności kredytowej
+								</div>
+							</div>
+					</div>
+				</div>
+			</div>
 	</div>
 
 	
