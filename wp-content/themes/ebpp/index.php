@@ -182,8 +182,13 @@ src="https://www.facebook.com/tr?id=1527878994231932&ev=PageView&noscript=1"
 									Byłem tak zadowolony, że przekazałem kontakt do tarczy swojemu szwagrowi
 								</div>
 							</div>
-							<div>
+							<div class="belka">
 								<img src="https://tarczadlaciebie.pl/wp-content/uploads/2021/12/p24.png">
+							</div>
+							<div class="podpis">
+								<div>
+									JULITA Z BARLINKA
+								</div>
 							</div>
 					</div>
 					<div class="s2">
@@ -193,6 +198,14 @@ src="https://www.facebook.com/tr?id=1527878994231932&ev=PageView&noscript=1"
 							<div>
 								<div class="t2">
 									Są skuteczni
+								</div>
+							</div>
+							<div class="belka">
+								<img src="https://tarczadlaciebie.pl/wp-content/uploads/2021/12/p24.png">
+							</div>
+							<div class="podpis">
+								<div>
+									JULITA Z BARLINKA
 								</div>
 							</div>
 					</div>
@@ -205,6 +218,14 @@ src="https://www.facebook.com/tr?id=1527878994231932&ev=PageView&noscript=1"
 									Bardzo fajny kontakt z doradcą prawnym
 								</div>
 							</div>
+							<div class="belka">
+								<img src="https://tarczadlaciebie.pl/wp-content/uploads/2021/12/p24.png">
+							</div>
+							<div class="podpis">
+								<div>
+									JULITA Z BARLINKA
+								</div>
+							</div>
 					</div>
 					<div class="s4">
 						<div>
@@ -213,6 +234,14 @@ src="https://www.facebook.com/tr?id=1527878994231932&ev=PageView&noscript=1"
 							<div>
 								<div class="t4">
 									Mają wiedzę i doświadczenie
+								</div>
+							</div>
+							<div class="belka">
+								<img src="https://tarczadlaciebie.pl/wp-content/uploads/2021/12/p24.png">
+							</div>
+							<div class="podpis">
+								<div>
+									JULITA Z BARLINKA
 								</div>
 							</div>
 
@@ -224,6 +253,14 @@ src="https://www.facebook.com/tr?id=1527878994231932&ev=PageView&noscript=1"
 							<div>
 								<div class="t5">
 									Są tani
+								</div>
+							</div>
+							<div class="belka">
+								<img src="https://tarczadlaciebie.pl/wp-content/uploads/2021/12/p24.png">
+							</div>
+							<div class="podpis">
+								<div>
+									JULITA Z BARLINKA
 								</div>
 							</div>
 					</div>
