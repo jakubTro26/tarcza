@@ -880,6 +880,14 @@ H3 {
     }
 }
 
+@media (max-width:1620px){
+
+    .carousel1{
+        width:1396px;
+        overflow: hidden;
+    }
+}
+
 @media (max-width:1520px){
 
     .carousel1{
@@ -940,10 +948,3 @@ H3 {
 }
 
 
-@media (max-width:1620px){
-
-    .carousel1{
-        width:1396px;
-        overflow: hidden;
-    }
-}
