@@ -950,17 +950,19 @@ H3 {
 }
 
 
-@media (max-width: 1307px){
 
-    .wrapper4{
-        left: 94px;
-    }
-}
 
 
 @media (max-width: 1536px){
 
     .wrapper4{
         left: 194px;
+    }
+}
+
+@media (max-width: 1307px){
+
+    .wrapper4{
+        left: 94px;
     }
 }
