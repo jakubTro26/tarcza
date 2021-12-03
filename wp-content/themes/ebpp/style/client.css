@@ -965,8 +965,7 @@ H3 {
 @media (max-width: 1200px){
 
     .wrapper4{
-        left: 0px;
-        width:auto;
+        left: -32px;
 
     }
 }
@@ -982,6 +981,10 @@ H3 {
 {
 .thirddiv {
     height: 2159px;
+}
+.wrapper4{
+    left:0px;
+    width:auto;
 }
 }
 
@@ -1008,11 +1011,3 @@ H3 {
     }
     } */
 
-    @media (max-width: 1075px){
-
-        .wrapper4{
-            left: 0px;
-            width:auto;
-    
-        }
-    }
