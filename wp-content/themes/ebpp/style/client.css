@@ -835,7 +835,7 @@ H3 {
 }
 
 .s1,.s2,.s3,.s4,.s5{
-    height: 200px;
+    height: 239px;
     width: 281px;
     background:white;
     border-radius:15px;
@@ -895,4 +895,10 @@ H3 {
         top: 267px;
     }
     }
+}
+
+
+.podpis{
+    width: 268px;
+
 }
