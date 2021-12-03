@@ -179,7 +179,7 @@ src="https://www.facebook.com/tr?id=1527878994231932&ev=PageView&noscript=1"
 							</div>
 							<div>
 								<div class="t1">
-									Działamy na terenie całego kraju
+									Byłem tak zadowolony, że przekazałem kontakt do tarczy swojemu szwagrowi
 								</div>
 							</div>
 					</div>
@@ -189,7 +189,7 @@ src="https://www.facebook.com/tr?id=1527878994231932&ev=PageView&noscript=1"
 							</div>
 							<div>
 								<div class="t2">
-									Darmowa pomoc prawna
+									Są skuteczni
 								</div>
 							</div>
 					</div>
@@ -199,7 +199,7 @@ src="https://www.facebook.com/tr?id=1527878994231932&ev=PageView&noscript=1"
 							</div>
 							<div>
 								<div class="t3">
-									Poleca nas 9/10 klientów
+									Bardzo fajny kontakt z doradcą prawnym
 								</div>
 							</div>
 					</div>
@@ -209,7 +209,7 @@ src="https://www.facebook.com/tr?id=1527878994231932&ev=PageView&noscript=1"
 						</div>
 							<div>
 								<div class="t4">
-									Finansowanie i konsolidacja
+									Mają wiedzę i doświadczenie
 								</div>
 							</div>
 
@@ -220,7 +220,7 @@ src="https://www.facebook.com/tr?id=1527878994231932&ev=PageView&noscript=1"
 							</div>
 							<div>
 								<div class="t5">
-									Zwroty prowizji i poprawa zdolności kredytowej
+									Są tani
 								</div>
 							</div>
 					</div>
