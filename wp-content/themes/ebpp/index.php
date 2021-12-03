@@ -175,7 +175,7 @@ src="https://www.facebook.com/tr?id=1527878994231932&ev=PageView&noscript=1"
 				<div class="carousel1">
 					<div class="s1">
 							<div>
-								<img class="o1" src="https://tarczadlaciebie.pl/wp-content/uploads/2021/12/p14.png">
+								<img class="o1" src="https://tarczadlaciebie.pl/wp-content/uploads/2021/12/P19.png">
 							</div>
 							<div>
 								<div class="t1">
@@ -185,7 +185,7 @@ src="https://www.facebook.com/tr?id=1527878994231932&ev=PageView&noscript=1"
 					</div>
 					<div class="s2">
 							<div>
-								<img class="o2" src="https://tarczadlaciebie.pl/wp-content/uploads/2021/12/p15.png">
+								<img class="o2" src="https://tarczadlaciebie.pl/wp-content/uploads/2021/12/p20.png">
 							</div>
 							<div>
 								<div class="t2">
@@ -195,7 +195,7 @@ src="https://www.facebook.com/tr?id=1527878994231932&ev=PageView&noscript=1"
 					</div>
 					<div class="s3">
 							<div>
-								<img class="o3" src="https://tarczadlaciebie.pl/wp-content/uploads/2021/12/p16.png">
+								<img class="o3" src="https://tarczadlaciebie.pl/wp-content/uploads/2021/12/p21.png">
 							</div>
 							<div>
 								<div class="t3">
@@ -205,7 +205,7 @@ src="https://www.facebook.com/tr?id=1527878994231932&ev=PageView&noscript=1"
 					</div>
 					<div class="s4">
 						<div>
-							<img class="o4" src="https://tarczadlaciebie.pl/wp-content/uploads/2021/12/p17.png">
+							<img class="o4" src="https://tarczadlaciebie.pl/wp-content/uploads/2021/12/p22.png">
 						</div>
 							<div>
 								<div class="t4">
@@ -216,7 +216,7 @@ src="https://www.facebook.com/tr?id=1527878994231932&ev=PageView&noscript=1"
 					</div>
 					<div class="s5">
 							<div>
-								<img class="o5" src="https://tarczadlaciebie.pl/wp-content/uploads/2021/12/p18.png">
+								<img class="o5" src="https://tarczadlaciebie.pl/wp-content/uploads/2021/12/p23.png">
 							</div>
 							<div>
 								<div class="t5">
