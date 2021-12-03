@@ -114,11 +114,7 @@ li.upper_menu_item {
     }
 
 
-    @media only screen and (max-width: 1220px) {
-        body {
-          background-color: lightblue;
-        }
-      }
+   
 
 
     
@@ -984,6 +980,6 @@ H3 {
 @media only screen and (max-width: 1111px)
 {
 .thirddiv {
-    height: 1972px;
+    height: 2159px;
 }
 }

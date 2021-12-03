@@ -4,7 +4,7 @@
 <head>
     <meta http-equiv="Content-type" content="text/html;charset=UTF-8">
    
-	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0"/>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<link href="<?php bloginfo('template_directory'); ?>/style/client.css" rel="stylesheet" type="text/css" title="style">
 	<script src="https://code.jquery.com/ui/1.12.0/jquery-ui.min.js"></script>
 	<link rel="stylesheet" type="text/css" media="all" href="<?php bloginfo( 'stylesheet_url' ); ?>" />
