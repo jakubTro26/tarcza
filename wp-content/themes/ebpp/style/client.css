@@ -968,6 +968,12 @@ H3 {
         left:0px;
         width:auto;
     }
+    .miliony{
+        left:0px;
+    }
+    .problemy{
+        left:0px;
+    }
 }
 
 @media only screen and (max-width: 1200px)
