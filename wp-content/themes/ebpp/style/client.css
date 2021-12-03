@@ -907,3 +907,9 @@ H3 {
     top: 30px;
     position: relative;
 }
+
+.z1,.z2,.z3,.z4,.z5{
+
+    position: relative;
+    top: 35px;
+}
