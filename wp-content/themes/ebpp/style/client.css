@@ -1025,5 +1025,21 @@ H3 {
     .miliony{
         display:block;
     }
+    .k1{
+        text-align: left;
+        position: unset;
+        width: auto;
+     
+        transform: translateY(0%);
+        margin-left: 0px;
+    }
+    .l1{
+        text-align: left;
+        position: unset;
+        width: auto;
+     
+        transform: translateY(0%);
+        margin-left: 0px;
+    }
 
 }
