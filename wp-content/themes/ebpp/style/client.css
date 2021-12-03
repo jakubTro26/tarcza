@@ -886,3 +886,13 @@ H3 {
         width:1130px;
     }
 }
+
+@media (max-width:400px){
+
+    .thirddiv{
+        z-index: -1;
+        position: relative;
+        top: 267px;
+    }
+    }
+}
