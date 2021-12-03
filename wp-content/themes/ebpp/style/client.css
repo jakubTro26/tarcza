@@ -1025,6 +1025,9 @@ H3 {
     .miliony{
         display:block;
     }
+    .problemy{
+        display: block;
+    }
     .k1{
         text-align: left;
         position: unset;
