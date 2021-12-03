@@ -863,3 +863,14 @@ H3 {
 .o1,.o2,.o3,.o4,.o5{
     width:80px;
 }
+
+
+@media (max-width:894px){
+
+    .specjalizujemy{
+        top:137px;
+    }
+    .uscisk{
+        top:150px;
+    }
+}
