@@ -879,3 +879,10 @@ H3 {
         height:326px;
     }
 }
+
+@media (max-width:1520px){
+
+    .carousel1{
+        width:1500px;
+    }
+}
