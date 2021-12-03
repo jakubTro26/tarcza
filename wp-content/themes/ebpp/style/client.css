@@ -965,7 +965,8 @@ H3 {
 @media (max-width: 1200px){
 
     .wrapper4{
-        left: -32px;
+        left: 0px;
+        width:auto;
 
     }
 }
