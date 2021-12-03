@@ -983,3 +983,17 @@ H3 {
     height: 2159px;
 }
 }
+
+@media (max-width: 1080px){
+
+    .miliony{
+        left: 422px;
+
+    }
+    .problemy{
+        left: 423px;
+        display: flex;
+        position: relative;
+        top: 242.1px;
+    }
+} 
