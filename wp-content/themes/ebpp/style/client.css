@@ -578,6 +578,7 @@ H3 {
 
 
 .uscisk{
+    box-shadow: 5px 6px 5px #6868686b;
     background:white;
     width: 88%;
     position: relative;
