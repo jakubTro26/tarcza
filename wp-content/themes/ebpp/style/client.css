@@ -966,3 +966,10 @@ H3 {
         left: 94px;
     }
 }
+@media (max-width: 1200px){
+
+    .wrapper4{
+        left: -32px;
+
+    }
+}
