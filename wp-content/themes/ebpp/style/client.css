@@ -944,5 +944,6 @@ H3 {
 
     .carousel1{
         width:1396px;
+        overflow: hidden;
     }
 }
