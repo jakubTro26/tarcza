@@ -917,3 +917,8 @@ H3 {
 .belka img{
     width:255px;
 }
+
+.belka{
+    position: relative;
+    top: 46px;
+}
