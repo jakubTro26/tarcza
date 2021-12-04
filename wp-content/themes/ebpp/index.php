@@ -303,6 +303,9 @@ src="https://www.facebook.com/tr?id=1527878994231932&ev=PageView&noscript=1"
 				</div>
 				<div class="pictures">
 					<div class="p1">
+							<div class="belka1">
+								<img src="https://tarczadlaciebie.pl/wp-content/uploads/2021/12/p24.png">
+							</div>
 							<div class="img1">
 								<img class="number1" src="https://tarczadlaciebie.pl/wp-content/uploads/2021/12/p27.png">
 								<img class="photo1" src="https://tarczadlaciebie.pl/wp-content/uploads/2021/12/p30.png">
@@ -312,6 +315,9 @@ src="https://www.facebook.com/tr?id=1527878994231932&ev=PageView&noscript=1"
 							</div>
 					</div>
 					<div class="p2">
+							<div class="belka2">
+								<img src="https://tarczadlaciebie.pl/wp-content/uploads/2021/12/p24.png">
+							</div>
 							<div class="img2">
 								<img  class="number2" src="https://tarczadlaciebie.pl/wp-content/uploads/2021/12/p28.png">
 								<img class="photo2" src="https://tarczadlaciebie.pl/wp-content/uploads/2021/12/p31.png">
@@ -319,8 +325,12 @@ src="https://www.facebook.com/tr?id=1527878994231932&ev=PageView&noscript=1"
 							<div class="pn2">
 								Nasz specjalista przeprowadza analizę prawną i finansową Twojej sytuacji
 							</div>
+
 					</div>
 					<div class="p3">
+						<div class="belka3">
+							<img src="https://tarczadlaciebie.pl/wp-content/uploads/2021/12/p24.png">
+						</div>
 						<div class="img3">
 							<img class="number3" src="https://tarczadlaciebie.pl/wp-content/uploads/2021/12/p29.png">
 							<img class="photo3" src="https://tarczadlaciebie.pl/wp-content/uploads/2021/12/p32.png">
