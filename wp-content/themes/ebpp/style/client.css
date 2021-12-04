@@ -1238,3 +1238,9 @@ H3 {
     width: 443px;
     margin-left: 90px;
 }
+
+@media (max-width:1100px){
+    .wrapperoszusci{
+        width:100%;
+    }
+}
