@@ -1244,9 +1244,12 @@ H3 {
         width:100%;
     }
     .op1{
-        margin:0px;
+        margin-right:80px;
     }
     .op2{
-        margin:0px;
+        margin-right:80px;
+    }
+    .opictures{
+        display:block;
     }
 }
