@@ -1085,3 +1085,13 @@ H3 {
     position: relative;
     top: 101px;
 }
+
+.belka1{
+    position: relative;
+    left: 230px;
+    top: 127px;
+}
+
+.belka1 img,.belka2 img{
+    width:248px;
+}
