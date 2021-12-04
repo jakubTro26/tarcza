@@ -272,6 +272,16 @@ src="https://www.facebook.com/tr?id=1527878994231932&ev=PageView&noscript=1"
 								</div>
 							</div>
 					</div>
+					<div class="opisyoszusci">
+						<div class="oo1">
+							Jako jedyna e-kancelaria na rynku oferujemy Ci bezpłatną pomoc prawną. <br>
+							Poznaj nas. Zobacz jak działamy i co robimy. Jesteśmy przekonani, że zdobędziemy Twoje zaufanie i zostaniesz z nami aż do ostatecznego rozwiązania Twoich problemów prawnych i finansowych.
+						</div>
+						<div class="oo2">
+							Już teraz skorzystaj z pierwszego miesiąca Tarczy prawnej. Zawsze możesz zrezygnować bez ukrytych kosztów !
+						</div>
+
+					</div>
 				</div>
 
 			</div>
