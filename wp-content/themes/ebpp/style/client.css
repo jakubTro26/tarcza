@@ -975,7 +975,7 @@ H3 {
         left:0px;
     }
     .wrapper5{
-        width: min-content;
+        width: 100%;
         margin: auto;
     }
 }
@@ -1024,9 +1024,11 @@ H3 {
     }
     .miliony{
         display:block;
+        width:100%;
     }
     .problemy{
         display: block;
+        width:100%;
     }
     .k1{
         text-align: center;
