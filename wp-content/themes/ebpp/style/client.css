@@ -1052,6 +1052,7 @@ H3 {
     width: min-content;
     margin: auto;
     display: flex;
+    margin-top: 78px;
 }
 
 .img1,.img2,.img3{
