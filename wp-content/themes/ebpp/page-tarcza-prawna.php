@@ -194,11 +194,11 @@ src="https://www.facebook.com/tr?id=1527878994231932&ev=PageView&noscript=1"
 				<div class="carousel1">
 					<div class="s1">
 							<div class="i1">
-								<img class="o1" src="https://tarczadlaciebie.pl/wp-content/uploads/2021/12/P19.png">
+								<img class="o1" src="https://tarczadlaciebie.pl/wp-content/uploads/2021/12/p14.png">
 							</div>
 							<div class="z1">
 								<div class="t1">
-									Byłem tak zadowolony, że przekazałem kontakt do tarczy swojemu szwagrowi
+								Działamy na terenie całego kraju
 								</div>
 							</div>
 							<div class="belka">
@@ -212,11 +212,11 @@ src="https://www.facebook.com/tr?id=1527878994231932&ev=PageView&noscript=1"
 					</div>
 					<div class="s2">
 							<div div class="i2">
-								<img class="o2" src="https://tarczadlaciebie.pl/wp-content/uploads/2021/12/p20.png">
+								<img class="o2" src="https://tarczadlaciebie.pl/wp-content/uploads/2021/12/p15.png">
 							</div>
 							<div class="z2">
 								<div class="t2">
-									Są skuteczni
+								Darmowa pomoc prawna
 								</div>
 							</div>
 							<div class="belka">
@@ -230,11 +230,11 @@ src="https://www.facebook.com/tr?id=1527878994231932&ev=PageView&noscript=1"
 					</div>
 					<div class="s3">
 							<div div class="i3">
-								<img class="o3" src="https://tarczadlaciebie.pl/wp-content/uploads/2021/12/p21.png">
+								<img class="o3" src="https://tarczadlaciebie.pl/wp-content/uploads/2021/12/p16.png">
 							</div>
 							<div class="z3">
 								<div class="t3">
-									Bardzo fajny kontakt z doradcą prawnym
+								Poleca nas 9/10 klientów
 								</div>
 							</div>
 							<div class="belka">
@@ -248,11 +248,11 @@ src="https://www.facebook.com/tr?id=1527878994231932&ev=PageView&noscript=1"
 					</div>
 					<div class="s4">
 						<div div class="i4">
-							<img class="o4" src="https://tarczadlaciebie.pl/wp-content/uploads/2021/12/p22.png">
+							<img class="o4" src="https://tarczadlaciebie.pl/wp-content/uploads/2021/12/p17.png">
 						</div>
 							<div class="z4">
 								<div class="t4">
-									Mają wiedzę i doświadczenie
+								Finansowanie i konsolidacja
 								</div>
 							</div>
 							<div class="belka">
@@ -267,11 +267,11 @@ src="https://www.facebook.com/tr?id=1527878994231932&ev=PageView&noscript=1"
 					</div>
 					<div class="s5">
 							<div div class="i5">
-								<img class="o5" src="https://tarczadlaciebie.pl/wp-content/uploads/2021/12/p23.png">
+								<img class="o5" src="https://tarczadlaciebie.pl/wp-content/uploads/2021/12/p18.png">
 							</div>
 							<div class="z5">
 								<div class="t5">
-									Są tani
+								Zwroty prowizji i poprawa zdolności kredytowej
 								</div>
 							</div>
 							<div class="belka">
