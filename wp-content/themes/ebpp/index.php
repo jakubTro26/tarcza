@@ -307,7 +307,7 @@ src="https://www.facebook.com/tr?id=1527878994231932&ev=PageView&noscript=1"
 							<img class="photo1" src="https://tarczadlaciebie.pl/wp-content/uploads/2021/12/p30.png">
 						</div>
 						<div class="pn1">
-
+							Zamawiasz bezpłatną konsulatcję z naszym doradcą prawnym
 						</div>
 				</div>
 				<div class="p2">
@@ -316,7 +316,7 @@ src="https://www.facebook.com/tr?id=1527878994231932&ev=PageView&noscript=1"
 							<img class="photo2" src="https://tarczadlaciebie.pl/wp-content/uploads/2021/12/p31.png">
 						</div>
 						<div class="pn2">
-
+							Nasz specjalista przeprowadza analizę prawną i finansową Twojej sytuacji
 						</div>
 				</div>
 				<div class="p3">
@@ -325,7 +325,7 @@ src="https://www.facebook.com/tr?id=1527878994231932&ev=PageView&noscript=1"
 						<img class="photo3" src="https://tarczadlaciebie.pl/wp-content/uploads/2021/12/p32.png">
 					</div>
 					<div class="pn3">
-
+							Maksymalnie 72h od zawarcia umowy, nasz doradca podejmuję niezbędne działania w Twoich sprawach
 					</div>
 				</div>
 			</div>
