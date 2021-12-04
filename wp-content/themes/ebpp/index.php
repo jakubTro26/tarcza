@@ -405,11 +405,21 @@ src="https://www.facebook.com/tr?id=1527878994231932&ev=PageView&noscript=1"
 <script src="https://cdn.jsdelivr.net/npm/@glidejs/glide" ></script>
 
 <script>
-  new Glide('.glide', {
-  type: 'carousel',
-  startAt: 0,
+var select = document.querySelector('#options-type-select')
+
+var glide = new Glide('#options-type', {
+  type: select.value,
+  focusAt: 'center',
   perView: 3
 })
+
+select.addEventListener('change', function (event) {
+  glide.update({
+    type: event.target.value
+  })
+})
+
+glide.mount()
 </script>
 
 <script language="javascript">
