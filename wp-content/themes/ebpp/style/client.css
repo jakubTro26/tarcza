@@ -1200,3 +1200,9 @@ H3 {
     color: gray;
     left: 106px;
 }
+
+.opictures{
+    display: flex;
+    margin: auto;
+    width: min-content;
+}
