@@ -1119,7 +1119,17 @@ H3 {
 }
 
 .buttonKontakt {
-    background:#F2C572;
+    border-radius: 30px;
+    margin: auto;
+    width: 293px;
+    height: 40px;
+    background: #F2C572;
+}
+
+.Kbutton{
+    position: relative;
+    top: 50%;
+    transform: translateY(-58%);
 }
 
 .miliony{
