@@ -231,6 +231,50 @@ src="https://www.facebook.com/tr?id=1527878994231932&ev=PageView&noscript=1"
 					</div>
 				</div>
 			</div>
+			<div class="wrapperoszusci">
+				<div class="owrapper">
+					<div class="opodpis">
+							Masz dość nieuczciwych doradców kredytowych, którzy wcisnęli Ci kredyty z lichwiarskimi marżami i opłatami ?
+					</div>
+					<div class="oopis">
+							Po drodze spotkałeś pseudodoradców, którzy obiecywali wiele, a odchodzili z Twoimi pieniędzmi ?
+					</div>
+
+					<div class="opictures">
+							<div class="op1"> 
+								<div class="oimg1">
+									<img src="https://tarczadlaciebie.pl/wp-content/uploads/2021/12/p33.png">
+								</div>
+								<div class="ot1">
+									<div>
+										Oszczędzaj pieniądze
+									</div>
+								</div>
+							</div>
+							<div class="op2"> 
+								<div class="oimg2">
+									<img src="https://tarczadlaciebie.pl/wp-content/uploads/2021/12/p34.png">
+								</div>
+								<div class="ot2">
+									<div>
+										Skuteczne rozwiązania prawne
+									</div>
+								</div>
+							</div>
+							<div class="op3"> 
+								<div class="oimg3">
+									<img src="https://tarczadlaciebie.pl/wp-content/uploads/2021/12/p35.png">
+								</div>
+								<div class="ot3">
+									<div>
+										kompleksowa opieka i bezpieczeństwo
+									</div>
+								</div>
+							</div>
+					</div>
+				</div>
+
+			</div>
 	</div>
 
 	
