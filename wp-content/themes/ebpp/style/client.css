@@ -1076,3 +1076,10 @@ H3 {
     white-space: nowrap;
     margin: auto;
 }
+
+.wrapperZegar{
+    width: min-content;
+    margin: auto;
+    position: relative;
+    top: 100px;
+}
