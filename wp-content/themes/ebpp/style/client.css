@@ -1187,3 +1187,16 @@ H3 {
     position: relative;
     top: 342px;
 }
+
+.opodpis{
+    margin: auto;
+    width: 446.1px;
+    font-size: 30px;
+}
+
+.oopis{
+    position: relative;
+    width: 410px;
+    color: gray;
+    left: 106px;
+}
