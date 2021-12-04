@@ -561,7 +561,7 @@ H3 {
 
 .thirddiv{
     background:#E5E8EB;
-    height: 1590px;
+    height: 1850px;
     
 }
 
@@ -1183,3 +1183,7 @@ H3 {
     border-radius: 20px;
 }
 
+.wrapperoszusci{
+    position: relative;
+    top: 342px;
+}
