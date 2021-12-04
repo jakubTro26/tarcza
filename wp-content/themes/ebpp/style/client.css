@@ -1018,36 +1018,7 @@ H3 {
     }
     } */
 
-@media (max-width:400px){
-    .thirddiv {
-        height: 2919px;
-    }
-    .miliony{
-        display:block;
-        width:100%;
-    }
-    .problemy{
-        display: block;
-        width:100%;
-    }
-    .k1{
-        text-align: center;
-        position: unset;
-        width: auto;
-     
-        transform: translateY(0%);
-        margin-left: 0px;
-    }
-    .l1{
-        text-align: center;
-        position: unset;
-        width: auto;
-     
-        transform: translateY(0%);
-        margin-left: 0px;
-    }
 
-}
 
 .pictures{
     display:flex;
@@ -1140,6 +1111,38 @@ H3 {
 }
 .problemy{
     width:448px;
+}
+
+
+@media (max-width:400px){
+    .thirddiv {
+        height: 2919px;
+    }
+    .miliony{
+        display:block;
+        width:100%;
+    }
+    .problemy{
+        display: block;
+        width:100%;
+    }
+    .k1{
+        text-align: center;
+        position: unset;
+        width: auto;
+     
+        transform: translateY(0%);
+        margin-left: 0px;
+    }
+    .l1{
+        text-align: center;
+        position: unset;
+        width: auto;
+     
+        transform: translateY(0%);
+        margin-left: 0px;
+    }
+
 }
 
 @media (max-width:1200px){
