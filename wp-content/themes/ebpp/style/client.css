@@ -1070,3 +1070,9 @@ H3 {
 .p3{
     margin-left:200px;
 }
+
+.fnapis1{
+    width: min-content;
+    white-space: nowrap;
+    margin: auto;
+}
