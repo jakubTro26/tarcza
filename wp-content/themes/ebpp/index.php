@@ -350,6 +350,17 @@ src="https://www.facebook.com/tr?id=1527878994231932&ev=PageView&noscript=1"
 				</div>
 			</div>
 	</div>
+	<div class="fifthDiv">
+		<div class="fwrapper">
+			<div class="fopis">
+							Poznaj historie naszych klientów
+			</div>
+			<div class="fhistory">
+
+			</div>
+		</div>
+
+	</div>
 
 	
 
@@ -373,7 +384,8 @@ src="https://www.facebook.com/tr?id=1527878994231932&ev=PageView&noscript=1"
 
 
 	
-
+<!-- JavaScript Bundle with Popper -->
+<script src="https://cdn.jsdelivr.net/npm/@glidejs/glide" ></script>
 
 <script language="javascript">
 	//$("#procent99").appendTo("#main_page_picture_div");
