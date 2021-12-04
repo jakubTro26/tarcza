@@ -1145,6 +1145,10 @@ H3 {
     .wrapperZegar{
         width:100%;
     }
+
+    .opis div{
+        width:100%;
+    }
 }
 
 @media (max-width:1200px){
