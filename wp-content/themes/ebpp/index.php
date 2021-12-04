@@ -374,10 +374,6 @@ src="https://www.facebook.com/tr?id=1527878994231932&ev=PageView&noscript=1"
   					</div>
 
 				</div>
-				<div data-glide-el="controls">
-					<button data-glide-dir="<<">Start</button>
-					<button data-glide-dir=">>">End</button>
-				</div>
 			</div>
 		</div>
 
