@@ -1046,3 +1046,18 @@ H3 {
     }
 
 }
+
+.pictures{
+    display:flex;
+    width: min-content;
+    margin: auto;
+    display: flex;
+}
+
+.img1,.img2,.img3{
+    position:relative;
+}
+.number1,.number2,.number3{
+    position:absolute;
+    bottom:0px;
+}
