@@ -1251,3 +1251,17 @@ H3 {
     }
    
 }
+
+@media (max-width:600px){
+
+.opictures{
+    display:block;
+}
+.op1{
+    margin:0px;
+
+}
+.op2{
+    margin:0px;
+}
+}
