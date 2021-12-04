@@ -295,7 +295,37 @@ src="https://www.facebook.com/tr?id=1527878994231932&ev=PageView&noscript=1"
 	</div>
 
 	<div class="fourthdiv">
+			<div class="fnapis1">
+				<div>
+					Jak skorzystać z naszych usług
+				</div>
+			</div>
+			<div class="pictures">
+				<div class="p1">
+						<div class="img1">
+							<img src="">
+						</div>
+						<div class="pn1">
 
+						</div>
+				</div>
+				<div class="p2">
+						<div class="img2">
+							<img src="">
+						</div>
+						<div class="pn2">
+
+						</div>
+				</div>
+				<div class="p3">
+					<div class="img3">
+						<img src="">
+					</div>
+					<div class="pn3">
+
+					</div>
+				</div>
+			</div>
 	</div>
 
 	
