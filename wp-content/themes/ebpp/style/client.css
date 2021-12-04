@@ -561,7 +561,7 @@ H3 {
 
 .thirddiv{
     background:#E5E8EB;
-    height: 1850px;
+    height: 2010px;
     
 }
 
@@ -1186,6 +1186,8 @@ H3 {
 .wrapperoszusci{
     position: relative;
     top: 342px;
+    width: 1122px;
+    margin: auto;
 }
 
 .opodpis{
@@ -1214,4 +1216,19 @@ H3 {
 
 .op2{
     margin-right: 300px;
+}
+
+.opisyoszusci{
+    margin-top: 50px;
+    display: flex;
+}
+
+.oo1{
+    text-align: left;
+    width: 420px;
+}
+
+.oo2{
+    width: 443px;
+    margin-left: 90px;
 }
