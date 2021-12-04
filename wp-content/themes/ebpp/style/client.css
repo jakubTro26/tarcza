@@ -1142,7 +1142,9 @@ H3 {
         transform: translateY(0%);
         margin-left: 0px;
     }
-
+    .wrapperZegar{
+        width:100%;
+    }
 }
 
 @media (max-width:1200px){
