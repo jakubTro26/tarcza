@@ -368,6 +368,15 @@ src="https://www.facebook.com/tr?id=1527878994231932&ev=PageView&noscript=1"
 						<li class="glide__slide">2</li>
 						</ul>
 					</div>
+					<div class="glide__arrows" data-glide-el="controls">
+							<button class="glide__arrow glide__arrow--left" data-glide-dir="<">prev</button>
+							<button class="glide__arrow glide__arrow--right" data-glide-dir=">">next</button>
+  					</div>
+
+				</div>
+				<div data-glide-el="controls">
+					<button data-glide-dir="<<">Start</button>
+					<button data-glide-dir=">>">End</button>
 				</div>
 			</div>
 		</div>
@@ -398,6 +407,10 @@ src="https://www.facebook.com/tr?id=1527878994231932&ev=PageView&noscript=1"
 	
 <!-- JavaScript Bundle with Popper -->
 <script src="https://cdn.jsdelivr.net/npm/@glidejs/glide" ></script>
+
+<script>
+  new Glide('.glide').mount()
+</script>
 
 <script language="javascript">
 	//$("#procent99").appendTo("#main_page_picture_div");
