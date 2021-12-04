@@ -1146,3 +1146,20 @@ H3 {
     }
 
 }
+
+@media (max-width:1200px){
+    .pictures{
+        display:block;
+    }
+    .p1{
+        margin:0px;
+        margin-bottom:40px;
+    }
+    .p2{
+        margin-bottom:40px;
+    }
+    .p3{
+        margin:0px;
+    }
+
+}
