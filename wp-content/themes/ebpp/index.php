@@ -343,6 +343,11 @@ src="https://www.facebook.com/tr?id=1527878994231932&ev=PageView&noscript=1"
 							Nie zwlekaj, zamów bezpłatną konsultację i nawiąż kontakt z naszym doradcą
 						</div>
 				</div>
+				<div class="buttonKontakt">
+					<div>
+							Zamów kontakt
+					</div>
+				</div>
 			</div>
 	</div>
 

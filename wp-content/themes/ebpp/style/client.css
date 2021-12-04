@@ -1111,3 +1111,13 @@ H3 {
 .number3{
     left: -28px;
 }
+
+.opis div{
+    margin: auto;
+    font-size: 25px;
+    width: 424px;
+}
+
+.buttonKontakt{
+    background:#F2C572;
+}
