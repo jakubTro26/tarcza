@@ -8,7 +8,11 @@
 	<link href="<?php bloginfo('template_directory'); ?>/style/client.css" rel="stylesheet" type="text/css" title="style">
 	<script src="https://code.jquery.com/ui/1.12.0/jquery-ui.min.js"></script>
 	<link rel="stylesheet" type="text/css" media="all" href="<?php bloginfo( 'stylesheet_url' ); ?>" />
+	<!-- Required Core Stylesheet -->
+	<link rel="stylesheet" href="node_modules/@glidejs/glide/dist/css/glide.core.min.css">
 
+	<!-- Optional Theme Stylesheet -->
+	<link rel="stylesheet" href="node_modules/@glidejs/glide/dist/css/glide.theme.min.css">
 
 	<link rel="icon" href="<?php bloginfo('template_directory'); ?>/images/favicon.png">
     <title>Tarcza Prawna - Jak Wyjść z Długów</title>
@@ -356,7 +360,15 @@ src="https://www.facebook.com/tr?id=1527878994231932&ev=PageView&noscript=1"
 							Poznaj historie naszych klientów
 			</div>
 			<div class="fhistory">
-
+				<div class="glide">
+					<div class="glide__track" data-glide-el="track">
+						<ul class="glide__slides">
+						<li class="glide__slide">0</li>
+						<li class="glide__slide">1</li>
+						<li class="glide__slide">2</li>
+						</ul>
+					</div>
+				</div>
 			</div>
 		</div>
 
