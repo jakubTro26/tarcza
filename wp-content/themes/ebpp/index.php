@@ -405,7 +405,11 @@ src="https://www.facebook.com/tr?id=1527878994231932&ev=PageView&noscript=1"
 <script src="https://cdn.jsdelivr.net/npm/@glidejs/glide" ></script>
 
 <script>
-  new Glide('.glide').mount()
+  new Glide('.glide', {
+  type: 'carousel',
+  startAt: 0,
+  perView: 3
+})
 </script>
 
 <script language="javascript">
