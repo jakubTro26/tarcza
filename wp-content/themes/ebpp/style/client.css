@@ -1139,3 +1139,10 @@ H3 {
 .problemy{
     width:448px;
 }
+
+@media (max-width:1200px){
+    .belka1,.belka2{
+        display:none;
+    }
+
+}
