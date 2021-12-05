@@ -119,15 +119,16 @@ src="https://www.facebook.com/tr?id=1527878994231932&ev=PageView&noscript=1"
 				
 					<div class="sawrapper">
 
-							<div class="imgsakwa">
-								<img class="sakwa"  src="https://tarczadlaciebie.pl/wp-content/uploads/2021/12/photo-tarcza-finansowa-dla-ciebie-1.png">
-							</div>
+						
 							<div class="sakwanapis">
 								<div class="sanapis">
 									Szukasz kredytu ze słabą zdolnośćią? Wierzysz, że jak zasypiesz wszystkie banki zapytaniami, to któryś wkońcu zdecuduję się udzielić Ci nowego kredytu na spłatę zobowiązań? <br>Niestety to droga do nikąd, już po trzechm złożonych zapytaniach system bankowy zablokuje możliwosć udzielenia pożyczki.<br> Nie działąj na własną rękę i "na czuja".<br> My wiemy gdzie i kiedy. Wiemy który bank woli konsolidować kredyty, a który chwiliówki. Wiemy gdzie hotelarz a gdzie pielęgniarka najszybciej i najłatwiej otrzyma kredyt. Bez zapytań i bez strzelania na oślep.<br> Tak właśnie wyglądają finanse skrojone na miarę.
 
 								</div>
 
+							</div>
+							<div class="imgsakwa">
+								<img class="sakwa"  src="https://tarczadlaciebie.pl/wp-content/uploads/2021/12/photo-tarcza-finansowa-dla-ciebie-1.png">
 							</div>
 						
 					</div>
