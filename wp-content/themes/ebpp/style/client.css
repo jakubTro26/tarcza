@@ -1361,6 +1361,7 @@ H3 {
 width:85px;
 position: relative;
     top: 50px;
+    box-shadow: 5px 6px 5px #6868686b;
 }
 
 .kwtxt1,.kwtxt2,.kwtxt3,.kwtxt4,.kwtxt5,.kwtxt6,.kwtxt7{
