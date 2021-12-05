@@ -371,12 +371,12 @@ src="https://www.facebook.com/tr?id=1527878994231932&ev=PageView&noscript=1"
 								</div>							
 
 							</div>
-							<div class="tarcza">
-								<img src="https://tarczadlaciebie.pl/wp-content/uploads/2021/12/shield-dlaczego-tarcza-prawna-crop.png">
-							</div>
+
 					</div>
 				</div>
-
+				<div class="tarcza">
+								<img src="https://tarczadlaciebie.pl/wp-content/uploads/2021/12/shield-dlaczego-tarcza-prawna-crop.png">
+				</div>
 
 			</div>
 
