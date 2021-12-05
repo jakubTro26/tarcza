@@ -1473,3 +1473,7 @@ margin: 20px;
     left: 257px;
     /* white-space: nowrap; */ 
 }
+
+.sawrapper{
+    display:flex;
+}
