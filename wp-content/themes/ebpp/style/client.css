@@ -1476,8 +1476,17 @@ margin: 20px;
 
 .sawrapper{
     display:flex;
+    background: white;
+    width: 1200px;
+    margin: auto;
+    border-radius: 20px;
+}
 }
 
 .sakwa{
     width: 471px;
+}
+
+.sa1{
+    margin-top: 56px;
 }
