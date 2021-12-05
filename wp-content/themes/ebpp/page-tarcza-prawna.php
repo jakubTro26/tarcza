@@ -309,7 +309,7 @@ src="https://www.facebook.com/tr?id=1527878994231932&ev=PageView&noscript=1"
 										<img src="https://tarczadlaciebie.pl/wp-content/uploads/2021/11/p6.png">
 									</div>
 
-									<div class="dgi2">
+									<div class="dgo2">
 										<div>Doświadczeni prawnicy po TWOJEJ stronie.</div>
 									</div>
 								</div>
@@ -318,7 +318,7 @@ src="https://www.facebook.com/tr?id=1527878994231932&ev=PageView&noscript=1"
 										<img src="https://tarczadlaciebie.pl/wp-content/uploads/2021/11/p6.png">
 									</div>
 
-									<div class="dgi3">
+									<div class="dgo3">
 										<div>Nielimitowany dostęp do osobistego doradcy prawnego</div> 	
 									</div>
 								</div>
@@ -327,7 +327,7 @@ src="https://www.facebook.com/tr?id=1527878994231932&ev=PageView&noscript=1"
 										<img src="https://tarczadlaciebie.pl/wp-content/uploads/2021/11/p6.png">
 									</div>
 
-									<div class="dgi4">
+									<div class="dgo4">
 										<div>Oferta dostosowana do twoich potrzeb</div>
 									</div>
 								</div>
@@ -338,7 +338,7 @@ src="https://www.facebook.com/tr?id=1527878994231932&ev=PageView&noscript=1"
 										<img src="https://tarczadlaciebie.pl/wp-content/uploads/2021/11/p6.png">
 									</div>
 
-									<div class="dgi5">
+									<div class="dgo5">
 										<div>Pomoc na etapie polubownym i sądowym</div>
 									</div>
 								</div>
@@ -347,7 +347,7 @@ src="https://www.facebook.com/tr?id=1527878994231932&ev=PageView&noscript=1"
 										<img src="https://tarczadlaciebie.pl/wp-content/uploads/2021/11/p6.png">
 									</div>
 
-									<div class="dgi6">
+									<div class="dgo6">
 										<div>Skuteczne działania antywindykacyjne</div>
 									</div>
 								</div>
@@ -356,7 +356,7 @@ src="https://www.facebook.com/tr?id=1527878994231932&ev=PageView&noscript=1"
 										<img src="https://tarczadlaciebie.pl/wp-content/uploads/2021/11/p6.png">
 									</div>
 
-									<div class="dgi7">
+									<div class="dgo7">
 										<div>Usuwanie negatywnych wpisów w raportach</div>
 									</div>
 								</div>
@@ -365,7 +365,7 @@ src="https://www.facebook.com/tr?id=1527878994231932&ev=PageView&noscript=1"
 										<img src="https://tarczadlaciebie.pl/wp-content/uploads/2021/11/p6.png">
 									</div>
 
-									<div class="dgi8">
+									<div class="dgo8">
 										<div>Profesjonalna ochrona przed windykacją i egzekucją komorniczą</div>
 									</div>
 								</div>							
