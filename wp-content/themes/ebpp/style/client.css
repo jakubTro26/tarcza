@@ -1305,3 +1305,11 @@ H3 {
 .wrapperDlaczego{
     position:relative;
 }
+
+.demedals1{
+    position: relative;
+    margin: auto;
+    width: min-content;
+    left: -80px;
+    margin-top: 33px;
+}
