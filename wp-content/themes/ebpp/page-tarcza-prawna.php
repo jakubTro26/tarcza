@@ -285,6 +285,94 @@ src="https://www.facebook.com/tr?id=1527878994231932&ev=PageView&noscript=1"
 				</div>
 
 			</div>
+			<div class="wrapperDlaczego">
+				<div class="dwrapper1">
+					<div class="dopis1">
+
+							Dlaczego Tarcza Prawna?
+					</div>
+					<div class="dmedals1">
+							<div class="dgrupa1">
+								<div class="dg1">
+									<div class="dgi1">
+										<img src="https://tarczadlaciebie.pl/wp-content/uploads/2021/11/p6.png">
+									</div>
+									<div class="dgo1">
+										Jedyna darmowa oferta pomocy na rynku. 
+									</div>
+								</div>
+								<div class="dg2">
+									<div class="dgi2">
+										<img src="https://tarczadlaciebie.pl/wp-content/uploads/2021/11/p6.png">
+									</div>
+
+									<div class="dgi2">
+										Doświadczeni prawnicy po TWOJEJ stronie.
+									</div>
+								</div>
+								<div class="dg3">
+									<div class="dgi3">
+										<img src="https://tarczadlaciebie.pl/wp-content/uploads/2021/11/p6.png">
+									</div>
+
+									<div class="dgi3">
+										Nielimitowany dostęp do osobistego doradcy prawnego 	
+									</div>
+								</div>
+								<div class=dg4>
+									<div class="dgi4">
+										<img src="https://tarczadlaciebie.pl/wp-content/uploads/2021/11/p6.png">
+									</div>
+
+									<div class="dgi4">
+										Oferta dostosowana do twoich potrzeb
+									</div>
+								</div>
+							</div>
+							<div class="dgrupa2">
+								<div class="dg5">
+									<div class="dgi5">
+										<img src="https://tarczadlaciebie.pl/wp-content/uploads/2021/11/p6.png">
+									</div>
+
+									<div class="dgi5">
+										Pomoc na etapie polubownym i sądowym
+									</div>
+								</div>
+								<div class="dg6">
+									<div class="dgi6">
+										<img src="https://tarczadlaciebie.pl/wp-content/uploads/2021/11/p6.png">
+									</div>
+
+									<div class="dgi6">
+										Skuteczne działania antywindykacyjne
+									</div>
+								</div>
+								<div class="dg7">
+									<div class="dgi7">
+										<img src="https://tarczadlaciebie.pl/wp-content/uploads/2021/11/p6.png">
+									</div>
+
+									<div class="dgi7">
+										Usuwanie negatywnych wpisów w raportach
+									</div>
+								</div>
+								<div class=dg8>
+									<div class="dgi8">
+										<img src="https://tarczadlaciebie.pl/wp-content/uploads/2021/11/p6.png">
+									</div>
+
+									<div class="dgi8">
+										Profesjonalna ochrona przed windykacją i egzekucją komorniczą
+									</div>
+								</div>							
+
+							</div>
+					</div>
+				</div>
+
+
+			</div>
 	</div>
 
 	
