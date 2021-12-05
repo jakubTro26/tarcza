@@ -1385,8 +1385,15 @@ position: relative;
 .ptarcza{
     display:flex;
     width:min-content;
+    margin: auto;
 }
 
 .pt1 img,.pt2 img,.pt3 img{
     width: 104px;
+}
+
+.ptb1,.ptb2{
+    position: relative;
+    top: 64px;
+    margin: 0 20px;
 }
