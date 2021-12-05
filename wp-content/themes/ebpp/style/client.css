@@ -1401,3 +1401,11 @@ position: relative;
 .ptxt1, .ptxt2, .ptxt3{
     white-space: nowrap;
 }
+
+.potarcza{
+    
+}
+
+.set21,.set22,.set23{
+    display:flex;
+}
