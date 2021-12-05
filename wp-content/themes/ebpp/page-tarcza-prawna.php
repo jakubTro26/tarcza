@@ -552,9 +552,9 @@ src="https://www.facebook.com/tr?id=1527878994231932&ev=PageView&noscript=1"
 								Działamy na terenie całego kraju. Dzięki nowoczesnym technologiom jesteś pod naszą opieką, bez względu na to gdzie się znajdujesz. Twoimi sprawami chętnie zajmiemy się także wtedy, gdy przebywasz za granicami Polski
 								</div>	
 							</div>
-							<div class="kw28">
+							<div class="kw29">
 								<img src="https://tarczadlaciebie.pl/wp-content/uploads/2021/12/p58.png"> 
-								<div class="kwtxt28">
+								<div class="kwtxt29">
 									Poza pomocą prawną, u nas zyskasz zawsze zrozumienie, profesjonalizm, zaufanie i pomoc. Nie oceniamy, nie poddajemy się, wierzymy że zawsze jest wyjście nawet z bardzo trudnej sytuacji
 								</div> 
 							</div>
