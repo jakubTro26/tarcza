@@ -404,6 +404,42 @@ src="https://www.facebook.com/tr?id=1527878994231932&ev=PageView&noscript=1"
 				</div>
 
 			</div>
+			<div class="wrappertarczato">
+				<div class="tarczato1">
+					<div class="napisto">
+							Tarcza Prawna to:
+					</div>
+				</div>
+				<div class="starcza">
+					<div class="set1">
+							<div class="kw1">
+								<img src="https://tarczadlaciebie.pl/wp-content/uploads/2021/12/p39.png">
+							</div>
+							<div class="kw2">
+								<img src="https://tarczadlaciebie.pl/wp-content/uploads/2021/12/p38.png">
+							</div>
+							<div class="kw3">
+								<img src="https://tarczadlaciebie.pl/wp-content/uploads/2021/12/p40.png">
+							</div>
+					</div>
+					<div class="set2">
+							<div class="kw4">
+								<img src="https://tarczadlaciebie.pl/wp-content/uploads/2021/12/p41.png"> 
+							</div>
+							<div class="kw5">
+								<img src="https://tarczadlaciebie.pl/wp-content/uploads/2021/12/p42.png">
+							</div>
+							<div class="kw6">
+								<img src="https://tarczadlaciebie.pl/wp-content/uploads/2021/12/p43.png">  
+							</div>
+					</div>
+					<div class="set3">
+							<div class="kw7">
+								<img src="https://tarczadlaciebie.pl/wp-content/uploads/2021/12/p44.png">
+							</div>
+					</div>
+				</div>
+			</div>
 
 
 
