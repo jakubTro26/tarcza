@@ -460,6 +460,35 @@ src="https://www.facebook.com/tr?id=1527878994231932&ev=PageView&noscript=1"
 							</div>
 					</div>
 				</div>
+				<div class="podtarcza">
+					<div class="ptarcza">
+							<div class="pt1">
+								<img src="https://tarczadlaciebie.pl/wp-content/uploads/2021/12/p46.png">
+								<div clas=ptxt1>
+									Działania sądowe
+								</div>
+							</div>
+							<div class="ptb1">
+								<img src="https://tarczadlaciebie.pl/wp-content/uploads/2021/12/p49.png"> 
+							</div>
+							<div class="pt2">
+								<img src="https://tarczadlaciebie.pl/wp-content/uploads/2021/12/p47.png">
+								<div class="ptxt2">
+									Ochrona majątku
+								</div>
+							</div>
+							<div class="ptb2">
+								<img src="https://tarczadlaciebie.pl/wp-content/uploads/2021/12/p49.png">
+							</div>
+							<div class="pt3">
+								<img src="https://tarczadlaciebie.pl/wp-content/uploads/2021/12/p48.png"> 
+								<div class="ptxt3">
+									Osobisty opiekun klienta
+								</div>
+							</div>
+					</div>
+
+				</div>
 			</div>
 
 
