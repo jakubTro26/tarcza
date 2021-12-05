@@ -1370,3 +1370,13 @@ position: relative;
     padding: 12px;
 
 }
+
+.kw1,.kw3{
+    position: relative;
+    top: 45px;
+}
+
+.kw4,.kw6{
+    position: relative;
+    top: 45px;
+}
