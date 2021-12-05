@@ -1465,3 +1465,11 @@ margin: 20px;
 .tfinansowa{
     font-size: 28px;
 }
+
+.spec2 div{
+    width: 408px;
+    /* width: min-content; */
+    position: relative;
+    left: 257px;
+    /* white-space: nowrap; */ 
+}
