@@ -108,58 +108,28 @@ src="https://www.facebook.com/tr?id=1527878994231932&ev=PageView&noscript=1"
 	<div class="thirddiv">
 			<div class="wrapper1">
 				<div class='specjalizujemy'>
-						Specjalizujemy się w
+						Tarcza finansowa dla Ciebie
 				</div>
-				<div class="uscisk">
-					<div class="img10"><img class="rece"  src="https://tarczadlaciebie.pl/wp-content/uploads/2021/12/photo-specjalizujemy-sie-w.png"></div>
+				<div class="spec2">
+					Przedstawiamy Ci jedyną skuteczną tarczę w dzisiejszych ciężkich czasach
+
+				</div>
+				<div class="sa1">
+					
 				
-					<div class="orders">
-						<div class="column1">
-							<div class="u1">
-								<img class="i1" src="https://tarczadlaciebie.pl/wp-content/uploads/2021/11/p6.png">
-								<div class='n1'>
-									<span>Redukcji długów</span>
-								</div>
+					<div class="sawrapper">
+
+							<div class="imgsakwa">
+								<img class="sakwa"  src="https://tarczadlaciebie.pl/wp-content/uploads/2021/12/photo-tarcza-finansowa-dla-ciebie-1.png">
 							</div>
-							<div  class="u2">
-								<img class="i2" src="https://tarczadlaciebie.pl/wp-content/uploads/2021/11/p6.png">
-								<div class="n2" >
-									<span>Konsolidowaniu w jedną ratę</span>
+							<div class="sakwanapis">
+								<div class="sanapis">
+									Szukasz kredytu ze słabą zdolnośćią? Wierzysz, że jak zasypiesz wszystkie banki zapytaniami, to któryś wkońcu zdecuduję się udzielić Ci nowego kredytu na spłatę zobowiązań? <br>Niestety to droga do nikąd, już po trzechm złożonych zapytaniach system bankowy zablokuje możliwosć udzielenia pożyczki. Nie działąj na własną rękę i "na czuja". My wiemy gdzie i kiedy. Wiemy który bank woli konsolidować kredyty, a który chwiliówki. Wiemy gdzie hotelarz a gdzie pielęgniarka najszybciej i najłatwiej otrzyma kredyt. Bez zapytań i bez strzelania na oślep. Tak właśnie wyglądają finanse skrojone na miarę.
+
 								</div>
+
 							</div>
-							<div  class="u3">
-								<img class="i3" src="https://tarczadlaciebie.pl/wp-content/uploads/2021/11/p6.png">
-								<div class="n3">
-									<span>Ochronie pensji i majątku</span>
-								</div>
-							</div>
-							<div  class="u4">
-								<img class="i4" src="https://tarczadlaciebie.pl/wp-content/uploads/2021/11/p6.png">
-								<div class="n4">
-									<span>Poprawie historii kredytowej</span>
-								</div>
-							</div>
-						</div>
-						<div class="column2">
-							<div  class="u5" >
-								<img class="i5" src="https://tarczadlaciebie.pl/wp-content/uploads/2021/11/p6.png">
-								<div class="n5">
-									<span>Upadłości konsumenckiej</span>
-								</div>
-							</div>
-							<div  class="u6" >
-								<img class="i6" src="https://tarczadlaciebie.pl/wp-content/uploads/2021/11/p6.png">
-								<div class="n6">
-									<span>Finansowaniu twoich potrzeb</span>
-								</div>
-							</div>
-							<div  class="u7">
-								<img class="i7" src="https://tarczadlaciebie.pl/wp-content/uploads/2021/11/p6.png">
-								<div class="n7">
-									<span>Doradztwie antywindykacyjnym</span>
-								</div>
-							</div>
-						</div>
+						
 					</div>
 				
 				</div>
