@@ -569,18 +569,7 @@ src="https://www.facebook.com/tr?id=1527878994231932&ev=PageView&noscript=1"
 </div>
 
 
-</div><div id="text_content">
-<h4> </h4>
-<h4> </h4>
-<h4> </h4>
-<h4> </h4>
-<h4> </h4>
-<h4> </h4>
-<h4> </h4>
-<h4> </h4>
-<h4> </h4>
-<h4> </h4></div>
-</div>
+
 
 
 	
