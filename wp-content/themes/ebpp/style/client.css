@@ -1282,3 +1282,12 @@ H3 {
 .dg1,.dg2,.dg3,.dg4,.dg5,.dg6,.dg7,.dg8{
     display:flex;
 }
+
+.dgo1 div,.dgo2 div,.dgo3 div,.dgo4 div,.dgo5 div,.dgo6 div,.dgo7 div,.dgo8 div{
+    text-align: left;
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 164px;
+    margin-left: 21px;
+}
