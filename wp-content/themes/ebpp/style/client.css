@@ -1313,3 +1313,18 @@ H3 {
     left: -80px;
     margin-top: 33px;
 }
+
+.dopisWrapper{
+    width: min-content;
+    margin-top: 71px;
+    display: flex;
+    margin: auto;
+}
+
+.dopis1podpis{
+    width: 701px;
+}
+
+.dopispodpis{
+    margin-top: 140px;
+}
