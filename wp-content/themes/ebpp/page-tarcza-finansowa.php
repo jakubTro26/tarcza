@@ -92,8 +92,8 @@ src="https://www.facebook.com/tr?id=1527878994231932&ev=PageView&noscript=1"
 		<div id="seconddiv" >
 			<div class="top_napisy">
 				<div class="grupa1">
-					<h3 style="" class="show">Darmowa pomoc prawna dla zadłużonych</h3>
-					<div class="zostawkontakt">Zostaw swój kontakt a nasza doradca prawny oddzwoni do Ciebie z propozycją rozwiązań</div>
+					<h3 style="" class="show">Pomoc w uzyskaniu kredytu</h3>
+					<div class="zostawkontakt">Nie zwlekaj i skorzystaj z oferty tarczy już teraz!<br> Zamów kontakt a nasz doradca oddzwoni niezwłocznie</div>
 				</div>
 				
 			</div>
@@ -104,6 +104,66 @@ src="https://www.facebook.com/tr?id=1527878994231932&ev=PageView&noscript=1"
 			<?php echo do_shortcode('[contact-form-7 id="97" title="Formularz 1"]'); ?>
 			</div>
 		</div>
+	</div>
+	<div class="thirddiv">
+			<div class="wrapper1">
+				<div class='specjalizujemy'>
+						Specjalizujemy się w
+				</div>
+				<div class="uscisk">
+					<div class="img10"><img class="rece"  src="https://tarczadlaciebie.pl/wp-content/uploads/2021/12/photo-specjalizujemy-sie-w.png"></div>
+				
+					<div class="orders">
+						<div class="column1">
+							<div class="u1">
+								<img class="i1" src="https://tarczadlaciebie.pl/wp-content/uploads/2021/11/p6.png">
+								<div class='n1'>
+									<span>Redukcji długów</span>
+								</div>
+							</div>
+							<div  class="u2">
+								<img class="i2" src="https://tarczadlaciebie.pl/wp-content/uploads/2021/11/p6.png">
+								<div class="n2" >
+									<span>Konsolidowaniu w jedną ratę</span>
+								</div>
+							</div>
+							<div  class="u3">
+								<img class="i3" src="https://tarczadlaciebie.pl/wp-content/uploads/2021/11/p6.png">
+								<div class="n3">
+									<span>Ochronie pensji i majątku</span>
+								</div>
+							</div>
+							<div  class="u4">
+								<img class="i4" src="https://tarczadlaciebie.pl/wp-content/uploads/2021/11/p6.png">
+								<div class="n4">
+									<span>Poprawie historii kredytowej</span>
+								</div>
+							</div>
+						</div>
+						<div class="column2">
+							<div  class="u5" >
+								<img class="i5" src="https://tarczadlaciebie.pl/wp-content/uploads/2021/11/p6.png">
+								<div class="n5">
+									<span>Upadłości konsumenckiej</span>
+								</div>
+							</div>
+							<div  class="u6" >
+								<img class="i6" src="https://tarczadlaciebie.pl/wp-content/uploads/2021/11/p6.png">
+								<div class="n6">
+									<span>Finansowaniu twoich potrzeb</span>
+								</div>
+							</div>
+							<div  class="u7">
+								<img class="i7" src="https://tarczadlaciebie.pl/wp-content/uploads/2021/11/p6.png">
+								<div class="n7">
+									<span>Doradztwie antywindykacyjnym</span>
+								</div>
+							</div>
+						</div>
+					</div>
+				
+				</div>
+			</div>
 	</div>
 </div>
 	
