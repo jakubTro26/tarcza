@@ -1418,3 +1418,14 @@ position: relative;
 .kw21 img,.kw22 img,.kw23 img,.kw24 img,.kw25 img,.kw26 img,.kw27 img,.kw28 img,.kw29 img{
     width:105px;
 }
+
+.set21,.set22,.set23{
+    width: min-content;
+    margin: auto;
+}
+.kw21,.kw22,.kw23,.kw24,.kw25,.kw26,.kw27,.kw28,.kw29,{
+
+background: white;
+border-radius: 22px;
+box-shadow: 5px 6px 5px #6868686b;
+}
