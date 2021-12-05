@@ -1397,3 +1397,7 @@ position: relative;
     top: 64px;
     margin: 0 20px;
 }
+
+.ptxt1, .ptxt2, .ptxt3{
+    white-space: nowrap;
+}
