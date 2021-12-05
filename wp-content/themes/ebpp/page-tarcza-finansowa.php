@@ -111,7 +111,7 @@ src="https://www.facebook.com/tr?id=1527878994231932&ev=PageView&noscript=1"
 						Tarcza finansowa dla Ciebie
 				</div>
 				<div class="spec2">
-					Przedstawiamy Ci jedyną skuteczną tarczę w dzisiejszych ciężkich czasach
+					<div>Przedstawiamy Ci jedyną skuteczną tarczę w dzisiejszych ciężkich czasach</div>
 
 				</div>
 				<div class="sa1">
