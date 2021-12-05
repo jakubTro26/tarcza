@@ -56,7 +56,56 @@ src="https://www.facebook.com/tr?id=1527878994231932&ev=PageView&noscript=1"
 <body style="background: #f0f0f0;" cz-shortcut-listen="true">
 
 
-
+<div id="main_div">
+	<div class="tlo2">
+		<div class="menu_info">
+			<div class="topinfo">
+				<div class="mobile">
+					<div class="logo">
+						<a href="https://tarczadlaciebie.pl/"><img alt="Tarcza dla Ciebie - Jak Wyjść z Długów - pomoc w zadłużeniach" id="top_logo" src="https://tarczadlaciebie.pl/wp-content/uploads/2021/11/p1-1.png"></a>
+					</div>
+					<div class="dane">
+						<div class="koperta">
+							<a href="mailto:"><img src="https://tarczadlaciebie.pl/wp-content/uploads/2021/11/p2.png"></a>
+							<p>biuro@tarczadlaciebie.pl</p>
+						</div>
+						<div class="telefon">
+							<a href=""><img src="https://tarczadlaciebie.pl/wp-content/uploads/2021/11/p3.png"></a>
+							<p>791092092</p>
+						</div>
+					</div>
+				</div>
+			</div>
+		
+		</div>
+			<div id="top_div">
+		
+				
+				<div id="upper_menu_div">
+						<?php wp_nav_menu( array(
+							'menu' => 'menu1',
+							'container' => 'nav',
+							'menu_class' => 'upper_menu_item',
+					) ); ?>
+					</div><!--menu--> 
+			</div>
+		<div id="seconddiv" >
+			<div class="top_napisy">
+				<div class="grupa1">
+					<h3 style="" class="show">Darmowa pomoc prawna dla zadłużonych</h3>
+					<div class="zostawkontakt">Zostaw swój kontakt a nasza doradca prawny oddzwoni do Ciebie z propozycją rozwiązań</div>
+				</div>
+				
+			</div>
+			<div class="kontakt2 kontakt ">
+				<div class="ozdoba">
+						<img src="https://tarczadlaciebie.pl/wp-content/uploads/2021/12/p8.png">
+				</div>
+			<?php echo do_shortcode('[contact-form-7 id="97" title="Formularz 1"]'); ?>
+			</div>
+		</div>
+	</div>
+</div>
 	
 
 
