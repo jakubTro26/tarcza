@@ -1352,6 +1352,9 @@ H3 {
 .kw1,.kw2,.kw3,.kw4,.kw5,.kw6,.kw7{
     height: 227px;
     width: 265px;
+    background: white;
+    border-radius: 20px;
+    margin: 15px;
 }
 
 .kw1 img,.kw2 img,.kw3 img,.kw4 img,.kw5 img,.kw6 img,.kw7 img{
