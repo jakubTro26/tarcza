@@ -499,19 +499,19 @@ src="https://www.facebook.com/tr?id=1527878994231932&ev=PageView&noscript=1"
 				<div class="potarcza">
 					<div class="set21">
 							<div class="kw21">
-								<img src="https://tarczadlaciebie.pl/wp-content/uploads/2021/12/p39.png">
+								<img src="https://tarczadlaciebie.pl/wp-content/uploads/2021/12/p50.png">
 								<div class="kwtxt21">
 									Działając z nami masz pewność, że Twoje problemy finansowe zostaną rozwiązane na drodze prawnej, bez egzekucji komorniczej a co za tym idzie taniej i spokojniej. <br> Ponad 78 % klientów do nas trafiających uzyskuje satysfakcjonujące ugody na drodze polubownej i sądowej. 
 								</div>
 							</div>
 							<div class="kw22">
-								<img src="https://tarczadlaciebie.pl/wp-content/uploads/2021/12/p38.png">
+								<img src="https://tarczadlaciebie.pl/wp-content/uploads/2021/12/p51.png">
 								<div class="kwtxt22">
 									Jak wynika z naszych wieloletnich doświadczeń, osoby zadłużone, które zapewniły sobie opiekę prawną, śpią spokojnie. Ich problemy finansowe tak bardzo nie kładą się cieniem na życie prywatne i rodzinne. Nasi klieni są zdrowsi, spokojniejsi i lepiej śpią. My zadbamy odpowiednio o Twoje bezpieczeństwo finansowe. A tobie życzymy świętego spokoju
 								</div>
 							</div>
 							<div class="kw23">
-								<img src="https://tarczadlaciebie.pl/wp-content/uploads/2021/12/p40.png">
+								<img src="https://tarczadlaciebie.pl/wp-content/uploads/2021/12/p52.png">
 								<div class="kwtxt23">
 									Części naszych klientów zaproponujemy rozwiązania refinansowe i konsolidacyjne co pozwoli zakończyć okres życia od "pierwszego" do "pierwszego". Niższe raty to więcej pieniędzy w Twoim portfelu 
 								</div>
@@ -519,42 +519,42 @@ src="https://www.facebook.com/tr?id=1527878994231932&ev=PageView&noscript=1"
 					</div>
 					<div class="set22">
 							<div class="kw24">
-								<img src="https://tarczadlaciebie.pl/wp-content/uploads/2021/12/p41.png"> 
+								<img src="https://tarczadlaciebie.pl/wp-content/uploads/2021/12/p53.png"> 
 								<div class="kwtxt24">
 									Opieka za darmo. Zanim zaczniemy współpracę długoterminową, oferujemy Ci bezpłatny pakiet pomocy* <br> Nasz doradca pomoże Ci uporządkować Twoje sprawy finansowe i dokona analizy Twojej bieżącej sytuacji. Jesteśmy po twojej stronie - zrobimy wszystko byś odzyskał finansowy spokój
 
 								</div>
 							</div>
 							<div class="kw25">
-								<img src="https://tarczadlaciebie.pl/wp-content/uploads/2021/12/p42.png">
+								<img src="https://tarczadlaciebie.pl/wp-content/uploads/2021/12/p54.png">
 								<div class="kwtxt25">
 									Tarcza dla Ciebie to zespół doświadczonych prawników i finansistów, którzy z pasją podchodzą do swojej pracy. To dla Ciebie gwarancja rzetelnie wykonanej usługi na najwyższym poziomie
 								</div>	
 							</div>
 							<div class="kw26">
-								<img src="https://tarczadlaciebie.pl/wp-content/uploads/2021/12/p43.png"> 
+								<img src="https://tarczadlaciebie.pl/wp-content/uploads/2021/12/p55.png"> 
 								<div class="kwtxt25">
 									Warto być z nami od początku problemów z zadłużeniem aż do szczęśliwego rozwiązania wszystkich Twoich zmartwień. Podstawą skutecznego oddłużania jest systematyczne działanie na każdym etapie kondycji Twoich zobowiązań
 								</div> 
 							</div>
 					</div>
 					<div class="set23">
-							<div class="kw34">
-								<img src="https://tarczadlaciebie.pl/wp-content/uploads/2021/12/p41.png"> 
-								<div class="kwtxt34">
+							<div class="kw27">
+								<img src="https://tarczadlaciebie.pl/wp-content/uploads/2021/12/p56.png"> 
+								<div class="kwtxt27">
 									Warto nas wybrać bo zapewniamy dyskrecję i zachowujemy w tajemnicy zawodowej wszystkie przekazane nam informacje. Nikogo nie oceniamy - skupiamy się tylko i wyłącznie na finansowej i prawnej stronie twoich kłopotów
 
 								</div>
 							</div>
-							<div class="kw35">
-								<img src="https://tarczadlaciebie.pl/wp-content/uploads/2021/12/p42.png">
-								<div class="kwtxt35">
+							<div class="kw28">
+								<img src="https://tarczadlaciebie.pl/wp-content/uploads/2021/12/p57.png">
+								<div class="kwtxt28">
 								Działamy na terenie całego kraju. Dzięki nowoczesnym technologiom jesteś pod naszą opieką, bez względu na to gdzie się znajdujesz. Twoimi sprawami chętnie zajmiemy się także wtedy, gdy przebywasz za granicami Polski
 								</div>	
 							</div>
-							<div class="kw36">
-								<img src="https://tarczadlaciebie.pl/wp-content/uploads/2021/12/p43.png"> 
-								<div class="kwtxt35">
+							<div class="kw28">
+								<img src="https://tarczadlaciebie.pl/wp-content/uploads/2021/12/p58.png"> 
+								<div class="kwtxt28">
 									Poza pomocą prawną, u nas zyskasz zawsze zrozumienie, profesjonalizm, zaufanie i pomoc. Nie oceniamy, nie poddajemy się, wierzymy że zawsze jest wyjście nawet z bardzo trudnej sytuacji
 								</div> 
 							</div>
