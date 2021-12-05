@@ -1342,3 +1342,14 @@ H3 {
     margin: 40px 0px 40px 0px;
     font-size: 27px;
 }
+
+.set1,.set2,.set3{
+    display: flex;
+    width: min-content;
+    margin: auto;
+}
+
+.kw1,.kw2,.kw3,.kw4,.kw5,.kw6,.kw7{
+    height: 227px;
+    width: 265px;
+}
