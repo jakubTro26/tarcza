@@ -371,7 +371,10 @@ src="https://www.facebook.com/tr?id=1527878994231932&ev=PageView&noscript=1"
 								</div>							
 
 							</div>
-							<div class="dopis2">
+
+						
+					</div>
+					<div class="dopis2">
 								<div class="dopis2img">
 									<img src="https://tarczadlaciebie.pl/wp-content/uploads/2021/12/p36.png">
 								</div>
@@ -379,8 +382,6 @@ src="https://www.facebook.com/tr?id=1527878994231932&ev=PageView&noscript=1"
 									Naszą misją jest pomoc klientom w problemach ze spłatą zobowiązań. Chcemy podać Ci pomocną dłoń. Służyć wiedzą i doświadczeniem. Tak abyś spłacił swoje zobowiązania z godnością, na raty i bez egzekucji komorniczych i utraty majątku.
 								</div>
 							</div>
-						
-					</div>
 				</div>
 				<div class="tarcza">
 								<img src="https://tarczadlaciebie.pl/wp-content/uploads/2021/12/shield-dlaczego-tarcza-prawna-crop.png">
