@@ -1359,4 +1359,13 @@ H3 {
 
 .kw1 img,.kw2 img,.kw3 img,.kw4 img,.kw5 img,.kw6 img,.kw7 img{
 width:85px;
+position: relative;
+    top: 50px;
+}
+
+.kw1 div,.kw2 div,.kw3 div,.kw4 div,.kw5 div,.kw6 div,.kw7 div,{
+    position: relative;
+    top: 79px;
+    padding: 12px;
+
 }
