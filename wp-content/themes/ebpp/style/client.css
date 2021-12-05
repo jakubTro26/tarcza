@@ -1291,3 +1291,13 @@ H3 {
     width: 164px;
     margin-left: 21px;
 }
+
+.tarcza img {
+    width: 342px;
+}
+
+.tarcza{
+    position: absolute;
+    right: 0px;
+    top: 7px;
+}
