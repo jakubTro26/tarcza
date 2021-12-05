@@ -493,7 +493,7 @@ src="https://www.facebook.com/tr?id=1527878994231932&ev=PageView&noscript=1"
 			<div class="powody">
 				<div class="opowody">
 					<div class="napispowody">
-							9 powodów dla których warto być z nami
+							9 powodów<br> dla których warto być z nami
 					</div>
 				</div>
 				<div class="potarcza">
