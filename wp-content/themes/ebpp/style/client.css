@@ -1490,3 +1490,11 @@ margin: 20px;
 .sa1{
     margin-top: 56px;
 }
+
+.sanapis{
+    text-align: left;
+    padding: 55px;
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
+}
