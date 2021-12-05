@@ -301,7 +301,7 @@ src="https://www.facebook.com/tr?id=1527878994231932&ev=PageView&noscript=1"
 										<img src="https://tarczadlaciebie.pl/wp-content/uploads/2021/11/p6.png">
 									</div>
 									<div class="dgo1">
-										Jedyna darmowa oferta pomocy na rynku. 
+										<div>Jedyna darmowa oferta pomocy na rynku.</div> 
 									</div>
 								</div>
 								<div class="dg2">
@@ -310,7 +310,7 @@ src="https://www.facebook.com/tr?id=1527878994231932&ev=PageView&noscript=1"
 									</div>
 
 									<div class="dgi2">
-										Doświadczeni prawnicy po TWOJEJ stronie.
+										<div>Doświadczeni prawnicy po TWOJEJ stronie.</div>
 									</div>
 								</div>
 								<div class="dg3">
@@ -319,7 +319,7 @@ src="https://www.facebook.com/tr?id=1527878994231932&ev=PageView&noscript=1"
 									</div>
 
 									<div class="dgi3">
-										Nielimitowany dostęp do osobistego doradcy prawnego 	
+										<div>Nielimitowany dostęp do osobistego doradcy prawnego</div> 	
 									</div>
 								</div>
 								<div class=dg4>
@@ -328,7 +328,7 @@ src="https://www.facebook.com/tr?id=1527878994231932&ev=PageView&noscript=1"
 									</div>
 
 									<div class="dgi4">
-										Oferta dostosowana do twoich potrzeb
+										<div>Oferta dostosowana do twoich potrzeb</div>
 									</div>
 								</div>
 							</div>
@@ -339,7 +339,7 @@ src="https://www.facebook.com/tr?id=1527878994231932&ev=PageView&noscript=1"
 									</div>
 
 									<div class="dgi5">
-										Pomoc na etapie polubownym i sądowym
+										<div>Pomoc na etapie polubownym i sądowym</div>
 									</div>
 								</div>
 								<div class="dg6">
@@ -348,7 +348,7 @@ src="https://www.facebook.com/tr?id=1527878994231932&ev=PageView&noscript=1"
 									</div>
 
 									<div class="dgi6">
-										Skuteczne działania antywindykacyjne
+										<div>Skuteczne działania antywindykacyjne</div>
 									</div>
 								</div>
 								<div class="dg7">
@@ -357,7 +357,7 @@ src="https://www.facebook.com/tr?id=1527878994231932&ev=PageView&noscript=1"
 									</div>
 
 									<div class="dgi7">
-										Usuwanie negatywnych wpisów w raportach
+										<div>Usuwanie negatywnych wpisów w raportach</div>
 									</div>
 								</div>
 								<div class=dg8>
@@ -366,7 +366,7 @@ src="https://www.facebook.com/tr?id=1527878994231932&ev=PageView&noscript=1"
 									</div>
 
 									<div class="dgi8">
-										Profesjonalna ochrona przed windykacją i egzekucją komorniczą
+										<div>Profesjonalna ochrona przed windykacją i egzekucją komorniczą</div>
 									</div>
 								</div>							
 

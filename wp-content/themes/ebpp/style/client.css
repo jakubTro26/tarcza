@@ -1269,3 +1269,16 @@ H3 {
     height: 2520px;
 }
 }
+
+.dopis1{
+    margin-top: 27px;
+    font-size: 31px;
+}
+
+.demedals1{
+    display: flex;
+}
+
+.dg1,.dg2,.dg3,.dg4,.dg5,.dg6,.dg7,.dg8{
+    display:flex;
+}
