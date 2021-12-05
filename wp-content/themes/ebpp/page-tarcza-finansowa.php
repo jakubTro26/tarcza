@@ -107,7 +107,7 @@ src="https://www.facebook.com/tr?id=1527878994231932&ev=PageView&noscript=1"
 	</div>
 	<div class="trzecidiv">
 			<div class="wrapperfinanse">
-				<div class='specjalizujemy'>
+				<div class='tfinansowa'>
 						Tarcza finansowa dla Ciebie
 				</div>
 				<div class="spec2">
