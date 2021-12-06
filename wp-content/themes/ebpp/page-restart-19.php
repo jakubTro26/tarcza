@@ -183,6 +183,68 @@ src="https://www.facebook.com/tr?id=1527878994231932&ev=PageView&noscript=1"
 			</div>
 
 		</div>
+		<div class="jakrestart">
+			<div class="drestart">
+				<div class="jaknapis">
+
+				</div>
+
+				<div class="krestart">
+					<div class="rset1">
+							<div class="rsetimg1">
+								<img class="rsetimg11" src="https://tarczadlaciebie.pl/wp-content/uploads/2021/12/p74.png">
+								<img class="rsetimg12" src="https://tarczadlaciebie.pl/wp-content/uploads/2021/12/p27.png">
+							</div>
+							<div class="rsetopis1">
+								<div>
+									Zamów kontakt, szybko ustalimy fakty i potrzeby. Wymienimy niezbędne dokumenty.
+								</div>
+
+							</div>
+					</div>
+					<div class="rset2">
+					<div class="rsetimg2">
+								<img class="rsetimg21" src="https://tarczadlaciebie.pl/wp-content/uploads/2021/12/p75.png">
+								<img class="rsetimg22" src="https://tarczadlaciebie.pl/wp-content/uploads/2021/12/p28.png">
+							</div>
+							<div class="rsetopis2">
+								<div>
+									Sprawdzimy opcje i możliwości
+								</div>
+
+							</div>
+					</div>
+					<div class="rset3">
+					<div class="rsetimg3">
+								<img class="rsetimg31" src="https://tarczadlaciebie.pl/wp-content/uploads/2021/12/p76.png">
+								<img class="rsetimg32" src="https://tarczadlaciebie.pl/wp-content/uploads/2021/12/p29.png">
+							</div>
+							<div class="rsetopis3">
+								<div>
+									Przedstawimy ofertę z gwarancją finansowania w 24h
+								</div>
+
+							</div>
+					</div>
+					<div class="rset4">
+					<div class="rsetimg4">
+								<img class="rsetimg41" src="https://tarczadlaciebie.pl/wp-content/uploads/2021/12/p77.png">
+								<img class="rsetimg42" src="https://tarczadlaciebie.pl/wp-content/uploads/2021/12/p73.png">
+							</div>
+							<div class="rsetopis4">
+								<div>
+									Podpisujemy umowę, pożyczka trafia na twoje konto
+								</div>
+
+							</div>
+					</div>
+
+				</div>
+
+			</div>
+
+
+		</div>
 	</div>
 
 
