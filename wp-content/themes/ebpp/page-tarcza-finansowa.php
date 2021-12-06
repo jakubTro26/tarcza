@@ -211,19 +211,19 @@ src="https://www.facebook.com/tr?id=1527878994231932&ev=PageView&noscript=1"
 					<div class="starcza">
 						<div class="set1">
 								<div class="kw1">
-									<img src="https://tarczadlaciebie.pl/wp-content/uploads/2021/12/p39.png">
+									<img src="https://tarczadlaciebie.pl/wp-content/uploads/2021/12/p63.png">
 									<div class="kwtxt1">
 										Nielimitowany dostęp do osobistego opiekuna prawnego
 									</div>
 								</div>
 								<div class="kw2">
-									<img src="https://tarczadlaciebie.pl/wp-content/uploads/2021/12/p38.png">
+									<img src="https://tarczadlaciebie.pl/wp-content/uploads/2021/12/p64.png">
 									<div class="kwtxt2">
 										Analiza prawna i finansowa sytuacji
 									</div>
 								</div>
 								<div class="kw3">
-									<img src="https://tarczadlaciebie.pl/wp-content/uploads/2021/12/p40.png">
+									<img src="https://tarczadlaciebie.pl/wp-content/uploads/2021/12/p65.png">
 									<div class="kwtxt3">
 										Skuteczne działania restrukturyzacyjne i mediacje na drodze polubownej
 									</div>
@@ -231,39 +231,39 @@ src="https://www.facebook.com/tr?id=1527878994231932&ev=PageView&noscript=1"
 						</div>
 						<div class="set2">
 								<div class="kw4">
-									<img src="https://tarczadlaciebie.pl/wp-content/uploads/2021/12/p41.png"> 
+									<img src="https://tarczadlaciebie.pl/wp-content/uploads/2021/12/p66.png"> 
 									<div class="kwtxt4">
 										Profesjonalna pomoc prawnika w sprawach związanych z zadłużeniem
 									</div>
 								</div>
 								<div class="kw5">
-									<img src="https://tarczadlaciebie.pl/wp-content/uploads/2021/12/p42.png">
+									<img src="https://tarczadlaciebie.pl/wp-content/uploads/2021/12/p67.png">
 									<div class="kwtxt5">
 										Profesjonalna reprezentacja na etepie sądowym 
 									</div>	
 								</div>
 								<div class="kw6">
-									<img src="https://tarczadlaciebie.pl/wp-content/uploads/2021/12/p43.png"> 
+									<img src="https://tarczadlaciebie.pl/wp-content/uploads/2021/12/p68.png"> 
 									<div class="kwtxt5">
 										Skuteczne działania antywindykacyjne
 									</div> 
 								</div>
 						</div>
 						<div class="set3">
-								<div class="kw4">
-									<img src="https://tarczadlaciebie.pl/wp-content/uploads/2021/12/p41.png"> 
+								<div class="kw7">
+									<img src="https://tarczadlaciebie.pl/wp-content/uploads/2021/12/p69.png"> 
 									<div class="kwtxt4">
 										Profesjonalna pomoc prawnika w sprawach związanych z zadłużeniem
 									</div>
 								</div>
-								<div class="kw5">
-									<img src="https://tarczadlaciebie.pl/wp-content/uploads/2021/12/p42.png">
+								<div class="kw8">
+									<img src="https://tarczadlaciebie.pl/wp-content/uploads/2021/12/p70.png">
 									<div class="kwtxt5">
 										Profesjonalna reprezentacja na etepie sądowym 
 									</div>	
 								</div>
-								<div class="kw6">
-									<img src="https://tarczadlaciebie.pl/wp-content/uploads/2021/12/p43.png"> 
+								<div class="kw9">
+									<img src="https://tarczadlaciebie.pl/wp-content/uploads/2021/12/p71.png"> 
 									<div class="kwtxt5">
 										Skuteczne działania antywindykacyjne
 									</div> 
