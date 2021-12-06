@@ -1509,7 +1509,7 @@ margin: 20px;
     position: absolute;
     bottom: 0px;
     left: -15px;
-    width: 59px;
+    width: 59px !important;
 }
 
 .pt1img,.pt2img,.pt3img{
