@@ -124,7 +124,7 @@ src="https://www.facebook.com/tr?id=1527878994231932&ev=PageView&noscript=1"
 					
 				
 					<div class="wrapperhistoria">
-							<div class="historianapis">
+							<div class="historianapis2">
 								<div>
 									Tam i z powrotem, czyli historia szukania pożyczki nie za miliony
 								</div>
