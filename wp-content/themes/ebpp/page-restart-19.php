@@ -254,19 +254,19 @@ src="https://www.facebook.com/tr?id=1527878994231932&ev=PageView&noscript=1"
 					<div class="starcza">
 						<div class="set1">
 								<div class="kw1">
-									<img src="https://tarczadlaciebie.pl/wp-content/uploads/2021/12/p63.png">
+									<img src="https://tarczadlaciebie.pl/wp-content/uploads/2021/12/p78.png">
 									<div class="kwtxt1">
 										Nielimitowany dostęp do osobistego opiekuna prawnego
 									</div>
 								</div>
 								<div class="kw2">
-									<img src="https://tarczadlaciebie.pl/wp-content/uploads/2021/12/p64.png">
+									<img src="https://tarczadlaciebie.pl/wp-content/uploads/2021/12/p79.png">
 									<div class="kwtxt2">
 										Analiza prawna i finansowa sytuacji
 									</div>
 								</div>
 								<div class="kw3">
-									<img src="https://tarczadlaciebie.pl/wp-content/uploads/2021/12/p65.png">
+									<img src="https://tarczadlaciebie.pl/wp-content/uploads/2021/12/p80.png">
 									<div class="kwtxt3">
 										Skuteczne działania restrukturyzacyjne i mediacje na drodze polubownej
 									</div>
@@ -274,7 +274,7 @@ src="https://www.facebook.com/tr?id=1527878994231932&ev=PageView&noscript=1"
 						</div>
 						<div class="set2">
 								<div class="kw4">
-									<img src="https://tarczadlaciebie.pl/wp-content/uploads/2021/12/p66.png"> 
+									<img src="https://tarczadlaciebie.pl/wp-content/uploads/2021/12/p81.png"> 
 									<div class="kwtxt4">
 										Profesjonalna pomoc prawnika w sprawach związanych z zadłużeniem
 									</div>
