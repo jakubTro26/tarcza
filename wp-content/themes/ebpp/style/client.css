@@ -1571,3 +1571,19 @@ margin: 20px;
   .restart img{
     width: 241px;
   }
+
+  .jaknapis{
+    font-size: 37px;
+  }
+
+  .jakrestart{
+    margin-top: 62px;
+  }
+
+  .drestart{
+    width: 1200px;
+  }
+
+  .krestart{
+    display: flex;
+  }
