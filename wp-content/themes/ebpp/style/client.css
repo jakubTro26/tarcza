@@ -1619,12 +1619,13 @@ margin: 20px;
       margin:auto;
       box-shadow: 5px 6px 5px #6868686b;
       border-radius:28px;
+      width: 1000px;
   }
 
   .historianapis div{
     margin: auto;
-    font-size: 25px;
-    width: 474px;
+    
+    width: 736px;
   }
 
   .historiapodpis{
