@@ -1499,3 +1499,6 @@ margin: 20px;
     top: 50%;
     transform: translateY(-50%);
 }
+.pt1,.pt2,.pt3{
+    position:relative;
+}
