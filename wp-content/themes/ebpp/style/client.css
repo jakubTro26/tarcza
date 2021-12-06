@@ -1582,8 +1582,16 @@ margin: 20px;
 
   .drestart{
     width: 1200px;
+    margin:auto;
   }
 
   .krestart{
     display: flex;
+  }
+
+  .rsetimg1,.rsetimg2,.rsetimg3,.rsetimg4{
+    margin: auto;
+    position: relative;
+    width: min-content;
+
   }
