@@ -244,7 +244,7 @@ src="https://www.facebook.com/tr?id=1527878994231932&ev=PageView&noscript=1"
 								</div>
 								<div class="kw6">
 									<img src="https://tarczadlaciebie.pl/wp-content/uploads/2021/12/p68.png"> 
-									<div class="kwtxt5">
+									<div class="kwtxt6">
 										Skuteczne działania antywindykacyjne
 									</div> 
 								</div>
@@ -252,53 +252,25 @@ src="https://www.facebook.com/tr?id=1527878994231932&ev=PageView&noscript=1"
 						<div class="set3">
 								<div class="kw7">
 									<img src="https://tarczadlaciebie.pl/wp-content/uploads/2021/12/p69.png"> 
-									<div class="kwtxt4">
+									<div class="kwtxt7">
 										Profesjonalna pomoc prawnika w sprawach związanych z zadłużeniem
 									</div>
 								</div>
 								<div class="kw8">
 									<img src="https://tarczadlaciebie.pl/wp-content/uploads/2021/12/p70.png">
-									<div class="kwtxt5">
+									<div class="kwtxt8">
 										Profesjonalna reprezentacja na etepie sądowym 
 									</div>	
 								</div>
 								<div class="kw9">
 									<img src="https://tarczadlaciebie.pl/wp-content/uploads/2021/12/p71.png"> 
-									<div class="kwtxt5">
+									<div class="kwtxt9">
 										Skuteczne działania antywindykacyjne
 									</div> 
 								</div>
 						</div>
 					</div>
-					<div class="podtarcza">
-						<div class="ptarcza">
-								<div class="pt1">
-									<img src="https://tarczadlaciebie.pl/wp-content/uploads/2021/12/p46.png">
-									<div clas=ptxt1>
-										Działania sądowe
-									</div>
-								</div>
-								<div class="ptb1">
-									<img src="https://tarczadlaciebie.pl/wp-content/uploads/2021/12/p49.png"> 
-								</div>
-								<div class="pt2">
-									<img src="https://tarczadlaciebie.pl/wp-content/uploads/2021/12/p47.png">
-									<div class="ptxt2">
-										Ochrona majątku
-									</div>
-								</div>
-								<div class="ptb2">
-									<img src="https://tarczadlaciebie.pl/wp-content/uploads/2021/12/p49.png">
-								</div>
-								<div class="pt3">
-									<img src="https://tarczadlaciebie.pl/wp-content/uploads/2021/12/p48.png"> 
-									<div class="ptxt3">
-										Osobisty opiekun klienta
-									</div>
-								</div>
-						</div>
-
-					</div>
+			
 			</div>
 	</div>
 </div>

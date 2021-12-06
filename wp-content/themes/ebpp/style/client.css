@@ -1356,7 +1356,7 @@ H3 {
     margin: auto;
 }
 
-.kw1,.kw2,.kw3,.kw4,.kw5,.kw6,.kw7{
+.kw1,.kw2,.kw3,.kw4,.kw5,.kw6,.kw7,.kw8,.kw9{
     height: 227px;
     width: 265px;
     background: white;
@@ -1365,7 +1365,7 @@ H3 {
     box-shadow: 5px 6px 5px #6868686b;
 }
 
-.kw1 img,.kw2 img,.kw3 img,.kw4 img,.kw5 img,.kw6 img,.kw7 img{
+.kw1 img,.kw2 img,.kw3 img,.kw4 img,.kw5 img,.kw6 img,.kw7 img,.kw8 img,.kw9 img{
 width:85px;
 position: relative;
     top: 50px;
