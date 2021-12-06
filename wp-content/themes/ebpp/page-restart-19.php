@@ -128,7 +128,7 @@ src="https://www.facebook.com/tr?id=1527878994231932&ev=PageView&noscript=1"
 				<div class="sa1">
 					
 				
-					<div class="sawrapper2 clearfix">
+					<div class="sawrapper2 ">
 
 							<div class="imgsakwa">
 								<img class="sakwa"  src="https://tarczadlaciebie.pl/wp-content/uploads/2021/12/photo-dajemy-energie.png">
@@ -147,9 +147,7 @@ src="https://www.facebook.com/tr?id=1527878994231932&ev=PageView&noscript=1"
 				</div>
 			</div>
 	</div>
-	<div class="thirddiv">
-		
-	</div>
+
 
 	
 
