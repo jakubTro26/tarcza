@@ -145,7 +145,42 @@ src="https://www.facebook.com/tr?id=1527878994231932&ev=PageView&noscript=1"
 					</div>
 				
 				</div>
+		</div>
+		<div class="wezrestart">
+			<div class="restart">
+				<div class="rnapis">
+					Weź Restart 19 gdy masz podobne problemy
+
+				</div>
+				<div class="restart2">
+					<div class="restartimage">
+							<img src="https://tarczadlaciebie.pl/wp-content/uploads/2021/12/p72.png">
+
+					</div>
+					<div class=restartnapisy>
+						<div class="rnapis1">
+								Brak zdolności kredytowej ale mam nieruchomość
+						</div>
+						<div class="rnapis2">
+								Mam dochody ale blokują mnie negatywne wpisy
+						</div>
+						<div class="rnapis3">
+								Nie mam dochodów lecz mam nieruchomość
+						</div>
+						<div class="rnapis4">
+								Potrzebuję dokończyć inwestycję i wtedy zarobię
+						</div>
+						<div class="rnapis5">
+							Potrzebuję szybkiego kapitału bo mogę szybko zarobić
+						</div>
+
+					</div>
+
+				</div>
+
 			</div>
+
+		</div>
 	</div>
 
 
