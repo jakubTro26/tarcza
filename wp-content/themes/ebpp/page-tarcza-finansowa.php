@@ -163,7 +163,7 @@ src="https://www.facebook.com/tr?id=1527878994231932&ev=PageView&noscript=1"
 			<div class="podtarcza">
 					<div class="ptarcza">
 							<div class="pt1">
-								<img src="https://tarczadlaciebie.pl/wp-content/uploads/2021/12/p46.png">
+								<img src="https://tarczadlaciebie.pl/wp-content/uploads/2021/12/p59.png">
 								<div clas=ptxt1>
 									Działania sądowe
 								</div>
@@ -172,7 +172,7 @@ src="https://www.facebook.com/tr?id=1527878994231932&ev=PageView&noscript=1"
 								<img src="https://tarczadlaciebie.pl/wp-content/uploads/2021/12/p49.png"> 
 							</div>
 							<div class="pt2">
-								<img src="https://tarczadlaciebie.pl/wp-content/uploads/2021/12/p47.png">
+								<img src="https://tarczadlaciebie.pl/wp-content/uploads/2021/12/p60.png">
 								<div class="ptxt2">
 									Ochrona majątku
 								</div>
@@ -181,7 +181,7 @@ src="https://www.facebook.com/tr?id=1527878994231932&ev=PageView&noscript=1"
 								<img src="https://tarczadlaciebie.pl/wp-content/uploads/2021/12/p49.png">
 							</div>
 							<div class="pt3">
-								<img src="https://tarczadlaciebie.pl/wp-content/uploads/2021/12/p48.png"> 
+								<img src="https://tarczadlaciebie.pl/wp-content/uploads/2021/12/p61.png"> 
 								<div class="ptxt3">
 									Osobisty opiekun klienta
 								</div>
