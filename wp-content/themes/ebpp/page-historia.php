@@ -119,24 +119,29 @@ src="https://www.facebook.com/tr?id=1527878994231932&ev=PageView&noscript=1"
 		</div>
 	</div>
 	<div class="wrapperfinanse2">
-				<div class='tfinansowa'>
-						Dajemy energie twojemu biznesowi
-				</div>
-				<div class="spec2">
-					<div>Przedstawiamy Ci jedyną skuteczną tarczę w dzisiejszych ciężkich czasach</div>
-
-				</div>
+			
 				<div class="sa1">
 					
 				
 					<div class="sawrapper2 ">
-
-							<div class="imgsakwa">
-								<img class="sakwa"  src="https://tarczadlaciebie.pl/wp-content/uploads/2021/12/photo-dajemy-energie.png">
+							<div class="historianapis">
+								<div>
+									Tam i z powrotem, czyli historia szukania pożyczki nie za miliony
+								</div>
 							</div>
+							<div class="historiapodpis">
+								<div>
+									<img>
+									<div class="historiapodpis">
+										RAFAŁ B. - PRZEDSIĘBIORCA Z GOŁDAPII
+									</div>
+								</div>
+
+							</div>
+						
 							<div class="sakwanapis">
 								<div class="sanapis">
-									Pieniądze lubią ciszę, strategię i fakty. Dlatego bez zbędnych słów prezentujemy ofertę Pożyczki Hipotecznej Restart 19. Niech zamiast słów przemówią fakty <br> <br><br> - Decyzja już w 48 godzin. <br> - Za każde 10000 zł pożyczki - jedyne 137 zł kosztów !* <br> - Oferty bez przewłaszczenia nieruchomości w umowie pożyczki <br> - Kompleksowe doradztwo w procesie zawierania pożyczki <br> - Pomoc prawna i organizacyjna <br> - Kompleksowy proces organizacji po naszej stronie
+									Firma, którą prowadzę zaczęła nieźle zarabiać i przynosić coraz lepsze zyski. W styczniu 2020 roku zdecydowałem się kupić zespół zaniedbanych obiektów przemysłowych i fabrycznych i przekształcić je na powierzchnie biurowe i mieszkalne. Inwestycja ruszyła z kopyta i już niebawem zaniedbane budynki zaczęły odzyskiwać dawny blask. Na placu budowy roiło się od fachowców, a moje marzenia na dobry zysk z inwestycji zaczęły się materializować. Niestety wybuchła pandemia. Świat stanął na głowie. Roboty stanęły, rozpoczęły się spory z podwykonawcami. Fundusze 
 
 								</div>
 
