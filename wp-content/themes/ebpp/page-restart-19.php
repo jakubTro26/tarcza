@@ -135,7 +135,7 @@ src="https://www.facebook.com/tr?id=1527878994231932&ev=PageView&noscript=1"
 							</div>
 							<div class="sakwanapis">
 								<div class="sanapis">
-									Szukasz kredytu ze słabą zdolnośćią? Wierzysz, że jak zasypiesz wszystkie banki zapytaniami, to któryś wkońcu zdecuduję się udzielić Ci nowego kredytu na spłatę zobowiązań? <br>Niestety to droga do nikąd, już po trzechm złożonych zapytaniach system bankowy zablokuje możliwosć udzielenia pożyczki.<br> Nie działąj na własną rękę i "na czuja".<br> My wiemy gdzie i kiedy. Wiemy który bank woli konsolidować kredyty, a który chwiliówki. Wiemy gdzie hotelarz a gdzie pielęgniarka najszybciej i najłatwiej otrzyma kredyt. Bez zapytań i bez strzelania na oślep.<br> Tak właśnie wyglądają finanse skrojone na miarę.
+									Pieniądze lubią ciszę, strategię i fakty. Dlatego bez zbędnych słów prezentujemy ofertę Pożyczki Hipotecznej Restart 19. Niech zamiast słów przemówią fakty <br> <br><br> - Decyzja już w 48 godzin. <br> - Za każde 10000 zł pożyczki - jedyne 137 zł kosztów !* <br> Oferty bez przewłaszczenia nieruchomości w umowie pożyczki <br> - Kompleksowe doradztwo w procesie zawierania pożyczki <br> - Pomoc prawna i organizacyjna <br> - Kompleksowy proces organizacji po naszej stronie
 
 								</div>
 
