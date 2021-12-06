@@ -1603,4 +1603,6 @@ margin: 20px;
   }
   .rsetimg1,.rsetimg2,.rsetimg3,.rsetimg4{
       position: relative;
+      width: min-content;
+        margin: auto;
   }
