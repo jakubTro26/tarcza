@@ -1646,3 +1646,10 @@ margin: 20px;
     position: relative;
     left: 236px
   }
+
+  .historianapis2 div{
+    text-align: left;
+    font-size: 23px;
+    margin: auto;
+    width: 420px;
+  }
