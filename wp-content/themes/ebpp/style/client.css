@@ -1634,8 +1634,9 @@ margin: 20px;
 
   .historiapodpis div{
     margin: auto;
-    width: min-content;
-    white-space: nowrap;
+    line-height: 1.8;
+    text-align: left;
+    width: 591px;
   
 
 
