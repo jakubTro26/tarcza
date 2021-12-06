@@ -1620,3 +1620,9 @@ margin: 20px;
       box-shadow: 5px 6px 5px #6868686b;
       border-radius:28px;
   }
+
+  .historianapis div{
+    margin: auto;
+    font-size: 25px;
+    width: 474px;
+  }
