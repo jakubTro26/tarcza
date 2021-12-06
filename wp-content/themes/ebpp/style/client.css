@@ -1624,8 +1624,9 @@ margin: 20px;
 
   .historianapis div{
     margin: auto;
-    
-    width: 736px;
+    line-height: 1.8;
+    text-align: left;
+    width: 591px;
   }
 
   .historiapodpis{
@@ -1634,9 +1635,8 @@ margin: 20px;
 
   .historiapodpis div{
     margin: auto;
-    line-height: 1.8;
-    text-align: left;
-    width: 591px;
+    width: min-content;
+    white-space: nowrap;
   
 
 
