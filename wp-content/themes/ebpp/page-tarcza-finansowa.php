@@ -203,90 +203,102 @@ src="https://www.facebook.com/tr?id=1527878994231932&ev=PageView&noscript=1"
 
 				</div>
 				<div class="wrappertarczato">
-				<div class="tarczato1">
-					<div class="napisto">
-							Tarcza Prawna to:
+					<div class="tarczato1">
+						<div class="napisto">
+								Tarcza Prawna to:
+						</div>
 					</div>
-				</div>
-				<div class="starcza">
-					<div class="set1">
-							<div class="kw1">
-								<img src="https://tarczadlaciebie.pl/wp-content/uploads/2021/12/p39.png">
-								<div class="kwtxt1">
-									Nielimitowany dostęp do osobistego opiekuna prawnego
+					<div class="starcza">
+						<div class="set1">
+								<div class="kw1">
+									<img src="https://tarczadlaciebie.pl/wp-content/uploads/2021/12/p39.png">
+									<div class="kwtxt1">
+										Nielimitowany dostęp do osobistego opiekuna prawnego
+									</div>
 								</div>
-							</div>
-							<div class="kw2">
-								<img src="https://tarczadlaciebie.pl/wp-content/uploads/2021/12/p38.png">
-								<div class="kwtxt2">
-									Analiza prawna i finansowa sytuacji
+								<div class="kw2">
+									<img src="https://tarczadlaciebie.pl/wp-content/uploads/2021/12/p38.png">
+									<div class="kwtxt2">
+										Analiza prawna i finansowa sytuacji
+									</div>
 								</div>
-							</div>
-							<div class="kw3">
-								<img src="https://tarczadlaciebie.pl/wp-content/uploads/2021/12/p40.png">
-								<div class="kwtxt3">
-									Skuteczne działania restrukturyzacyjne i mediacje na drodze polubownej
+								<div class="kw3">
+									<img src="https://tarczadlaciebie.pl/wp-content/uploads/2021/12/p40.png">
+									<div class="kwtxt3">
+										Skuteczne działania restrukturyzacyjne i mediacje na drodze polubownej
+									</div>
 								</div>
-							</div>
+						</div>
+						<div class="set2">
+								<div class="kw4">
+									<img src="https://tarczadlaciebie.pl/wp-content/uploads/2021/12/p41.png"> 
+									<div class="kwtxt4">
+										Profesjonalna pomoc prawnika w sprawach związanych z zadłużeniem
+									</div>
+								</div>
+								<div class="kw5">
+									<img src="https://tarczadlaciebie.pl/wp-content/uploads/2021/12/p42.png">
+									<div class="kwtxt5">
+										Profesjonalna reprezentacja na etepie sądowym 
+									</div>	
+								</div>
+								<div class="kw6">
+									<img src="https://tarczadlaciebie.pl/wp-content/uploads/2021/12/p43.png"> 
+									<div class="kwtxt5">
+										Skuteczne działania antywindykacyjne
+									</div> 
+								</div>
+						</div>
+						<div class="set3">
+								<div class="kw4">
+									<img src="https://tarczadlaciebie.pl/wp-content/uploads/2021/12/p41.png"> 
+									<div class="kwtxt4">
+										Profesjonalna pomoc prawnika w sprawach związanych z zadłużeniem
+									</div>
+								</div>
+								<div class="kw5">
+									<img src="https://tarczadlaciebie.pl/wp-content/uploads/2021/12/p42.png">
+									<div class="kwtxt5">
+										Profesjonalna reprezentacja na etepie sądowym 
+									</div>	
+								</div>
+								<div class="kw6">
+									<img src="https://tarczadlaciebie.pl/wp-content/uploads/2021/12/p43.png"> 
+									<div class="kwtxt5">
+										Skuteczne działania antywindykacyjne
+									</div> 
+								</div>
+						</div>
 					</div>
-					<div class="set2">
-							<div class="kw4">
-								<img src="https://tarczadlaciebie.pl/wp-content/uploads/2021/12/p41.png"> 
-								<div class="kwtxt4">
-									Profesjonalna pomoc prawnika w sprawach związanych z zadłużeniem
+					<div class="podtarcza">
+						<div class="ptarcza">
+								<div class="pt1">
+									<img src="https://tarczadlaciebie.pl/wp-content/uploads/2021/12/p46.png">
+									<div clas=ptxt1>
+										Działania sądowe
+									</div>
 								</div>
-							</div>
-							<div class="kw5">
-								<img src="https://tarczadlaciebie.pl/wp-content/uploads/2021/12/p42.png">
-								<div class="kwtxt5">
-									Profesjonalna reprezentacja na etepie sądowym 
-								</div>	
-							</div>
-							<div class="kw6">
-								<img src="https://tarczadlaciebie.pl/wp-content/uploads/2021/12/p43.png"> 
-								<div class="kwtxt5">
-									Skuteczne działania antywindykacyjne
-								</div> 
-							</div>
-					</div>
-					<div class="set3">
-							<div class="kw7">
-								<img src="https://tarczadlaciebie.pl/wp-content/uploads/2021/12/p44.png">
-								<div class="kwtxt6">
-									Ochrona twojego majątku
+								<div class="ptb1">
+									<img src="https://tarczadlaciebie.pl/wp-content/uploads/2021/12/p49.png"> 
 								</div>
-							</div>
-					</div>
-				</div>
-				<div class="podtarcza">
-					<div class="ptarcza">
-							<div class="pt1">
-								<img src="https://tarczadlaciebie.pl/wp-content/uploads/2021/12/p46.png">
-								<div clas=ptxt1>
-									Działania sądowe
+								<div class="pt2">
+									<img src="https://tarczadlaciebie.pl/wp-content/uploads/2021/12/p47.png">
+									<div class="ptxt2">
+										Ochrona majątku
+									</div>
 								</div>
-							</div>
-							<div class="ptb1">
-								<img src="https://tarczadlaciebie.pl/wp-content/uploads/2021/12/p49.png"> 
-							</div>
-							<div class="pt2">
-								<img src="https://tarczadlaciebie.pl/wp-content/uploads/2021/12/p47.png">
-								<div class="ptxt2">
-									Ochrona majątku
+								<div class="ptb2">
+									<img src="https://tarczadlaciebie.pl/wp-content/uploads/2021/12/p49.png">
 								</div>
-							</div>
-							<div class="ptb2">
-								<img src="https://tarczadlaciebie.pl/wp-content/uploads/2021/12/p49.png">
-							</div>
-							<div class="pt3">
-								<img src="https://tarczadlaciebie.pl/wp-content/uploads/2021/12/p48.png"> 
-								<div class="ptxt3">
-									Osobisty opiekun klienta
+								<div class="pt3">
+									<img src="https://tarczadlaciebie.pl/wp-content/uploads/2021/12/p48.png"> 
+									<div class="ptxt3">
+										Osobisty opiekun klienta
+									</div>
 								</div>
-							</div>
-					</div>
+						</div>
 
-				</div>
+					</div>
 			</div>
 	</div>
 </div>
