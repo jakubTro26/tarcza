@@ -1540,3 +1540,15 @@ margin: 20px;
     position: relative;
     top: 75px;
   }
+
+  .restart{
+      width:1200px;
+      margin:auto;
+  }
+
+  .restart2{
+    display: flex;
+    width: min-content;
+    white-space: nowrap;
+    margin: auto;
+  }
