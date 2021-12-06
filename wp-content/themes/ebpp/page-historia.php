@@ -118,6 +118,35 @@ src="https://www.facebook.com/tr?id=1527878994231932&ev=PageView&noscript=1"
 			</div>
 		</div>
 	</div>
+	<div class="wrapperfinanse2">
+				<div class='tfinansowa'>
+						Dajemy energie twojemu biznesowi
+				</div>
+				<div class="spec2">
+					<div>Przedstawiamy Ci jedyną skuteczną tarczę w dzisiejszych ciężkich czasach</div>
+
+				</div>
+				<div class="sa1">
+					
+				
+					<div class="sawrapper2 ">
+
+							<div class="imgsakwa">
+								<img class="sakwa"  src="https://tarczadlaciebie.pl/wp-content/uploads/2021/12/photo-dajemy-energie.png">
+							</div>
+							<div class="sakwanapis">
+								<div class="sanapis">
+									Pieniądze lubią ciszę, strategię i fakty. Dlatego bez zbędnych słów prezentujemy ofertę Pożyczki Hipotecznej Restart 19. Niech zamiast słów przemówią fakty <br> <br><br> - Decyzja już w 48 godzin. <br> - Za każde 10000 zł pożyczki - jedyne 137 zł kosztów !* <br> - Oferty bez przewłaszczenia nieruchomości w umowie pożyczki <br> - Kompleksowe doradztwo w procesie zawierania pożyczki <br> - Pomoc prawna i organizacyjna <br> - Kompleksowy proces organizacji po naszej stronie
+
+								</div>
+
+							</div>
+						
+						
+					</div>
+				
+				</div>
+		</div>
 </div>
 
 <script language="javascript">
