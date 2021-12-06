@@ -1636,4 +1636,11 @@ margin: 20px;
     width: min-content;
     white-space: nowrap;
   
+
+
+  }
+
+  .podpisdiv{
+    position: relative;
+    left: 236px
   }

@@ -130,7 +130,7 @@ src="https://www.facebook.com/tr?id=1527878994231932&ev=PageView&noscript=1"
 								</div>
 							</div>
 							<div class="historiapodpis">
-								<div >
+								<div class="podpisdiv">
 									<div>
 										<img src="https://tarczadlaciebie.pl/wp-content/uploads/2021/12/p37.png">
 										<div class="historiapodpis">
