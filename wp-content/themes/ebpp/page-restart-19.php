@@ -131,7 +131,7 @@ src="https://www.facebook.com/tr?id=1527878994231932&ev=PageView&noscript=1"
 					<div class="sawrapper">
 
 							<div class="imgsakwa">
-								<img class="sakwa"  src="https://tarczadlaciebie.pl/wp-content/uploads/2021/12/photo-tarcza-finansowa-dla-ciebie-1.png">
+								<img class="sakwa"  src="https://tarczadlaciebie.pl/wp-content/uploads/2021/12/photo-dajemy-energie.png">
 							</div>
 							<div class="sakwanapis">
 								<div class="sanapis">
