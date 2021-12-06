@@ -1529,3 +1529,9 @@ margin: 20px;
     border-radius: 20px;
     box-shadow: 5px 6px 5px #6868686b;
 }
+
+.clearfix:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
