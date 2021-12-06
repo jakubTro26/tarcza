@@ -1502,3 +1502,16 @@ margin: 20px;
 .pt1,.pt2,.pt3{
     position:relative;
 }
+
+.bullet1,.bullet2,.bullet3{
+    opacity: 0.6;
+    /* color: transparent; */
+    position: absolute;
+    bottom: 0px;
+    left: -15px;
+    width: 59px;
+}
+
+.pt1img,.pt2img,.pt3img{
+    position:relative;
+}
