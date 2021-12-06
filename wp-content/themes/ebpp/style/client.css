@@ -1557,3 +1557,13 @@ margin: 20px;
   .wezrestart{
     margin-top: 113px;
   }
+
+  .rnapisy{
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
+  }
+
+  .rnapis1,.rnapis2,.rnapis3,.rnapis4,.rnapis5{
+    margin-bottom:20px;
+  }
