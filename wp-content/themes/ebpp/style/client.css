@@ -1589,9 +1589,15 @@ margin: 20px;
     display: flex;
   }
 
-  .rsetimg1,.rsetimg2,.rsetimg3,.rsetimg4{
+  .rsetimg11,.rsetimg12,.rsetimg13,.rsetimg14{
     margin: auto;
     position: relative;
     width: min-content;
+
+  }
+  .rsetimg21,.rsetimg22,.rsetimg23,.rsetimg24{
+    position: absolute;
+    bottom: 0px;
+    left: -28px;
 
   }
