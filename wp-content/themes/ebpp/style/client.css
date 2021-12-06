@@ -1593,6 +1593,7 @@ margin: 20px;
     margin: auto;
     position: relative;
     width: min-content;
+    width: 100px;
 
   }
   .rsetimg12,.rsetimg22,.rsetimg32,.rsetimg42{
