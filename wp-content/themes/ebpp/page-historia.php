@@ -123,7 +123,7 @@ src="https://www.facebook.com/tr?id=1527878994231932&ev=PageView&noscript=1"
 				<div class="sa1">
 					
 				
-					<div class="sawrapper2 ">
+					<div class="wrapperhistoria">
 							<div class="historianapis">
 								<div>
 									Tam i z powrotem, czyli historia szukania pożyczki nie za miliony
@@ -139,8 +139,8 @@ src="https://www.facebook.com/tr?id=1527878994231932&ev=PageView&noscript=1"
 
 							</div>
 						
-							<div class="sakwanapis">
-								<div class="sanapis">
+							<div class="historianapis">
+								<div class="nhistory">
 									Firma, którą prowadzę zaczęła nieźle zarabiać i przynosić coraz lepsze zyski. W styczniu 2020 roku zdecydowałem się kupić zespół zaniedbanych obiektów przemysłowych i fabrycznych i przekształcić je na powierzchnie biurowe i mieszkalne. Inwestycja ruszyła z kopyta i już niebawem zaniedbane budynki zaczęły odzyskiwać dawny blask. Na placu budowy roiło się od fachowców, a moje marzenia na dobry zysk z inwestycji zaczęły się materializować. Niestety wybuchła pandemia. Świat stanął na głowie. Roboty stanęły, rozpoczęły się spory z podwykonawcami. Fundusze 
 
 								</div>

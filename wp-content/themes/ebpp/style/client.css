@@ -1612,3 +1612,11 @@ margin: 20px;
       width: min-content;
         margin: auto;
   }
+
+
+  .wrapperhistoria{
+      background:white;
+      margin:auto;
+      box-shadow: 5px 6px 5px #6868686b;
+      border-radius:28px;
+  }
