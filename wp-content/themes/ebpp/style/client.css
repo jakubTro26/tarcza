@@ -1626,3 +1626,13 @@ margin: 20px;
     font-size: 25px;
     width: 474px;
   }
+
+  .historiapodpis{
+    margin-bottom: 35px;
+  }
+
+  .historiapodpis div{
+    margin: auto;
+    width: min-content;
+    white-space: nowrap;
+  }

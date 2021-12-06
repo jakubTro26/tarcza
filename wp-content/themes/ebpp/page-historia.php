@@ -131,7 +131,7 @@ src="https://www.facebook.com/tr?id=1527878994231932&ev=PageView&noscript=1"
 							</div>
 							<div class="historiapodpis">
 								<div>
-									<img>
+									<img src="https://tarczadlaciebie.pl/wp-content/uploads/2021/12/p37.png">
 									<div class="historiapodpis">
 										RAFAŁ B. - PRZEDSIĘBIORCA Z GOŁDAPII
 									</div>
