@@ -1551,4 +1551,9 @@ margin: 20px;
     width: min-content;
     white-space: nowrap;
     margin: auto;
+    margin-top: 65px;
+  }
+
+  .wezrestart{
+    margin-top: 113px;
   }
