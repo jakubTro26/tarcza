@@ -105,49 +105,8 @@ src="https://www.facebook.com/tr?id=1527878994231932&ev=PageView&noscript=1"
 					</div>
 				</div>
 			</div>
-			<div class="kontakt6wrapper">
-				<div class="kontakt6">
-						<div class="kontaktwrapper">
-							<div class="phonekontakt">
-								<div class="imgkontakt">
-									<div>
-										<img src="https://tarczadlaciebie.pl/wp-content/uploads/2021/12/p82.png">
-									</div>
-								</div>
-								<div class="podpiswrapper">
-									<div class="podpisphone">
-										Telefon: 791 092 092
-									</div>
-									<div class="podpisimg">
-										<div>
-											<img src="https://tarczadlaciebie.pl/wp-content/uploads/2021/12/p84.png">
-										</div>
-									</div>
-
-								</div>
-							</div>
-							<div class="kopertakontakt">
-									<div class="imgkontaktk">
-										<div>
-											<img src="https://tarczadlaciebie.pl/wp-content/uploads/2021/12/p83.png">
-										</div>
-									</div>
-									<div class="podpiswrapperk">
-										<div class="podpiskop">
-											E-mail: biuro@tarczadlaciebie.pl
-										</div>
-										<div class="podpisimg">
-											<div>
-												<img src="https://tarczadlaciebie.pl/wp-content/uploads/2021/12/p84.png">
-											</div>
-										</div>
-
-									</div>
-							</div>
-
-						</div>
-				</div>
-			</div>
+			
+			
 			<div class="kontakt">
 
 				<div class="ozdoba ozdobakoperta">
