@@ -166,7 +166,7 @@ src="https://www.facebook.com/tr?id=1527878994231932&ev=PageView&noscript=1"
 		<div class="footerflex">
 			<div class="tarczadlacb">
 							<div>
-								<img>
+								<img src="https://tarczadlaciebie.pl/wp-content/uploads/2021/11/p1-1.png">
 							</div>
 
 			</div>
