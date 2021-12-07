@@ -259,7 +259,7 @@ src="https://www.facebook.com/tr?id=1527878994231932&ev=PageView&noscript=1"
 			</div>
 
 		</div>
-		<div class="footer foohistoria">
+		<div class="footer foothistoria">
 		<div class="footerflex footerhistoria">
 				<div class="flex50">
 					<div class="tarczadlacb">
