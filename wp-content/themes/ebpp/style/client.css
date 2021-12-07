@@ -1679,3 +1679,16 @@ margin: 20px;
     font-size: 29px;
     margin-bottom: 42px;
   }
+  .opisdol{
+    width: 989px;
+  }
+
+  .podpis2g1{
+    margin-top: 30px;
+    display: flex;
+  }
+
+  .pod1 div{
+    padding: 0px 20px;
+    color: #F2C572;
+  }
