@@ -122,9 +122,7 @@ window.location='https://tarczadlaciebie.pl/dziekujemy'
 	}
 
 	ToggleH1();
-</script><div id="side_contact_icon">
-	<a href="https://tarczadlaciebie.pl/kontakt/"><img src="<?php bloginfo('template_directory'); ?>/images/sluchawka.png" alt="zadzwoń do nas"></a>
-</div>
+</script>
 
 <script language="javascript">
 	//$("#side_contact_icon").appendTo("BODY");
