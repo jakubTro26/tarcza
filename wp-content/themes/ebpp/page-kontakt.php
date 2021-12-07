@@ -200,19 +200,6 @@ window.location='https://tarczadlaciebie.pl/dziekujemy'
 </script>
 
 
-<div id="top_bar_kontakt">
-	<div id="inner_top_bar_kontakt">
-		<a href="https://tarczadlaciebie.pl/kontakt"><h3 id="skontaktuj_top">SKONTAKTUJ SIĘ Z NAMI JUŻ TERAZ!</h3></a>
-
-		<div id="formularz_button">
-
-			<a href="https://tarczadlaciebie.pl/kontakt"><img src="<?php bloginfo('template_directory'); ?>/images/skonatkt-ads.png"></a>
-			<div id="top_bar_kontakt_telefon">791 092 092</div>
-			<a href="https://tarczadlaciebie.pl/#zamow_kontakt_na_tle_div"><h3 class="tekst">FORMULARZ</h3></a>
-		</div>
-
-	</div>
-</div>
 
 
 
