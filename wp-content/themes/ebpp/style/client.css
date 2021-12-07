@@ -1762,3 +1762,9 @@ margin: 20px;
     right: 0px;
     padding: 24px 69px;
 }
+
+.footer{
+    background: #2D313D;
+    position: relative;
+    top: 347px;
+}
