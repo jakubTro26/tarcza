@@ -1768,3 +1768,7 @@ margin: 20px;
     position: relative;
     top: 347px;
 }
+
+.footerflex{
+    display: flex;
+}
