@@ -162,6 +162,56 @@ src="https://www.facebook.com/tr?id=1527878994231932&ev=PageView&noscript=1"
 			
 		</div>
 	</div>
+	<div class="footer">
+		<div class="footerflex">
+			<div class="tarczadlacb">
+							<div>
+								<img>
+							</div>
+
+			</div>
+			<div class="warunki">
+							<div class="w1">
+								Polityka prywatności
+							</div>
+							<div class="w2">
+								Regulamin serwisu
+							</div>
+							<div class="w3">
+								Warunki
+							</div>
+			</div>
+			<div class="Kontaktfooter">
+							<div class="Telefon">
+								Telefon
+							</div>
+							<div class="Email">
+								E-mail
+							</div>
+							<div class="konsultant">
+								Konsultant ONLINE
+							</div>
+							<div class="kontaktw">
+								Kontakt
+							</div>	
+			</div>
+			<div class="społecznosc">
+							<div class="Facebook">
+								Facebook
+							</div>
+							<div class="Google+">
+								Google+
+							</div>
+							<div class="Twitter">
+								Twitter
+							</div>
+							<div class="wspolecznosc">
+								Społecznosc
+							</div>
+			</div>
+
+		</div>
+	</div>
 </div>	
 
 
