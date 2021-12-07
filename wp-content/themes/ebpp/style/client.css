@@ -1774,6 +1774,7 @@ margin: 20px;
     width: 1000px;
     top: -63px;
     margin: auto;
+    display: flex;
 }
 
 .flex50{
