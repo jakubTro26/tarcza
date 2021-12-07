@@ -154,6 +154,43 @@ src="https://www.facebook.com/tr?id=1527878994231932&ev=PageView&noscript=1"
 				
 				</div>
 		</div>
+		<div class="wrapperfinanse2">
+			
+			<div class="sa1">
+				
+			
+				<div class="wrapperhistoria">
+						<div class="historianapis2">
+							<div>
+								Od Króla Ćwieczka ku nowoczesności
+							</div>
+						</div>
+						<div class="historiapodpis">
+							<div class="podpisdiv">
+								<div>
+									<img src="https://tarczadlaciebie.pl/wp-content/uploads/2021/12/p37.png">
+									<div class="historiapodpis">
+										JACEK LEMIESZ - ROLNIK
+									</div>
+								</div>
+							</div>
+
+						</div>
+					
+						<div class="historianapis">
+							<div class="nhistory">
+								Prowadzę gospodarstwo rolne w powiecie sokólskim, które przejąłem po rodzicach. Gospodarstwo liczy 34 hektary i posiada 38 sztuk bydła mlecznego. W momencie przejęcia po rodzicach gospodarstwo liczyło zaledwie 12 hektarów i posiadało 14 sztuk bydła, ponadtwo gospodarstwo było niezmodernizowane. Praktycznie wszystko musiałem robi ręcznie. Wydojenie krów zajmowało mi kilka godzin. Na ludzi nie było mnie stać, a młody jestem, to coś chciałem ulepszyć. Nie za bardzo wiedziałem w czym będę sam a w czym może pomóc mi Unia Europejska. <br> <br><br> Zgłosiłem się do tarczadlaciebie.pl i zasięgnąłem porady rolniczej. Doradca uświadomił mi, że jako młody rolnik mogę na modernizacje gospodarki dostać nawet 50 proc. zwrotu poniesionych kosztów. Okazałlo się, że mogę też dostać preferencyjny kredyt na powiększenie gospodarki poprzez zakup ziem i łąk. <br><br><br> W czym pomogłą mi tarcza dla Ciebie: <br><br><br> Biuro znalazło mi preferencyjne finansowanie na zakup ziemi. Dzięki czemu spłacam kredyt w niskich ratach rozłożonych na 25 lat. Zdecydowałem się na zakup 26 hektarów ziemi po około 30 000 zł za hektar.
+								<br> Po przeprowadzeniu analizy finansowej zaproponowali mi odpowiednie finansowanie w postaci dotacji na zmodernizowanie gospodarstwa. Dzięki nim uzyskałem 987 000 zł kredytu na świetnych warunkach. <br> Najbardziej zadowolony jestem z tego, że nie musiałem nigdzie jeździć, bo wiadomo krowy nie dają urlopu. Wszystko załatwili za mnie a nawet raz, żeby szybciej odebrać dokumenty przyjechali po mnie. Wszystko załatwiliśmy u mnie w domu.
+
+							</div>
+
+						</div>
+					
+					
+				</div>
+			
+			</div>
+		</div>
 </div>
 
 <script language="javascript">
