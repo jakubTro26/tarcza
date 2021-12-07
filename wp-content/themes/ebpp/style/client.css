@@ -1666,3 +1666,8 @@ margin: 20px;
   .wrapperdol{
       background:white;
   }
+
+  .wrap{
+    position: relative;
+    top: 144px;
+  }
