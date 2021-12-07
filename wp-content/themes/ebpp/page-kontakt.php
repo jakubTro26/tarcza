@@ -57,7 +57,7 @@ src="https://www.facebook.com/tr?id=1527878994231932&ev=PageView&noscript=1"
 
 
 <div id="main_div5">
-	<div class="tlo5">
+	<div class="tlo6">
 		<div class="menu_info">
 			<div class="topinfo">
 				<div class="mobile">
@@ -92,25 +92,61 @@ src="https://www.facebook.com/tr?id=1527878994231932&ev=PageView&noscript=1"
 		<div id="seconddiv" >
 			<div class="top_napisy">
 				<div class="grupa1">
-					<h3 style="" class="show">Opieka prawna na najwyższym poziomie</h3>
-					<div class="niezwlekaj">Nie zwlekaj i skorzystaj z oferty tarczy już teraz! Zamów kontakt a nasz doradca oddzwoni niezwłocznie.</div>
+					<h3  class="show">Nasi doradcy prawni i specjaliści są do Twojej dyspozycji</h3>
+					
 				</div>
 				<div class="grupa2">
 					<div class="dostep">
-						<img src="https://tarczadlaciebie.pl/wp-content/uploads/2021/11/p4.png">
-						<div>
-							<div class="napis1">Nielimitowany dostęp do opiekuna prawnego</div>
-						</div>
+						
+					
 					</div>
 					<div class="finansowanie">
-						<img src="https://tarczadlaciebie.pl/wp-content/uploads/2021/11/p5.png">
-						<div>
-							<div class="napis2">Finansowanie bez zbędnych formalności</div>
-						</div>
+					
 					</div>
 				</div>
 			</div>
 			<div class="kontakt">
+				<div class="kontakt6">
+						<div class="kontaktwrapper">
+							<div class="phonekontakt">
+								<div class="imgkontakt">
+									<div>
+										<img src="https://tarczadlaciebie.pl/wp-content/uploads/2021/12/p82.png">
+									</div>
+								</div>
+								<div class="podpiswrapper">
+									<div class="podpisphone">
+										Telefon: 791 092 092
+									</div>
+									<div class="podpisimg">
+										<div>
+											<img src="https://tarczadlaciebie.pl/wp-content/uploads/2021/12/p84.png">
+										</div>
+									</div>
+
+								</div>
+							</div>
+							<div class="kopertakontakt">
+									<div class="imgkontaktk">
+										<div>
+											<img src="https://tarczadlaciebie.pl/wp-content/uploads/2021/12/p83.png">
+										</div>
+									</div>
+									<div class="podpiswrapperk">
+										<div class="podpiskop">
+											E-mail: biuro@tarczadlaciebie.pl
+										</div>
+										<div class="podpisimg">
+											<div>
+												<img src="https://tarczadlaciebie.pl/wp-content/uploads/2021/12/p84.png">
+											</div>
+										</div>
+
+									</div>
+							</div>
+
+						</div>
+				</div>
 				<div class="ozdoba">
 						<img src="https://tarczadlaciebie.pl/wp-content/uploads/2021/12/p8.png">
 				</div>
