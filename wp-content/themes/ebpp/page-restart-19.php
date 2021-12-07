@@ -297,7 +297,7 @@ src="https://www.facebook.com/tr?id=1527878994231932&ev=PageView&noscript=1"
 				<div class="flex502">
 					<div class="warunki">
 									<div class="w1">
-										Polityka prywatności
+										Polityka prywatnościi
 									</div>
 									<div class="w2">
 										Regulamin serwisu
