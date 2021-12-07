@@ -194,7 +194,7 @@ src="https://www.facebook.com/tr?id=1527878994231932&ev=PageView&noscript=1"
 		<div class="wrapperdol">
 			<div class="wrap">
 				<div class="opisgora">
-							Status i opis sprawy przyjętej do Tarczy
+							<div>Status i opis sprawy przyjętej do Tarczy</div>
 				</div>
 				<div class="opisdol">
 							Klient poszukuje 500 000 zł pożyczki bankowej lub prywatnej pod zastaw hipoteczny.<br>
