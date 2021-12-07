@@ -57,15 +57,15 @@ ul#menu-menu-1 {
 }
 
 .kontakt{
-    border-radius: 25px;
+    
     width: 752px;
     height: 316px;
-    background: white;
+  
     POSITION: RELATIVE;
     left: 50%;
     transform: translateX(-50%);
     top: 52px;
-    box-shadow: 5px 6px 5px #6868686b;
+   
 }
 
 
@@ -1726,3 +1726,9 @@ margin: 20px;
   .pod5{
     width: 120px;
   }
+
+  .ozdobakoperta{
+    background: white;
+    border-radius: 20px;
+}
+  
