@@ -106,6 +106,13 @@ src="https://www.facebook.com/tr?id=1527878994231932&ev=PageView&noscript=1"
 				</div>
 			</div>
 			<div class="kontakt">
+
+				<div class="ozdoba ozdobakoperta">
+						<img src="https://tarczadlaciebie.pl/wp-content/uploads/2021/12/p8.png">
+				</div>
+			<?php echo do_shortcode('[contact-form-7 id="97" title="Formularz 1"]'); ?>
+			</div>
+			<div class="kontakt6wrapper">
 				<div class="kontakt6">
 						<div class="kontaktwrapper">
 							<div class="phonekontakt">
@@ -147,10 +154,6 @@ src="https://www.facebook.com/tr?id=1527878994231932&ev=PageView&noscript=1"
 
 						</div>
 				</div>
-				<div class="ozdoba ozdobakoperta">
-						<img src="https://tarczadlaciebie.pl/wp-content/uploads/2021/12/p8.png">
-				</div>
-			<?php echo do_shortcode('[contact-form-7 id="97" title="Formularz 1"]'); ?>
 			</div>
 		</div>
 	</div>
