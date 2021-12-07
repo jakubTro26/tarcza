@@ -209,27 +209,29 @@ src="https://www.facebook.com/tr?id=1527878994231932&ev=PageView&noscript=1"
 									<div>Oferta nr 1</div>
 								</div>
 								<div class="pod2">
-									Kredyt konsumpcyjny w popularnym banku na kwotę 500 000 zł. 100 000 zł opłaty brokerskiej, 15 proc.<br> Prowizji w banku (75 000 zł) i prawie 32 000 zł ubezpieczenia doliczanego do kredytu. Łącznie przez 10 lat ponad 1 mln zł do spłaty!
+									<div>Kredyt konsumpcyjny w popularnym banku na kwotę 500 000 zł. 100 000 zł opłaty brokerskiej, 15 proc.<br> Prowizji w banku (75 000 zł) i prawie 32 000 zł ubezpieczenia doliczanego do kredytu. Łącznie przez 10 lat ponad 1 mln zł do spłaty!</div>
 								</div>
 							</div>
 							<div class="podpois2g2">
 								<div class="pod3">
-									Oferta nr 1
+									<div>Oferta nr 1</div>
 								</div>
 								<div class="pod4">
-									Fundusz hipoteczny udzielił wstępnej promesy finansowania inwestycji na następujących warunkach: <br>
-									- Kwota pożyczki 500 000 zł <br>
-									- Oprocentowanie pożyczki: 7,2 proc. rocznie
-									- Prowizja na udzielenie pożyczki: 75 000 zł 
-									- Prowizja brokerska za znalezienie inwestora: 50 000 zł 
-									- Zabezpieczenia:
-									- Weksel in-blanco 
-									- Przewłaszczenie nieruchomości objętej inwestycją 
-									- Zabezpieczenie hipoteczne na prywatnym domu klienta
+									<div>
+										Fundusz hipoteczny udzielił wstępnej promesy finansowania inwestycji na następujących warunkach: <br>
+										- Kwota pożyczki 500 000 zł <br>
+										- Oprocentowanie pożyczki: 7,2 proc. rocznie
+										- Prowizja na udzielenie pożyczki: 75 000 zł
+										- Prowizja brokerska za znalezienie inwestora: 50 000 zł
+										- Zabezpieczenia:
+										- Weksel in-blanco
+										- Przewłaszczenie nieruchomości objętej inwestycją
+										- Zabezpieczenie hipoteczne na prywatnym domu klienta
+									</div>
 								</div>
 							</div>
 							<div class="opisdolny">
-								Podjęte działania zaproponowane rozwiązania
+								<div>Podjęte działania zaproponowane rozwiązania</div>
 
 							</div>
 							<div class="podpois2g3">
@@ -237,11 +239,13 @@ src="https://www.facebook.com/tr?id=1527878994231932&ev=PageView&noscript=1"
 									Tarcza dla Ciebie
 								</div>
 								<div class="pod6">
-									Inwestycja Klienta została dofinansowana kwotą 500 000 zł <br>
-									RRSO pożyczki na 6 miesięcy wyniosło 13,54 % !!! <br>
-									Brak przewłaszczenia finansowanej inwestycji <br>
-									Brak wpisów do księgi wieczystej prywatnego domu Klienta <br>
-									Czas od złożenia kompletnych dokumentów do wypłacenia pożyczki na konto Klienta - 48H
+									<div>
+										Inwestycja Klienta została dofinansowana kwotą 500 000 zł <br>
+										RRSO pożyczki na 6 miesięcy wyniosło 13,54 % !!! <br>
+										Brak przewłaszczenia finansowanej inwestycji <br>
+										Brak wpisów do księgi wieczystej prywatnego domu Klienta <br>
+										Czas od złożenia kompletnych dokumentów do wypłacenia pożyczki na konto Klienta - 48H
+									</div>
 
 								</div>
 							</div>
