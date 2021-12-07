@@ -65,6 +65,7 @@ ul#menu-menu-1 {
     left: 50%;
     transform: translateX(-50%);
     top: 52px;
+    box-shadow: 5px 6px 5px #6868686b;
 }
 
 
