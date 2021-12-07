@@ -1657,3 +1657,8 @@ margin: 20px;
   #main_div5{
       background:#E5E8EB
   }
+
+  .wrap{
+      width:1200px;
+      margin: auto;
+  }

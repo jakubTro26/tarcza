@@ -191,6 +191,64 @@ src="https://www.facebook.com/tr?id=1527878994231932&ev=PageView&noscript=1"
 			
 			</div>
 		</div>
+		<div class="wrapperdol">
+			<div class="wrap">
+				<div class="opisgora">
+							Status i opis sprawy przyjętej do Tarczy
+				</div>
+				<div class="opisdol">
+							Klient poszukuje 500 000 zł pożyczki bankowej lub prywatnej pod zastaw hipoteczny.<br>
+							Zabezpieczeniem jest podjęta inwestycja polegająca na remoncie starych zabudowań gospodarczych i fabrycznych w nowoczesne biura i apartamenty.<br><br><br>
+							Z powodu pandemii COVID - 19 kontrahent nie posiada zdolności kredytowej ze względu na opóźnienia w spłacie bieżących zobowiązań i niski scoring BIK. Dodatkowo na wejśćiu istniały również przeszkody formalne i prawne związane z nieaktualnymi wpisami w księgach wieczystych gruntów i nieruchomości Klient nie posiadał profesjonalnie przygotowanego biznes planu inwestycji. Na starcie klient w ręku posiadał dwie oferty finansowania.
+
+				</div>
+
+				<div class="podpis2doll">
+							<div class="podpis2g1">
+								<div class="pod1">
+									<div>Oferta nr 1</div>
+								</div>
+								<div class="pod2">
+									Kredyt konsumpcyjny w popularnym banku na kwotę 500 000 zł. 100 000 zł opłaty brokerskiej, 15 proc.<br> Prowizji w banku (75 000 zł) i prawie 32 000 zł ubezpieczenia doliczanego do kredytu. Łącznie przez 10 lat ponad 1 mln zł do spłaty!
+								</div>
+							</div>
+							<div class="podpois2g2">
+								<div class="pod3">
+									Oferta nr 1
+								</div>
+								<div class="pod4">
+									Fundusz hipoteczny udzielił wstępnej promesy finansowania inwestycji na następujących warunkach: <br>
+									- Kwota pożyczki 500 000 zł <br>
+									- Oprocentowanie pożyczki: 7,2 proc. rocznie
+									- Prowizja na udzielenie pożyczki: 75 000 zł 
+									- Prowizja brokerska za znalezienie inwestora: 50 000 zł 
+									- Zabezpieczenia:
+									- Weksel in-blanco 
+									- Przewłaszczenie nieruchomości objętej inwestycją 
+									- Zabezpieczenie hipoteczne na prywatnym domu klienta
+								</div>
+							</div>
+							<div class="opisdolny">
+								Podjęte działania zaproponowane rozwiązania
+
+							</div>
+							<div class="podpois2g3">
+								<div class="pod5">
+									Tarcza dla Ciebie
+								</div>
+								<div class="pod6">
+									Inwestycja Klienta została dofinansowana kwotą 500 000 zł <br>
+									RRSO pożyczki na 6 miesięcy wyniosło 13,54 % !!! <br>
+									Brak przewłaszczenia finansowanej inwestycji <br>
+									Brak wpisów do księgi wieczystej prywatnego domu Klienta <br>
+									Czas od złożenia kompletnych dokumentów do wypłacenia pożyczki na konto Klienta - 48H
+
+								</div>
+							</div>
+				</div>	
+			</div>
+
+		</div>
 </div>
 
 <script language="javascript">
