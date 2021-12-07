@@ -1735,3 +1735,9 @@ margin: 20px;
 .tlo6{
     height: 760.256px;
 }
+
+.kontaktwrapper{
+    width: 752px;
+    display: flex;
+    margin: auto;
+}
