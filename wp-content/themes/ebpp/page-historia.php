@@ -220,13 +220,13 @@ src="https://www.facebook.com/tr?id=1527878994231932&ev=PageView&noscript=1"
 									<div>
 										Fundusz hipoteczny udzielił wstępnej promesy finansowania inwestycji na następujących warunkach: <br>
 										- Kwota pożyczki 500 000 zł <br>
-										- Oprocentowanie pożyczki: 7,2 proc. rocznie
-										- Prowizja na udzielenie pożyczki: 75 000 zł
-										- Prowizja brokerska za znalezienie inwestora: 50 000 zł
-										- Zabezpieczenia:
-										- Weksel in-blanco
-										- Przewłaszczenie nieruchomości objętej inwestycją
-										- Zabezpieczenie hipoteczne na prywatnym domu klienta
+										- Oprocentowanie pożyczki: 7,2 proc. rocznie<br>
+										- Prowizja na udzielenie pożyczki: 75 000 zł<br>
+										- Prowizja brokerska za znalezienie inwestora: 50 000 zł<br>
+										- Zabezpieczenia:<br>
+										- Weksel in-blanco<br>
+										- Przewłaszczenie nieruchomości objętej inwestycją<br>
+										- Zabezpieczenie hipoteczne na prywatnym domu klienta<br>
 									</div>
 								</div>
 							</div>
