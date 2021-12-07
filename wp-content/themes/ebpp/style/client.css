@@ -1770,5 +1770,28 @@ margin: 20px;
 }
 
 .footerflex{
+    position: relative;
+    width: 1000px;
+    top: -63px;
+    margin: auto;
+}
+
+.flex50{
+    flex: 50%;
+}
+.flex502{
+    flex: 50%;
     display: flex;
+}
+
+.warunki{
+    padding: 0px 30px;  
+}
+
+.Kontaktfooter{
+    padding: 0px 30px;
+}
+
+.spolecznosc{
+    padding: 0px 30px;
 }
