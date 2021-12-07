@@ -1737,7 +1737,28 @@ margin: 20px;
 }
 
 .kontaktwrapper{
+    top: 26px;
+    position: relative;
     width: 752px;
     display: flex;
     margin: auto;
+}
+
+.imgkontaktk img{
+    display:block;
+    margin:auto;
+}
+
+.phonekontakt{
+    background: white;
+    border-radius: 20px;
+    padding: 20px 108px;
+}
+
+.kopertakontakt{
+    background: white;
+    border-radius: 20px;
+    position: absolute;
+    right: 0px;
+    padding: 24px 69px;
 }
