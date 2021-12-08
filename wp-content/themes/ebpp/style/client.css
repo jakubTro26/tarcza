@@ -1889,3 +1889,10 @@ margin: 20px;
     z-index: -1;
     position: relative;
 }
+
+@media (max-width:1207px){
+
+    .column1{
+        padding-right: 66px;
+    }
+}
