@@ -287,7 +287,7 @@ ul#menu-menu1 {
     margin: 0;
 }
 
-#main_div {
+#main_div,#main_div5 {
     text-align: center;
     position: relative;
     width: 100%;
