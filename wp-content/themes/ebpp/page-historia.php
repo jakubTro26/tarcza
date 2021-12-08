@@ -185,6 +185,11 @@ src="https://www.facebook.com/tr?id=1527878994231932&ev=PageView&noscript=1"
 							</div>
 
 						</div>
+						<div class="historiatraktor">
+							<div>
+								<img class="traktorimg" src="https://tarczadlaciebie.pl/wp-content/uploads/2021/12/shield-photo-farmer.png">
+							</div>
+						</div>
 					
 					
 				</div>

@@ -202,7 +202,7 @@ src="https://www.facebook.com/tr?id=1527878994231932&ev=PageView&noscript=1"
 					</div>
 
 				</div>
-				<div class="wrappertarczato">
+				<div class="wrappertarczato tarczafinansowa">
 					<div class="tarczato1">
 						<div class="napisto">
 								Tarcza Prawna to:
