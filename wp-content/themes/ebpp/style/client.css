@@ -61,12 +61,12 @@ ul#menu-menu-1 {
     z-index: 1;
     border-radius: 25px;
     width: 752px;
-    height: 316px;
+    height: 345px;
     background: white;
     POSITION: RELATIVE;
     left: 50%;
     transform: translateX(-50%);
-    top: 52px;
+    top: 38px;
     box-shadow: 5px 6px 5px #6868686b;
 }
 
@@ -590,7 +590,8 @@ H3 {
     margin-top: 80px;
     margin-bottom: 31px;
     position: relative;
-    top: 120px;
+    
+    top: 133px;
     font-size: 24px;
     font-family: 'Merriweather', serif;
   
