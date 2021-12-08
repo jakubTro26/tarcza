@@ -58,6 +58,7 @@ ul#menu-menu-1 {
 }
 
 .kontakt{
+    z-index: 1;
     border-radius: 25px;
     width: 752px;
     height: 316px;
