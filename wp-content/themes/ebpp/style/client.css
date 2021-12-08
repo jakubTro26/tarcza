@@ -1815,7 +1815,8 @@ margin: 20px;
 }
 
 .foothistoria{
-    top: 386px;
+    
+    top: 115px;
     
 }
 
@@ -1845,6 +1846,7 @@ margin: 20px;
     width: 200px;
 }
 .wrapperdol{
+    height: 1020px;
     z-index: 0;
     position: relative;
     top: 141px;
