@@ -761,7 +761,9 @@ H3 {
   }
 
   .n1,.n2,.n3,.n4,.n5,.n6,.n7{
+    position: relative;
     padding-left: 20px;
+    top: 22px;
   }
 
 
