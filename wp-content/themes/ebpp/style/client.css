@@ -1878,7 +1878,7 @@ margin: 20px;
 
 .tdcdiv{
     top: -26px;
-    z-index: -1;
+    z-index: 0;
     position: relative;
 }
 
