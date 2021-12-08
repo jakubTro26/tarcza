@@ -185,12 +185,14 @@ src="https://www.facebook.com/tr?id=1527878994231932&ev=PageView&noscript=1"
 			<div class="wrapper3">
 				<div class="carousel1">
 					<div class="s1">
-							<div class="i1">
-								<img class="o1" src="https://tarczadlaciebie.pl/wp-content/uploads/2021/12/P19.png">
-							</div>
-							<div class="z1">
-								<div class="t1">
-									Byłem tak zadowolony, że przekazałem kontakt do tarczy swojemu szwagrowi
+							<div class="box1">
+								<div class="i1">
+									<img class="o1" src="https://tarczadlaciebie.pl/wp-content/uploads/2021/12/P19.png">
+								</div>
+								<div class="z1">
+									<div class="t1">
+										Byłem tak zadowolony, że przekazałem kontakt do tarczy swojemu szwagrowi
+									</div>
 								</div>
 							</div>
 							<div class="belka">
@@ -203,12 +205,14 @@ src="https://www.facebook.com/tr?id=1527878994231932&ev=PageView&noscript=1"
 							</div>
 					</div>
 					<div class="s2">
-							<div div class="i2">
-								<img class="o2" src="https://tarczadlaciebie.pl/wp-content/uploads/2021/12/p20.png">
-							</div>
-							<div class="z2">
-								<div class="t2">
-									Są skuteczni
+							<div class="box2">
+								<div div class="i2">
+									<img class="o2" src="https://tarczadlaciebie.pl/wp-content/uploads/2021/12/p20.png">
+								</div>
+								<div class="z2">
+									<div class="t2">
+										Są skuteczni
+									</div>
 								</div>
 							</div>
 							<div class="belka">
@@ -221,12 +225,14 @@ src="https://www.facebook.com/tr?id=1527878994231932&ev=PageView&noscript=1"
 							</div>
 					</div>
 					<div class="s3">
-							<div div class="i3">
-								<img class="o3" src="https://tarczadlaciebie.pl/wp-content/uploads/2021/12/p21.png">
-							</div>
-							<div class="z3">
-								<div class="t3">
-									Bardzo fajny kontakt z doradcą prawnym
+							<div class="box3">
+								<div div class="i3">
+									<img class="o3" src="https://tarczadlaciebie.pl/wp-content/uploads/2021/12/p21.png">
+								</div>
+								<div class="z3">
+									<div class="t3">
+										Bardzo fajny kontakt z doradcą prawnym
+									</div>
 								</div>
 							</div>
 							<div class="belka">
@@ -239,12 +245,14 @@ src="https://www.facebook.com/tr?id=1527878994231932&ev=PageView&noscript=1"
 							</div>
 					</div>
 					<div class="s4">
-						<div div class="i4">
-							<img class="o4" src="https://tarczadlaciebie.pl/wp-content/uploads/2021/12/p22.png">
-						</div>
-							<div class="z4">
-								<div class="t4">
-									Mają wiedzę i doświadczenie
+							<div class="box4">
+								<div div class="i4">
+									<img class="o4" src="https://tarczadlaciebie.pl/wp-content/uploads/2021/12/p22.png">
+								</div>
+								<div class="z4">
+									<div class="t4">
+										Mają wiedzę i doświadczenie
+									</div>
 								</div>
 							</div>
 							<div class="belka">
@@ -258,12 +266,14 @@ src="https://www.facebook.com/tr?id=1527878994231932&ev=PageView&noscript=1"
 
 					</div>
 					<div class="s5">
-							<div div class="i5">
-								<img class="o5" src="https://tarczadlaciebie.pl/wp-content/uploads/2021/12/p23.png">
-							</div>
-							<div class="z5">
-								<div class="t5">
-									Są tani
+							<div class="box5">
+								<div div class="i5">
+									<img class="o5" src="https://tarczadlaciebie.pl/wp-content/uploads/2021/12/p23.png">
+								</div>
+								<div class="z5">
+									<div class="t5">
+										Są tani
+									</div>
 								</div>
 							</div>
 							<div class="belka">
