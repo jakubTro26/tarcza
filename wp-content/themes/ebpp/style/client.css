@@ -1813,3 +1813,16 @@ margin: 20px;
 .tarczafinansowa{
     
 }
+
+.wrappertraktor{
+    top:278px;
+}
+.wrapperhistoria{
+    position:relative;
+}
+.historiatraktor{
+    left: 24px;
+    position: absolute;
+    top: -104px;
+    width: 200px;
+}
