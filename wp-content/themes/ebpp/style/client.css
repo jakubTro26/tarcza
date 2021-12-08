@@ -1816,6 +1816,7 @@ margin: 20px;
 
 .wrappertraktor{
     top: 182px;
+    z-index: 1;
 }
 .wrapperhistoria{
     position:relative;
@@ -1829,4 +1830,9 @@ margin: 20px;
 
 .traktorimg{
     width: 200px;
+}
+.wrapperdol{
+    z-index: 0;
+    position: relative;
+    top: 141px;
 }
