@@ -102,6 +102,13 @@ li.upper_menu_item {
     transition-timing-function: linear;
 }
 
+
+.opisformularz{
+    position: relative;
+    top: 31px;
+}
+
+
     li.upper_menu_item a {
         text-align:center;
         color: #fff;
