@@ -118,7 +118,7 @@ src="https://www.facebook.com/tr?id=1527878994231932&ev=PageView&noscript=1"
 			</div>
 		</div>
 	</div>
-	<div class="wrapperfinanse2 wrappertraktor">
+	<div class="wrapperfinanse2 wrapperbudynek">
 			
 				<div class="sa1">
 					
@@ -154,7 +154,7 @@ src="https://www.facebook.com/tr?id=1527878994231932&ev=PageView&noscript=1"
 				
 				</div>
 		</div>
-		<div class="wrapperfinanse2">
+		<div class="wrapperfinanse2 wrappertraktor">
 			
 			<div class="sa1">
 				
