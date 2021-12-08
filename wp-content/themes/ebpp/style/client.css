@@ -50,7 +50,7 @@ ul#menu-menu-1 {
 }
 
 .wpcf7-form{
-    padding:78px;
+    padding-top: 111px;
 }
 
 .kontakt2{
@@ -70,6 +70,19 @@ ul#menu-menu-1 {
     box-shadow: 5px 6px 5px #6868686b;
 }
 
+
+.formularzopis{
+    position: relative;
+    top: 35px;
+}
+
+.foopis2{
+    width: min-content;
+    white-space: nowrap;
+    position: relative;
+    left: 261px;
+    font-size: 10px;
+}
 
 .wrapper2{
     /* background-image: url("https://tarczadlaciebie.pl/wp-content/uploads/2021/12/Main-photo-2.png"); */
