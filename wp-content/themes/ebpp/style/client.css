@@ -1635,7 +1635,7 @@ margin: 20px;
   }
 
   .historiapodpis{
-    margin-bottom: 35px;
+    
     margin-top: 34px;
     margin-bottom: 35px;
   }
@@ -1687,9 +1687,15 @@ margin: 20px;
     margin-bottom: 42px;
   }
   .opisdol{
-    width: 989px;
+    width: 952px;
+    margin: auto;
   }
 
+
+  .podpis2doll{
+    margin: auto;
+    width: 1000px;
+  }
   .podpis2g1{
     margin-top: 30px;
     display: flex;
