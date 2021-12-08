@@ -574,13 +574,13 @@ H3 {
 }
 
 .specjalizujemy{
+    margin-top: 80px;
     margin-bottom: 31px;
     position: relative;
     top: 83px;
     font-size: 24px;
     font-family: 'Merriweather', serif;
-    margin-top: 25px;
-    margin-top: 55px;
+  
 }
 
 
@@ -1885,7 +1885,7 @@ margin: 20px;
 }
 
 .tdcdiv2{
-    top: -26px;
+    top: -55px;
     z-index: -1;
     position: relative;
 }
