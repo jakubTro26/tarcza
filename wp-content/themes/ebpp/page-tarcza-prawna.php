@@ -101,6 +101,14 @@ src="https://www.facebook.com/tr?id=1527878994231932&ev=PageView&noscript=1"
 			<div class="kontakt2 kontakt ">
 				<div class="ozdoba">
 						<img src="https://tarczadlaciebie.pl/wp-content/uploads/2021/12/p8.png">
+						<div class="formularzopis">
+							<div class="foopis1">
+								FORMULARZ KONTAKTOWY
+							</div>
+							<div class="foopis2">
+								*Pola obowiązkowe oznaczono gwiazdką
+							</div>
+						</div>
 				</div>
 			<?php echo do_shortcode('[contact-form-7 id="97" title="Formularz 1"]'); ?>
 			</div>
