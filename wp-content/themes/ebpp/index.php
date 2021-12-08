@@ -118,11 +118,11 @@ src="https://www.facebook.com/tr?id=1527878994231932&ev=PageView&noscript=1"
 			<div class="kontakt">
 				<div class="ozdoba">
 						<img src="https://tarczadlaciebie.pl/wp-content/uploads/2021/12/p8.png">
-						<div class="formularzopis">
-							<div class="foopis1">
+						<div class="opisformularz">
+							<div class="fooopis1">
 									FORMULARZ KONTAKTOWY
 							</div>
-							<div class="foopis2">
+							<div class="fooopis2">
 								*Pola obowiązkowe oznaczono gwiazdką
 							</div>
 						</div>
