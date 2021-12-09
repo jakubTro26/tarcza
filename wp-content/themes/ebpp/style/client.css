@@ -1788,8 +1788,13 @@ margin: 20px;
 }
 
 .imgkontaktk img{
-    display:block;
-    margin:auto;
+    display: block;
+    width: 107px;
+    margin: auto;
+}
+
+.imgkontakt img{
+    width: 107px;
 }
 
 .phonekontakt{
