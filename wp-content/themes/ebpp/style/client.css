@@ -835,18 +835,19 @@ H3 {
 }
 
 .przedstawiamy{
-    left: 217px;
+    left: 231px;
     color: #6a6a6a;
     width: 414px;
     position: relative;
-    top: 62px;
+    top: 135px;
 }
 
 .miliony{
     left: 112px;
     display: flex;
     position: relative;
-    top: 116.1px;
+    top: 167.1px;
+
 }
 
 .k1{
@@ -878,7 +879,7 @@ H3 {
     left: 663px;
     display: flex;
     position: relative;
-    top: 132.1px;
+    top: 168.1px;
 }
 
 .s1,.s2,.s3,.s4,.s5{
