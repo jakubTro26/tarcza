@@ -1471,8 +1471,10 @@ position: relative;
 }
 
 .kwtxt21,.kwtxt22,.kwtxt23,.kwtxt24,.kwtxt25,.kwtxt26,.kwtxt27,.kwtxt28,.kwtxt29{
+    padding-top: 21px;
     font-size: 14px;
-    width: 300px;
+    width: 261px;
+    margin: auto;
 
 }
 
