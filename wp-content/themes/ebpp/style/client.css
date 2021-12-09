@@ -1251,6 +1251,7 @@ H3 {
 }
 
 .oopis{
+    top: 29px;
     position: relative;
     width: 410px;
     color: gray;
