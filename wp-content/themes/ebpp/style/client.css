@@ -1386,11 +1386,11 @@ H3 {
 
 .starcza{
     
-    background-position: 338px 20px;
+    background-position: 525px 20px;
     background-repeat: no-repeat;
-    background-image: url(https://tarczadlaciebie.pl/wp-content/uploads/2021/12/p45.png);
+    background-image: url('https://tarczadlaciebie.pl/wp-content/uploads/2021/12/p45.png');
     background-size: 610px;
-}
+
 }
 
 .napisto{
