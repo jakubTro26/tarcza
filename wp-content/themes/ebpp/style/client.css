@@ -1793,17 +1793,22 @@ margin: 20px;
 }
 
 .phonekontakt{
+    width: 366px;
     background: white;
     border-radius: 20px;
     padding: 20px 108px;
+    height: 210px;
 }
 
 .kopertakontakt{
+    width: 366px;
     background: white;
     border-radius: 20px;
     position: absolute;
     right: 0px;
     padding: 24px 69px;
+    height: 214px;
+    top: -4px;
 }
 
 .footer{
