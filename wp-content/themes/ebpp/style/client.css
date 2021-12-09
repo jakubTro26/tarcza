@@ -1352,6 +1352,8 @@ H3 {
 
 .wrapperDlaczego{
     position:relative;
+    background:white;
+    top: -110px;
 }
 
 .dmedals1{
@@ -1868,7 +1870,10 @@ margin: 20px;
 }
 
 .wrappertarczato{
+    background: white;
     height: 1330px;
+    top: -160px;
+    position: relative;
 }
 
 .tarczafinansowa{
